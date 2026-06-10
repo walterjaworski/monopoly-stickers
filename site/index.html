@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meus Stickers - Monopoly GO</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🎲 Meus Stickers</h1>
+    <p class="subtitle" id="subtitle">Monopoly GO</p>
+  </header>
+
+  <main>
+    <section class="progresso" id="progresso">
+      <div class="stats">
+        <strong id="stat-tenho">0</strong> tenho ·
+        <strong id="stat-falta">0</strong> faltando ·
+        <strong id="stat-dup">0</strong> duplicatas
+      </div>
+      <div class="barra-container">
+        <div class="barra" id="barra-progresso"></div>
+      </div>
+    </section>
+
+    <section class="filtros">
+      <input type="text" id="busca" placeholder="Buscar sticker...">
+      <select id="filtro-set">
+        <option value="">Todos os sets</option>
+      </select>
+      <select id="filtro-status">
+        <option value="">Todos os status</option>
+        <option value="tenho">Tenho</option>
+        <option value="falta">Faltando</option>
+        <option value="duplicata">Duplicatas</option>
+      </select>
+    </section>
+
+    <section class="album" id="album"></section>
+  </main>
+
+  <footer>
+    Atualizado em: <span id="atualizado-em">—</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
