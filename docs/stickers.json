@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-10T14:31:05.488Z",
+  "atualizadoEm": "2026-06-10T16:23:00.459Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -11,7 +11,7 @@
         {
           "nome": "Marge",
           "nomeEn": "Marge",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -59,7 +59,7 @@
         {
           "nome": "Vovô Simpson",
           "nomeEn": "Grampa Simpson",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         }
       ]
@@ -461,7 +461,7 @@
         {
           "nome": "Homem Elástico",
           "nomeEn": "Elastic Man",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -1127,7 +1127,7 @@
         {
           "nome": "Condutor de monotrilho",
           "nomeEn": "Monorail Conductor",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
