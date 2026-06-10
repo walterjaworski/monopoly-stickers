@@ -148,7 +148,7 @@ function render(stickers, filtros) {
           const gold = isGold(s.raridade);
           return `
             <div class="sticker ${cls} ${gold ? 'gold' : ''}">
-              ${s.tenho > 1 ? `<span class="badge-dup">${s.tenho - 1}</span>` : ''}
+              ${s.tenho > 1 ? `<span class="badge-dup">+${s.tenho - 1}</span>` : ''}
               <div class="estrelas">${estrelas(s.raridade)}</div>
               <div class="sticker-nome">${nomeDisplay(s)}</div>
             </div>
