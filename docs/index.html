@@ -3,21 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meus Stickers - Monopoly GO</title>
+  <title data-i18n="title">Meus Stickers - Monopoly GO</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>🎲 Meus Stickers</h1>
+    <h1 data-i18n="heading">🎲 Meus Stickers</h1>
     <p class="subtitle" id="subtitle">Monopoly GO</p>
+    <div class="lang-toggle">
+      <button class="lang-btn active" data-lang="pt" title="Português">🇧🇷</button>
+      <button class="lang-btn" data-lang="en" title="English">🇺🇸</button>
+    </div>
+    <p class="header-date"><span data-i18n="footer">Atualizado em:</span> <span id="atualizado-em">—</span></p>
   </header>
 
   <main>
     <section class="progresso" id="progresso">
-      <div class="stats">
-        <strong id="stat-tenho">0</strong> tenho ·
-        <strong id="stat-falta">0</strong> faltando ·
-        <strong id="stat-dup">0</strong> duplicatas
+      <div class="stats" id="stats">
+        <strong id="stat-tenho">0</strong> <span data-i18n="stat-tenho">tenho</span> ·
+        <strong id="stat-falta">0</strong> <span data-i18n="stat-falta">faltando</span> ·
+        <strong id="stat-dup">0</strong> <span data-i18n="stat-dup">duplicatas</span>
       </div>
       <div class="barra-container">
         <div class="barra" id="barra-progresso"></div>
@@ -25,24 +30,22 @@
     </section>
 
     <section class="filtros">
-      <input type="text" id="busca" placeholder="Buscar sticker...">
+      <input type="text" id="busca" data-i18n-placeholder="busca-placeholder" placeholder="Buscar sticker...">
       <select id="filtro-set">
-        <option value="">Todos os sets</option>
+        <option value="" data-i18n="filtro-set-all">Todos os sets</option>
       </select>
       <select id="filtro-status">
-        <option value="">Todos os status</option>
-        <option value="tenho">Tenho</option>
-        <option value="falta">Faltando</option>
-        <option value="duplicata">Duplicatas</option>
+        <option value="" data-i18n="filtro-status-all">Todos os status</option>
+        <option value="tenho" data-i18n="filtro-status-tenho">Tenho</option>
+        <option value="falta" data-i18n="filtro-status-falta">Faltando</option>
+        <option value="duplicata" data-i18n="filtro-status-dup">Duplicatas</option>
       </select>
     </section>
 
     <section class="album" id="album"></section>
   </main>
 
-  <footer>
-    Atualizado em: <span id="atualizado-em">—</span>
-  </footer>
+  <footer></footer>
 
   <script src="app.js"></script>
 </body>

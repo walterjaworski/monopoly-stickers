@@ -1,54 +1,64 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-10T13:10:43.720Z",
+  "atualizadoEm": "2026-06-10T14:07:09.598Z",
   "totalStickers": 189,
   "sets": [
     {
       "nome": "Os Simpsons",
+      "nomeEn": "The Simpsons",
       "stickers": [
         {
           "nome": "Marge",
+          "nomeEn": "Marge",
           "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Bart",
+          "nomeEn": "Bart",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Lisa",
+          "nomeEn": "Lisa",
           "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Patty e Selma",
+          "nomeEn": "Patty and Selma",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Homer",
+          "nomeEn": "Homer",
           "tenho": 0,
           "raridade": 1
         },
         {
           "nome": "Maggie",
+          "nomeEn": "Maggie",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Ajudante de Papai Noel",
+          "nomeEn": "Santa's Little Helper",
           "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Bola de neve 2",
-          "tenho": 2,
+          "nomeEn": "Snowball 2",
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Vovô Simpson",
+          "nomeEn": "Grampa Simpson",
           "tenho": 0,
           "raridade": 1
         }
@@ -56,49 +66,59 @@
     },
     {
       "nome": "Treinamento de Monopoly",
+      "nomeEn": "Monopoly Training",
       "stickers": [
         {
           "nome": "Weee!",
+          "nomeEn": "Weee!",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Dia de pagamento",
+          "nomeEn": "Pay Day",
           "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Hora da soneca",
+          "nomeEn": "Nap Time",
           "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Hora do intervalo",
+          "nomeEn": "Break Time",
           "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "À venda",
+          "nomeEn": "For Sale",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Em guarda",
+          "nomeEn": "On Guard",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "D’Oh",
+          "nomeEn": "D’Oh",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Lanche energético",
+          "nomeEn": "Energy Drink",
           "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Uau ahh",
+          "nomeEn": "Woo Hoo!",
           "tenho": 2,
           "raridade": 1
         }
@@ -106,49 +126,59 @@
     },
     {
       "nome": "Amigos e familiares",
+      "nomeEn": "Friends and Family",
       "stickers": [
         {
           "nome": "Herb Powell",
+          "nomeEn": "Herb Powell",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Kumiko",
+          "nomeEn": "Kumiko",
           "tenho": 0,
           "raridade": 1
         },
         {
           "nome": "Apu e Manjula",
+          "nomeEn": "Apu and Manjula",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Lenny e Carl",
+          "nomeEn": "Lenny and Carl",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Os Van Houtens",
+          "nomeEn": "The Van Houtens",
           "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Reverendo Lovejoy",
+          "nomeEn": "Reverend Lovejoy",
           "tenho": 0,
           "raridade": 1
         },
         {
           "nome": "Os Hibberts",
+          "nomeEn": "The Hibberts",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Os valentões",
+          "nomeEn": "The Bullies",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Jacqueline Bouvier",
+          "nomeEn": "Jacqueline Bouvier",
           "tenho": 1,
           "raridade": 2
         }
@@ -156,49 +186,59 @@
     },
     {
       "nome": "Propriedade de Ned Flanders",
+      "nomeEn": "Ned Flanders' Property",
       "stickers": [
         {
           "nome": "Que mané!",
+          "nomeEn": "Diddily!",
           "tenho": 0,
           "raridade": 1
         },
         {
           "nome": "Homer esperto",
+          "nomeEn": "Smart Homer",
           "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Cai fora, Ned",
+          "nomeEn": "Scram, Ned",
           "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Vamos!",
+          "nomeEn": "Let's Go!",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Vamos lá!",
+          "nomeEn": "Come On!",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Bom gatinho",
+          "nomeEn": "Good Kitty",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Não fui eu",
+          "nomeEn": "Not Me",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Muito lento",
+          "nomeEn": "Too Slow",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Vizinholá!",
+          "nomeEn": "Neighborino!",
           "tenho": 1,
           "raridade": 2
         }
@@ -206,49 +246,59 @@
     },
     {
       "nome": "Isso é Springfield",
+      "nomeEn": "That's Springfield",
       "stickers": [
         {
           "nome": "Nozes e Chiclete",
+          "nomeEn": "Nuts and Gum",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Cereal do Krusty",
+          "nomeEn": "Krusty Cereal",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Pimenta da insanidade",
-          "tenho": 3,
+          "nomeEn": "Insanity Pepper",
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Costeletas de porco",
+          "nomeEn": "Pork Chops",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Raspadinha",
+          "nomeEn": "Scratch-R",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Krusty Burger",
+          "nomeEn": "Krusty Burger",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Espaguete do Luigi",
+          "nomeEn": "Luigi's Spaghetti",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Goma de Vênus",
-          "tenho": 0,
+          "nomeEn": "Venus Gum",
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Buzz Cola",
+          "nomeEn": "Buzz Cola",
           "tenho": 2,
           "raridade": 2
         }
@@ -256,49 +306,59 @@
     },
     {
       "nome": "Pinos amigos",
+      "nomeEn": "Bowling Pals",
       "stickers": [
         {
           "nome": "Vamos jogar boliche",
+          "nomeEn": "Let's Go Bowling",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Você joga boliche?",
+          "nomeEn": "Do You Bowl?",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Uau! Que inveja!",
+          "nomeEn": "Woo Hoo! So Jealous!",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Feio, feio",
+          "nomeEn": "Ugly, Ugly",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Campeão do boliche",
+          "nomeEn": "Bowling Champ",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Boa!",
+          "nomeEn": "Nice!",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Garra contra garra",
+          "nomeEn": "Claw Claw",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "O velho ganha ouro",
+          "nomeEn": "Old Man Wins Gold",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Colegas de equipe",
+          "nomeEn": "Teammates",
           "tenho": 1,
           "raridade": 2
         }
@@ -306,49 +366,59 @@
     },
     {
       "nome": "Aventura da Maggie",
+      "nomeEn": "Maggie's Adventure",
       "stickers": [
         {
           "nome": "Dedal",
+          "nomeEn": "Thimble",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Dados",
+          "nomeEn": "Dice",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Casa rica",
+          "nomeEn": "Rich House",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Estação de água",
+          "nomeEn": "Water Works",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Scottie",
+          "nomeEn": "Scottie",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Bum!",
+          "nomeEn": "Boom!",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Passando pelo Go",
+          "nomeEn": "Passing Go",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Saindo da cadeia",
+          "nomeEn": "Get Out of Jail",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Passeio de trem",
+          "nomeEn": "Train Ride",
           "tenho": 0,
           "raridade": 3
         }
@@ -356,49 +426,59 @@
     },
     {
       "nome": "Heróis de Springfield",
+      "nomeEn": "Springfield Heroes",
       "stickers": [
         {
           "nome": "Bartman",
-          "tenho": 1,
+          "nomeEn": "Bartman",
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Homem Torta",
+          "nomeEn": "Pie Man",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Ondas de calor",
-          "tenho": 0,
+          "nomeEn": "Heat Waves",
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Homem-Abelha",
+          "nomeEn": "Bee Man",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Homem Radioativo",
+          "nomeEn": "Radioactive Man",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Homem Elástico",
+          "nomeEn": "Elastic Man",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Mulher Marrenta",
-          "tenho": 0,
+          "nomeEn": "Stink Woman",
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Caidaço Boy",
+          "nomeEn": "Fallout Boy",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Batman das frutas",
+          "nomeEn": "Fruit Batman",
           "tenho": 0,
           "raridade": 3
         }
@@ -406,49 +486,59 @@
     },
     {
       "nome": "Homie conhece Marge",
+      "nomeEn": "Homie Meets Marge",
       "stickers": [
         {
           "nome": "Surgem borboletas",
+          "nomeEn": "Butterflies",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Pompitus",
+          "nomeEn": "Pompitus",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Você quer?",
+          "nomeEn": "Do You?",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Eu aceito",
+          "nomeEn": "I Do",
           "tenho": 0,
           "raridade": 2
         },
         {
           "nome": "Carona por ai",
+          "nomeEn": "Hitchhiking",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Oh Homie",
+          "nomeEn": "Oh Homie",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Encontro romântico",
+          "nomeEn": "Romantic Date",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Beijos",
+          "nomeEn": "Kisses",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Aceito de novo",
+          "nomeEn": "I Do Again",
           "tenho": 0,
           "raridade": 3
         }
@@ -456,49 +546,59 @@
     },
     {
       "nome": "Mil empregos de Marge",
+      "nomeEn": "Marge's Many Jobs",
       "stickers": [
         {
           "nome": "Policial Marge",
+          "nomeEn": "Police Marge",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Pintora",
+          "nomeEn": "Painter",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Corretora de imóveis",
+          "nomeEn": "Real Estate Agent",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Escritora de romances",
+          "nomeEn": "Romance Writer",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Fabricante de pretzels",
+          "nomeEn": "Pretzel Maker",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Prefeita",
+          "nomeEn": "Mayor",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Fisiculturista",
+          "nomeEn": "Bodybuilder",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Garçonete",
+          "nomeEn": "Waitress",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Atriz",
+          "nomeEn": "Actress",
           "tenho": 1,
           "raridade": 3
         }
@@ -506,49 +606,59 @@
     },
     {
       "nome": "Antigos rivais",
+      "nomeEn": "Old Rivals",
       "stickers": [
         {
           "nome": "Te peguei agora!",
+          "nomeEn": "Caught Ya!",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Fúria no trânsito",
+          "nomeEn": "Road Rage",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Sorriso maligno",
+          "nomeEn": "Evil Smile",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Eletricidade",
+          "nomeEn": "Electricity",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "No rosto não!",
+          "nomeEn": "Not The Face!",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Aniversário",
+          "nomeEn": "Birthday",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Valeu a pena!",
+          "nomeEn": "Worth It!",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Excelente!",
+          "nomeEn": "Excellent!",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Corrida de cães",
+          "nomeEn": "Dog Race",
           "tenho": 0,
           "raridade": 3
         }
@@ -556,49 +666,59 @@
     },
     {
       "nome": "Escola primária",
+      "nomeEn": "Elementary School",
       "stickers": [
         {
           "nome": "Ralph Wiggum",
+          "nomeEn": "Ralph Wiggum",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Sherri e Terri",
-          "tenho": 0,
+          "nomeEn": "Sherri and Terri",
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Milhouse Van Houten",
+          "nomeEn": "Milhouse Van Houten",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Nelson Muntz",
+          "nomeEn": "Nelson Muntz",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Martin Prince",
+          "nomeEn": "Martin Prince",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Hubert Wong",
+          "nomeEn": "Hubert Wong",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Allison Taylor",
-          "tenho": 0,
+          "nomeEn": "Allison Taylor",
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Uter Zorker",
+          "nomeEn": "Uter Zorker",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Janey Powell",
+          "nomeEn": "Janey Powell",
           "tenho": 0,
           "raridade": 4
         }
@@ -606,49 +726,59 @@
     },
     {
       "nome": "Animais exóticos",
+      "nomeEn": "Exotic Animals",
       "stickers": [
         {
           "nome": "Bilú bilú",
+          "nomeEn": "Blu Bloo",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Porco-Aranha",
+          "nomeEn": "Spider-Pig",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Princesa",
+          "nomeEn": "Princess",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Panda ilegal",
-          "tenho": 0,
+          "nomeEn": "Illegal Panda",
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Sr. Teeny",
+          "nomeEn": "Mr. Teeny",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Beliscão",
+          "nomeEn": "Pinchy",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Lagarta-Gritante",
+          "nomeEn": "Screaming Caterpillar",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Pisoteador",
+          "nomeEn": "Stomper",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Blinky",
+          "nomeEn": "Blinky",
           "tenho": 1,
           "raridade": 9
         }
@@ -656,49 +786,59 @@
     },
     {
       "nome": "Cantoria",
+      "nomeEn": "Singing",
       "stickers": [
         {
           "nome": "Bebê a bordo",
+          "nomeEn": "Baby on Board",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "NÃO EU!",
+          "nomeEn": "NOT ME!",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Últimos pedidos",
+          "nomeEn": "Last Call",
           "tenho": 0,
           "raridade": 3
         },
         {
           "nome": "Nós fazemos!",
+          "nomeEn": "We Do!",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Veja meu colete!",
+          "nomeEn": "See My Vest!",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Springfield",
+          "nomeEn": "Springfield",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Mixtape",
+          "nomeEn": "Mixtape",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Pobre coitado",
+          "nomeEn": "Poor Soul",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Blues da Lisa",
+          "nomeEn": "Lisa's Blues",
           "tenho": 0,
           "raridade": 5
         }
@@ -706,49 +846,59 @@
     },
     {
       "nome": "Presunto nota 10!",
+      "nomeEn": "Top Notch Ham!",
       "stickers": [
         {
           "nome": "Inesquecível",
+          "nomeEn": "Unforgettable",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Assado queimado",
+          "nomeEn": "Burnt Roast",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Ho! Ho! Ho!",
+          "nomeEn": "Ho! Ho! Ho!",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Só alongando",
+          "nomeEn": "Just Stretching",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Presuntos defumados",
+          "nomeEn": "Smoked Hams",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Obviamente grelhados",
+          "nomeEn": "Obviously Grilled",
           "tenho": 1,
           "raridade": 9
         },
         {
           "nome": "Posso ver?",
+          "nomeEn": "Can I See?",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Aurora boreal",
+          "nomeEn": "Aurora Borealis",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Luzes do norte",
+          "nomeEn": "Northern Lights",
           "tenho": 0,
           "raridade": 10
         }
@@ -756,49 +906,59 @@
     },
     {
       "nome": "Memes amados",
+      "nomeEn": "Beloved Memes",
       "stickers": [
         {
           "nome": "Estou em perigo",
+          "nomeEn": "I'm In Danger",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Grita pra nuvem",
+          "nomeEn": "Shout at Cloud",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Deslizando",
+          "nomeEn": "Sliding",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Lisa apresenta",
+          "nomeEn": "Lisa Presents",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Homer no arbusto",
+          "nomeEn": "Homer in Bush",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Mais café",
+          "nomeEn": "More Coffee",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Um de nós",
+          "nomeEn": "One of Us",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Estúpido e sexy Flanders",
+          "nomeEn": "Stupid Sexy Flanders",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Pior adesivo de todos",
+          "nomeEn": "Worst Sticker Ever",
           "tenho": 1,
           "raridade": 11
         }
@@ -806,49 +966,59 @@
     },
     {
       "nome": "Comichão e Coçadinha",
+      "nomeEn": "Itchy and Scratchy",
       "stickers": [
         {
           "nome": "Corre, Coçadinha!",
+          "nomeEn": "Run, Scratchy!",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Cuidado",
+          "nomeEn": "Watch Out",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Empanturrado",
+          "nomeEn": "Stuffed",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Ataque cardíaco",
+          "nomeEn": "Heart Attack",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Passou por cima",
+          "nomeEn": "Run Over",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Não ria!",
+          "nomeEn": "Don't Laugh!",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Transbordando",
+          "nomeEn": "Overflowing",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Demolição",
+          "nomeEn": "Demolition",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Vá para a estação",
+          "nomeEn": "Go to the Station",
           "tenho": 0,
           "raridade": 11
         }
@@ -856,49 +1026,59 @@
     },
     {
       "nome": "Taverna Moe",
+      "nomeEn": "Moe's Tavern",
       "stickers": [
         {
           "nome": "Do Moe",
+          "nomeEn": "Moe's",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "De trapos a trapos",
+          "nomeEn": "Rags to Rags",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Testador de amor",
+          "nomeEn": "Love Tester",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Ovos em conserva",
+          "nomeEn": "Pickled Eggs",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Barney Gumble",
+          "nomeEn": "Barney Gumble",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Trote telefônico",
+          "nomeEn": "Phone Prank",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Lenny Leonard",
+          "nomeEn": "Lenny Leonard",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Carl Carlson",
+          "nomeEn": "Carl Carlson",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Mesa de sinuca",
+          "nomeEn": "Pool Table",
           "tenho": 0,
           "raridade": 11
         }
@@ -906,49 +1086,59 @@
     },
     {
       "nome": "Mil empregos de Homer",
+      "nomeEn": "Homer's Many Jobs",
       "stickers": [
         {
           "nome": "Boxeador",
+          "nomeEn": "Boxer",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Saneamento",
+          "nomeEn": "Sanitation",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Trabalhador remoto",
+          "nomeEn": "Remote Worker",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Segurança",
+          "nomeEn": "Security Guard",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Astronauta",
+          "nomeEn": "Astronaut",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Mascote",
+          "nomeEn": "Mascot",
           "tenho": 1,
           "raridade": 5
         },
         {
           "nome": "Condutor de monotrilho",
+          "nomeEn": "Monorail Conductor",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Os Bem Afinados",
+          "nomeEn": "The B Sharps",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Sr. Escavadeira",
+          "nomeEn": "Mr. Plow",
           "tenho": 0,
           "raridade": 11
         }
@@ -956,49 +1146,59 @@
     },
     {
       "nome": "Alta sociedade",
+      "nomeEn": "High Society",
       "stickers": [
         {
           "nome": "Kent Brockman",
+          "nomeEn": "Kent Brockman",
           "tenho": 1,
           "raridade": 9
         },
         {
           "nome": "Sra. Vanderbilt",
+          "nomeEn": "Mrs. Vanderbilt",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Prefeito Quimby",
+          "nomeEn": "Mayor Quimby",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Texano rico",
+          "nomeEn": "Rich Texan",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Sr. Burns",
+          "nomeEn": "Mr. Burns",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Hank Scorpio",
+          "nomeEn": "Hank Scorpio",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Ranier Wolfcastle",
+          "nomeEn": "Ranier Wolfcastle",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Drederick Tatum",
+          "nomeEn": "Drederick Tatum",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Krusty, o palhaço",
+          "nomeEn": "Krusty the Clown",
           "tenho": 1,
           "raridade": 11
         }
@@ -1006,49 +1206,59 @@
     },
     {
       "nome": "Momentos icônicos",
+      "nomeEn": "Iconic Moments",
       "stickers": [
         {
           "nome": "Bloqueador Solar",
+          "nomeEn": "Sunblocker",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "O sanduíche do Homer",
+          "nomeEn": "Homer's Sandwich",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Pisar no ancinho",
+          "nomeEn": "Rake Step",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Faça por ela",
+          "nomeEn": "Do It For Her",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Sr. Faísca",
+          "nomeEn": "Mr. Sparkle",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Sr. Snrub",
+          "nomeEn": "Mr. Snrub",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Cara incógnito",
+          "nomeEn": "Mystery Guy",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Salto do desfiladeiro",
+          "nomeEn": "Canyon Leap",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Marge elegante",
+          "nomeEn": "Fancy Marge",
           "tenho": 0,
           "raridade": 11
         }

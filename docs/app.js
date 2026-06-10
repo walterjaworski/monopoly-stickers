@@ -9,9 +9,89 @@ function isGold(raridade) {
   return RARIDADE_GOLD.includes(raridade);
 }
 
+const i18n = {
+  pt: {
+    'title': 'Meus Stickers - Monopoly GO',
+    'heading': '🎲 Meus Stickers',
+    'stat-tenho': 'tenho',
+    'stat-falta': 'faltando',
+    'stat-dup': 'duplicatas',
+    'busca-placeholder': 'Buscar sticker...',
+    'filtro-set-all': 'Todos os sets',
+    'filtro-status-all': 'Todos os status',
+    'filtro-status-tenho': 'Tenho',
+    'filtro-status-falta': 'Faltando',
+    'filtro-status-dup': 'Duplicatas',
+    'footer': 'Atualizado em:',
+    'error-load': 'Erro ao carregar stickers. Execute o script de captura primeiro.',
+  },
+  en: {
+    'title': 'My Stickers - Monopoly GO',
+    'heading': '🎲 My Stickers',
+    'stat-tenho': 'have',
+    'stat-falta': 'missing',
+    'stat-dup': 'duplicates',
+    'busca-placeholder': 'Search sticker...',
+    'filtro-set-all': 'All sets',
+    'filtro-status-all': 'All status',
+    'filtro-status-tenho': 'Have',
+    'filtro-status-falta': 'Missing',
+    'filtro-status-dup': 'Duplicates',
+    'footer': 'Updated:',
+    'error-load': 'Error loading stickers. Run the capture script first.',
+  },
+};
+
+let lingua = localStorage.getItem('lingua') || 'pt';
+let dadosStickers = null;
+
+function tr(key) {
+  return i18n[lingua][key] || i18n['pt'][key] || key;
+}
+
+function aplicarTraducao() {
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    el.textContent = tr(el.dataset.i18n);
+  });
+  document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+    el.placeholder = tr(el.dataset.i18nPlaceholder);
+  });
+  document.documentElement.lang = lingua === 'pt' ? 'pt-BR' : 'en';
+
+  if (dadosStickers) {
+    const select = document.getElementById('filtro-set');
+    const currentVal = select.value;
+    select.innerHTML = `<option value="">${tr('filtro-set-all')}</option>`;
+    dadosStickers.sets.forEach(s => {
+      const opt = document.createElement('option');
+      opt.value = s.nome;
+      opt.textContent = lingua === 'en' ? (s.nomeEn || s.nome) : s.nome;
+      select.appendChild(opt);
+    });
+    select.value = currentVal;
+  }
+}
+
+function toggleLingua(l) {
+  lingua = l;
+  localStorage.setItem('lingua', l);
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === l);
+  });
+  aplicarTraducao();
+  if (typeof window.onChange === 'function') window.onChange();
+}
+
+function nomeDisplay(s) {
+  return lingua === 'en' ? (s.nomeEn || s.nome) : s.nome;
+}
+
+function nomeSetDisplay(set) {
+  return lingua === 'en' ? (set.nomeEn || set.nome) : set.nome;
+}
+
 function render(stickers, filtros) {
   const album = document.getElementById('album');
-  const selectSet = document.getElementById('filtro-set');
   const busca = (filtros?.busca || '').toLowerCase();
   const setFiltro = filtros?.set || '';
   const statusFiltro = filtros?.status || '';
@@ -28,7 +108,10 @@ function render(stickers, filtros) {
     let stickersSet = set.stickers;
 
     if (busca) {
-      stickersSet = stickersSet.filter(s => s.nome.toLowerCase().includes(busca));
+      stickersSet = stickersSet.filter(s =>
+        nomeDisplay(s).toLowerCase().includes(busca) ||
+        s.nomeEn?.toLowerCase().includes(busca)
+      );
     }
 
     if (statusFiltro === 'tenho') {
@@ -56,7 +139,7 @@ function render(stickers, filtros) {
 
     div.innerHTML = `
       <div class="set-header">
-        <span>${set.nome}</span>
+        <span>${nomeSetDisplay(set)}</span>
         <span class="set-progresso">${progressoSet}</span>
       </div>
       <div class="stickers-grid">
@@ -66,9 +149,8 @@ function render(stickers, filtros) {
           return `
             <div class="sticker ${cls} ${gold ? 'gold' : ''}">
               ${s.tenho > 1 ? `<span class="badge-dup">${s.tenho}</span>` : ''}
-              <div class="sticker-indicator">${s.tenho > 0 ? '✔' : '—'}</div>
-              <div class="sticker-nome">${s.nome}</div>
               <div class="estrelas">${estrelas(s.raridade)}</div>
+              <div class="sticker-nome">${nomeDisplay(s)}</div>
             </div>
           `;
         }).join('')}
@@ -91,19 +173,12 @@ async function main() {
     const resp = await fetch('stickers.json');
     const data = await resp.json();
 
+    dadosStickers = data;
+
     document.getElementById('subtitle').textContent =
-      `${data.album} · ${data.locale.toUpperCase()}`;
+      `Monopoly GO · ${data.locale.toUpperCase()}`;
     document.getElementById('atualizado-em').textContent =
       new Date(data.atualizadoEm).toLocaleString('pt-BR');
-
-    // Popular select de sets
-    const select = document.getElementById('filtro-set');
-    data.sets.forEach(s => {
-      const opt = document.createElement('option');
-      opt.value = s.nome;
-      opt.textContent = s.nome;
-      select.appendChild(opt);
-    });
 
     function getFiltros() {
       return {
@@ -113,18 +188,21 @@ async function main() {
       };
     }
 
-    function onChange() {
-      render(data, getFiltros());
-    }
-
+    window.onChange = function() {
+      render(dadosStickers, getFiltros());
+    };
     document.getElementById('busca').addEventListener('input', onChange);
     document.getElementById('filtro-set').addEventListener('change', onChange);
     document.getElementById('filtro-status').addEventListener('change', onChange);
 
-    render(data, getFiltros());
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+      btn.addEventListener('click', () => toggleLingua(btn.dataset.lang));
+    });
+
+    toggleLingua(lingua);
   } catch (err) {
     document.getElementById('album').innerHTML =
-      '<p style="text-align:center;color:#e55;padding:2rem;">Erro ao carregar stickers. Execute o script de captura primeiro.</p>';
+      `<p style="text-align:center;color:#e55;padding:2rem;">${tr('error-load')}</p>`;
     console.error(err);
   }
 }

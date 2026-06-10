@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "capture": "node captura-stickers.js",
-    "dev": "npx serve docs/ -l 3000"
+    "dev": "npx serve docs/ -p 3000"
   },
   "dependencies": {
     "playwright": "^1.52.0"
