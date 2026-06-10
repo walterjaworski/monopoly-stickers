@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const COOKIES_FILE = resolve(__dirname, 'cookies.json');
-const OUTPUT_FILE = resolve(__dirname, 'site/stickers.json');
+const OUTPUT_FILE = resolve(__dirname, 'docs/stickers.json');
 const ALBUM_URL = 'https://www.monopolygo.com/sticker-album';
 const API_PATTERN = 'web-portal/sticker-trading';
 const CDP_PORT = 9333;
