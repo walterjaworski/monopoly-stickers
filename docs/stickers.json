@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-10T14:07:09.598Z",
+  "atualizadoEm": "2026-06-10T14:31:05.488Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -35,7 +35,7 @@
         {
           "nome": "Homer",
           "nomeEn": "Homer",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -191,7 +191,7 @@
         {
           "nome": "Que mané!",
           "nomeEn": "Diddily!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -431,7 +431,7 @@
         {
           "nome": "Bartman",
           "nomeEn": "Bartman",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
