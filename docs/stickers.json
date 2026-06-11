@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-11T13:27:22.761Z",
+  "atualizadoEm": "2026-06-11T20:41:10.679Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -11,7 +11,7 @@
         {
           "nome": "Marge",
           "nomeEn": "Marge",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -143,7 +143,7 @@
         {
           "nome": "Apu e Manjula",
           "nomeEn": "Apu and Manjula",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -161,7 +161,7 @@
         {
           "nome": "Reverendo Lovejoy",
           "nomeEn": "Reverend Lovejoy",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -191,7 +191,7 @@
         {
           "nome": "Que mané!",
           "nomeEn": "Diddily!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -227,7 +227,7 @@
         {
           "nome": "Não fui eu",
           "nomeEn": "Not Me",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -257,13 +257,13 @@
         {
           "nome": "Cereal do Krusty",
           "nomeEn": "Krusty Cereal",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Pimenta da insanidade",
           "nomeEn": "Insanity Pepper",
-          "tenho": 5,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -281,7 +281,7 @@
         {
           "nome": "Krusty Burger",
           "nomeEn": "Krusty Burger",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -299,7 +299,7 @@
         {
           "nome": "Buzz Cola",
           "nomeEn": "Buzz Cola",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         }
       ]
@@ -371,7 +371,7 @@
         {
           "nome": "Dedal",
           "nomeEn": "Thimble",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -509,7 +509,7 @@
         {
           "nome": "Eu aceito",
           "nomeEn": "I Do",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -737,7 +737,7 @@
         {
           "nome": "Porco-Aranha",
           "nomeEn": "Spider-Pig",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -1061,7 +1061,7 @@
         {
           "nome": "Trote telefônico",
           "nomeEn": "Phone Prank",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
