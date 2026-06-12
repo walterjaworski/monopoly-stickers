@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-12T19:18:51.990Z",
+  "atualizadoEm": "2026-06-12T20:59:43.757Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -77,13 +77,13 @@
         {
           "nome": "Dia de pagamento",
           "nomeEn": "Pay Day",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Hora da soneca",
           "nomeEn": "Nap Time",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -347,7 +347,7 @@
         {
           "nome": "Garra contra garra",
           "nomeEn": "Claw Claw",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -395,7 +395,7 @@
         {
           "nome": "Scottie",
           "nomeEn": "Scottie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -407,7 +407,7 @@
         {
           "nome": "Passando pelo Go",
           "nomeEn": "Passing Go",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
