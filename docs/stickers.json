@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-12T14:25:44.370Z",
+  "atualizadoEm": "2026-06-12T19:18:51.990Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -17,7 +17,7 @@
         {
           "nome": "Bart",
           "nomeEn": "Bart",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -113,7 +113,7 @@
         {
           "nome": "Lanche energético",
           "nomeEn": "Energy Drink",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -155,7 +155,7 @@
         {
           "nome": "Os Van Houtens",
           "nomeEn": "The Van Houtens",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -173,7 +173,7 @@
         {
           "nome": "Os valentões",
           "nomeEn": "The Bullies",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -215,7 +215,7 @@
         {
           "nome": "Vamos lá!",
           "nomeEn": "Come On!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -437,7 +437,7 @@
         {
           "nome": "Homem Torta",
           "nomeEn": "Pie Man",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -449,7 +449,7 @@
         {
           "nome": "Homem-Abelha",
           "nomeEn": "Bee Man",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -641,7 +641,7 @@
         {
           "nome": "Aniversário",
           "nomeEn": "Birthday",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
