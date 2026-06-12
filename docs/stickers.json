@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-11T20:41:10.679Z",
+  "atualizadoEm": "2026-06-12T14:25:44.370Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -53,7 +53,7 @@
         {
           "nome": "Bola de neve 2",
           "nomeEn": "Snowball 2",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -239,7 +239,7 @@
         {
           "nome": "Vizinholá!",
           "nomeEn": "Neighborino!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         }
       ]
