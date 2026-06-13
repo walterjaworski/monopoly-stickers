@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-12T20:59:43.757Z",
+  "atualizadoEm": "2026-06-13T16:04:13.212Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -29,7 +29,7 @@
         {
           "nome": "Patty e Selma",
           "nomeEn": "Patty and Selma",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -53,7 +53,7 @@
         {
           "nome": "Bola de neve 2",
           "nomeEn": "Snowball 2",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -95,19 +95,19 @@
         {
           "nome": "À venda",
           "nomeEn": "For Sale",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Em guarda",
           "nomeEn": "On Guard",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "D’Oh",
           "nomeEn": "D’Oh",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -137,7 +137,7 @@
         {
           "nome": "Kumiko",
           "nomeEn": "Kumiko",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -155,7 +155,7 @@
         {
           "nome": "Os Van Houtens",
           "nomeEn": "The Van Houtens",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -209,19 +209,19 @@
         {
           "nome": "Vamos!",
           "nomeEn": "Let's Go!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Vamos lá!",
           "nomeEn": "Come On!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Bom gatinho",
           "nomeEn": "Good Kitty",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -257,7 +257,7 @@
         {
           "nome": "Cereal do Krusty",
           "nomeEn": "Krusty Cereal",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -293,7 +293,7 @@
         {
           "nome": "Goma de Vênus",
           "nomeEn": "Venus Gum",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -383,7 +383,7 @@
         {
           "nome": "Casa rica",
           "nomeEn": "Rich House",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -395,7 +395,7 @@
         {
           "nome": "Scottie",
           "nomeEn": "Scottie",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -497,7 +497,7 @@
         {
           "nome": "Pompitus",
           "nomeEn": "Pompitus",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -587,7 +587,7 @@
         {
           "nome": "Fisiculturista",
           "nomeEn": "Bodybuilder",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -743,7 +743,7 @@
         {
           "nome": "Princesa",
           "nomeEn": "Princess",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -1097,7 +1097,7 @@
         {
           "nome": "Saneamento",
           "nomeEn": "Sanitation",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
