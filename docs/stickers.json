@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-13T16:04:13.212Z",
+  "atualizadoEm": "2026-06-15T12:42:19.354Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -17,7 +17,7 @@
         {
           "nome": "Bart",
           "nomeEn": "Bart",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -35,19 +35,19 @@
         {
           "nome": "Homer",
           "nomeEn": "Homer",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Maggie",
           "nomeEn": "Maggie",
-          "tenho": 1,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Ajudante de Papai Noel",
           "nomeEn": "Santa's Little Helper",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -59,7 +59,7 @@
         {
           "nome": "Vovô Simpson",
           "nomeEn": "Grampa Simpson",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         }
       ]
@@ -77,19 +77,19 @@
         {
           "nome": "Dia de pagamento",
           "nomeEn": "Pay Day",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Hora da soneca",
           "nomeEn": "Nap Time",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Hora do intervalo",
           "nomeEn": "Break Time",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -101,7 +101,7 @@
         {
           "nome": "Em guarda",
           "nomeEn": "On Guard",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -137,7 +137,7 @@
         {
           "nome": "Kumiko",
           "nomeEn": "Kumiko",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -149,7 +149,7 @@
         {
           "nome": "Lenny e Carl",
           "nomeEn": "Lenny and Carl",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -161,7 +161,7 @@
         {
           "nome": "Reverendo Lovejoy",
           "nomeEn": "Reverend Lovejoy",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -215,19 +215,19 @@
         {
           "nome": "Vamos lá!",
           "nomeEn": "Come On!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Bom gatinho",
           "nomeEn": "Good Kitty",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Não fui eu",
           "nomeEn": "Not Me",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -251,7 +251,7 @@
         {
           "nome": "Nozes e Chiclete",
           "nomeEn": "Nuts and Gum",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -275,7 +275,7 @@
         {
           "nome": "Raspadinha",
           "nomeEn": "Scratch-R",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -287,13 +287,13 @@
         {
           "nome": "Espaguete do Luigi",
           "nomeEn": "Luigi's Spaghetti",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Goma de Vênus",
           "nomeEn": "Venus Gum",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -329,7 +329,7 @@
         {
           "nome": "Feio, feio",
           "nomeEn": "Ugly, Ugly",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -353,7 +353,7 @@
         {
           "nome": "O velho ganha ouro",
           "nomeEn": "Old Man Wins Gold",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -377,7 +377,7 @@
         {
           "nome": "Dados",
           "nomeEn": "Dice",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -389,7 +389,7 @@
         {
           "nome": "Estação de água",
           "nomeEn": "Water Works",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -419,7 +419,7 @@
         {
           "nome": "Passeio de trem",
           "nomeEn": "Train Ride",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         }
       ]
@@ -437,13 +437,13 @@
         {
           "nome": "Homem Torta",
           "nomeEn": "Pie Man",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Ondas de calor",
           "nomeEn": "Heat Waves",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -491,7 +491,7 @@
         {
           "nome": "Surgem borboletas",
           "nomeEn": "Butterflies",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -527,7 +527,7 @@
         {
           "nome": "Encontro romântico",
           "nomeEn": "Romantic Date",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -635,7 +635,7 @@
         {
           "nome": "No rosto não!",
           "nomeEn": "Not The Face!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -653,7 +653,7 @@
         {
           "nome": "Excelente!",
           "nomeEn": "Excellent!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -701,7 +701,7 @@
         {
           "nome": "Hubert Wong",
           "nomeEn": "Hubert Wong",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -737,19 +737,19 @@
         {
           "nome": "Porco-Aranha",
           "nomeEn": "Spider-Pig",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 3
         },
         {
           "nome": "Princesa",
           "nomeEn": "Princess",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Panda ilegal",
           "nomeEn": "Illegal Panda",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -803,7 +803,7 @@
         {
           "nome": "Últimos pedidos",
           "nomeEn": "Last Call",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -851,7 +851,7 @@
         {
           "nome": "Inesquecível",
           "nomeEn": "Unforgettable",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1097,7 +1097,7 @@
         {
           "nome": "Saneamento",
           "nomeEn": "Sanitation",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 9
         },
         {
@@ -1163,7 +1163,7 @@
         {
           "nome": "Prefeito Quimby",
           "nomeEn": "Mayor Quimby",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
