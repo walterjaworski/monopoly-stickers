@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-15T12:42:19.354Z",
+  "atualizadoEm": "2026-06-15T13:58:09.978Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -209,7 +209,7 @@
         {
           "nome": "Vamos!",
           "nomeEn": "Let's Go!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -227,7 +227,7 @@
         {
           "nome": "Não fui eu",
           "nomeEn": "Not Me",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 2
         },
         {
@@ -377,7 +377,7 @@
         {
           "nome": "Dados",
           "nomeEn": "Dice",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -431,7 +431,7 @@
         {
           "nome": "Bartman",
           "nomeEn": "Bartman",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
