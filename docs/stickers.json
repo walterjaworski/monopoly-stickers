@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-15T13:58:09.978Z",
+  "atualizadoEm": "2026-06-16T11:40:43.569Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -89,7 +89,7 @@
         {
           "nome": "Hora do intervalo",
           "nomeEn": "Break Time",
-          "tenho": 4,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -107,7 +107,7 @@
         {
           "nome": "D’Oh",
           "nomeEn": "D’Oh",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -119,7 +119,7 @@
         {
           "nome": "Uau ahh",
           "nomeEn": "Woo Hoo!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         }
       ]
@@ -137,7 +137,7 @@
         {
           "nome": "Kumiko",
           "nomeEn": "Kumiko",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -383,7 +383,7 @@
         {
           "nome": "Casa rica",
           "nomeEn": "Rich House",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -431,7 +431,7 @@
         {
           "nome": "Bartman",
           "nomeEn": "Bartman",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -659,7 +659,7 @@
         {
           "nome": "Corrida de cães",
           "nomeEn": "Dog Race",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         }
       ]
@@ -737,7 +737,7 @@
         {
           "nome": "Porco-Aranha",
           "nomeEn": "Spider-Pig",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 3
         },
         {
@@ -1031,7 +1031,7 @@
         {
           "nome": "Do Moe",
           "nomeEn": "Moe's",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
