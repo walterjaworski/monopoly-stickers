@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-16T11:40:43.569Z",
+  "atualizadoEm": "2026-06-16T13:38:02.046Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -11,7 +11,7 @@
         {
           "nome": "Marge",
           "nomeEn": "Marge",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -59,7 +59,7 @@
         {
           "nome": "Vovô Simpson",
           "nomeEn": "Grampa Simpson",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         }
       ]
@@ -101,7 +101,7 @@
         {
           "nome": "Em guarda",
           "nomeEn": "On Guard",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -131,7 +131,7 @@
         {
           "nome": "Herb Powell",
           "nomeEn": "Herb Powell",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -143,7 +143,7 @@
         {
           "nome": "Apu e Manjula",
           "nomeEn": "Apu and Manjula",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -197,7 +197,7 @@
         {
           "nome": "Homer esperto",
           "nomeEn": "Smart Homer",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -275,7 +275,7 @@
         {
           "nome": "Raspadinha",
           "nomeEn": "Scratch-R",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -311,7 +311,7 @@
         {
           "nome": "Vamos jogar boliche",
           "nomeEn": "Let's Go Bowling",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -359,7 +359,7 @@
         {
           "nome": "Colegas de equipe",
           "nomeEn": "Teammates",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         }
       ]
@@ -413,7 +413,7 @@
         {
           "nome": "Saindo da cadeia",
           "nomeEn": "Get Out of Jail",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -431,13 +431,13 @@
         {
           "nome": "Bartman",
           "nomeEn": "Bartman",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Homem Torta",
           "nomeEn": "Pie Man",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -503,7 +503,7 @@
         {
           "nome": "Você quer?",
           "nomeEn": "Do You?",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -857,7 +857,7 @@
         {
           "nome": "Assado queimado",
           "nomeEn": "Burnt Roast",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -875,7 +875,7 @@
         {
           "nome": "Presuntos defumados",
           "nomeEn": "Smoked Hams",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -989,7 +989,7 @@
         {
           "nome": "Ataque cardíaco",
           "nomeEn": "Heart Attack",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
