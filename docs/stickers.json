@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-16T13:38:02.046Z",
+  "atualizadoEm": "2026-06-16T14:55:43.294Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -209,7 +209,7 @@
         {
           "nome": "Vamos!",
           "nomeEn": "Let's Go!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -227,7 +227,7 @@
         {
           "nome": "Não fui eu",
           "nomeEn": "Not Me",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 2
         },
         {
@@ -251,7 +251,7 @@
         {
           "nome": "Nozes e Chiclete",
           "nomeEn": "Nuts and Gum",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -329,13 +329,13 @@
         {
           "nome": "Feio, feio",
           "nomeEn": "Ugly, Ugly",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Campeão do boliche",
           "nomeEn": "Bowling Champ",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -377,7 +377,7 @@
         {
           "nome": "Dados",
           "nomeEn": "Dice",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -413,7 +413,7 @@
         {
           "nome": "Saindo da cadeia",
           "nomeEn": "Get Out of Jail",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -473,7 +473,7 @@
         {
           "nome": "Caidaço Boy",
           "nomeEn": "Fallout Boy",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -503,7 +503,7 @@
         {
           "nome": "Você quer?",
           "nomeEn": "Do You?",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -575,7 +575,7 @@
         {
           "nome": "Fabricante de pretzels",
           "nomeEn": "Pretzel Maker",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -761,7 +761,7 @@
         {
           "nome": "Beliscão",
           "nomeEn": "Pinchy",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1097,7 +1097,7 @@
         {
           "nome": "Saneamento",
           "nomeEn": "Sanitation",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 9
         },
         {
@@ -1163,7 +1163,7 @@
         {
           "nome": "Prefeito Quimby",
           "nomeEn": "Mayor Quimby",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 5
         },
         {
