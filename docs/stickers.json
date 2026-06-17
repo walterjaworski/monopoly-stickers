@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-16T14:55:43.294Z",
+  "atualizadoEm": "2026-06-17T13:19:16.369Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -47,7 +47,7 @@
         {
           "nome": "Ajudante de Papai Noel",
           "nomeEn": "Santa's Little Helper",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -77,7 +77,7 @@
         {
           "nome": "Dia de pagamento",
           "nomeEn": "Pay Day",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -107,7 +107,7 @@
         {
           "nome": "D’Oh",
           "nomeEn": "D’Oh",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -341,7 +341,7 @@
         {
           "nome": "Boa!",
           "nomeEn": "Nice!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -371,7 +371,7 @@
         {
           "nome": "Dedal",
           "nomeEn": "Thimble",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -527,7 +527,7 @@
         {
           "nome": "Encontro romântico",
           "nomeEn": "Romantic Date",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -569,7 +569,7 @@
         {
           "nome": "Escritora de romances",
           "nomeEn": "Romance Writer",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -623,7 +623,7 @@
         {
           "nome": "Sorriso maligno",
           "nomeEn": "Evil Smile",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
