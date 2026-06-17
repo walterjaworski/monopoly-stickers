@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-17T13:19:16.369Z",
+  "atualizadoEm": "2026-06-17T14:28:21.609Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -329,7 +329,7 @@
         {
           "nome": "Feio, feio",
           "nomeEn": "Ugly, Ugly",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -587,13 +587,13 @@
         {
           "nome": "Fisiculturista",
           "nomeEn": "Bodybuilder",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Garçonete",
           "nomeEn": "Waitress",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -617,7 +617,7 @@
         {
           "nome": "Fúria no trânsito",
           "nomeEn": "Road Rage",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -737,7 +737,7 @@
         {
           "nome": "Porco-Aranha",
           "nomeEn": "Spider-Pig",
-          "tenho": 5,
+          "tenho": 4,
           "raridade": 3
         },
         {
@@ -797,7 +797,7 @@
         {
           "nome": "NÃO EU!",
           "nomeEn": "NOT ME!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -827,7 +827,7 @@
         {
           "nome": "Mixtape",
           "nomeEn": "Mixtape",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1163,7 +1163,7 @@
         {
           "nome": "Prefeito Quimby",
           "nomeEn": "Mayor Quimby",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 5
         },
         {
