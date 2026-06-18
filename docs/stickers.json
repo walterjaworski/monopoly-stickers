@@ -1,10 +1,11 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-18T14:26:53.326Z",
+  "atualizadoEm": "2026-06-18T14:46:48.646Z",
   "totalStickers": 189,
   "sets": [
     {
+      "numero": 1,
       "nome": "Os Simpsons",
       "nomeEn": "The Simpsons",
       "stickers": [
@@ -65,6 +66,7 @@
       ]
     },
     {
+      "numero": 2,
       "nome": "Treinamento de Monopoly",
       "nomeEn": "Monopoly Training",
       "stickers": [
@@ -113,7 +115,7 @@
         {
           "nome": "Lanche energético",
           "nomeEn": "Energy Drink",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -125,6 +127,7 @@
       ]
     },
     {
+      "numero": 3,
       "nome": "Amigos e familiares",
       "nomeEn": "Friends and Family",
       "stickers": [
@@ -185,6 +188,7 @@
       ]
     },
     {
+      "numero": 4,
       "nome": "Propriedade de Ned Flanders",
       "nomeEn": "Ned Flanders' Property",
       "stickers": [
@@ -245,13 +249,14 @@
       ]
     },
     {
+      "numero": 5,
       "nome": "Isso é Springfield",
       "nomeEn": "That's Springfield",
       "stickers": [
         {
           "nome": "Nozes e Chiclete",
           "nomeEn": "Nuts and Gum",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -305,6 +310,7 @@
       ]
     },
     {
+      "numero": 6,
       "nome": "Pinos amigos",
       "nomeEn": "Bowling Pals",
       "stickers": [
@@ -317,7 +323,7 @@
         {
           "nome": "Você joga boliche?",
           "nomeEn": "Do You Bowl?",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -341,7 +347,7 @@
         {
           "nome": "Boa!",
           "nomeEn": "Nice!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -365,6 +371,7 @@
       ]
     },
     {
+      "numero": 7,
       "nome": "Aventura da Maggie",
       "nomeEn": "Maggie's Adventure",
       "stickers": [
@@ -425,6 +432,7 @@
       ]
     },
     {
+      "numero": 8,
       "nome": "Heróis de Springfield",
       "nomeEn": "Springfield Heroes",
       "stickers": [
@@ -485,6 +493,7 @@
       ]
     },
     {
+      "numero": 9,
       "nome": "Homie conhece Marge",
       "nomeEn": "Homie Meets Marge",
       "stickers": [
@@ -545,6 +554,7 @@
       ]
     },
     {
+      "numero": 10,
       "nome": "Mil empregos de Marge",
       "nomeEn": "Marge's Many Jobs",
       "stickers": [
@@ -605,6 +615,7 @@
       ]
     },
     {
+      "numero": 11,
       "nome": "Antigos rivais",
       "nomeEn": "Old Rivals",
       "stickers": [
@@ -665,6 +676,7 @@
       ]
     },
     {
+      "numero": 12,
       "nome": "Escola primária",
       "nomeEn": "Elementary School",
       "stickers": [
@@ -725,6 +737,7 @@
       ]
     },
     {
+      "numero": 13,
       "nome": "Animais exóticos",
       "nomeEn": "Exotic Animals",
       "stickers": [
@@ -785,6 +798,7 @@
       ]
     },
     {
+      "numero": 14,
       "nome": "Cantoria",
       "nomeEn": "Singing",
       "stickers": [
@@ -845,6 +859,7 @@
       ]
     },
     {
+      "numero": 15,
       "nome": "Presunto nota 10!",
       "nomeEn": "Top Notch Ham!",
       "stickers": [
@@ -905,6 +920,7 @@
       ]
     },
     {
+      "numero": 16,
       "nome": "Memes amados",
       "nomeEn": "Beloved Memes",
       "stickers": [
@@ -965,6 +981,7 @@
       ]
     },
     {
+      "numero": 17,
       "nome": "Comichão e Coçadinha",
       "nomeEn": "Itchy and Scratchy",
       "stickers": [
@@ -1025,6 +1042,7 @@
       ]
     },
     {
+      "numero": 18,
       "nome": "Taverna Moe",
       "nomeEn": "Moe's Tavern",
       "stickers": [
@@ -1085,6 +1103,7 @@
       ]
     },
     {
+      "numero": 19,
       "nome": "Mil empregos de Homer",
       "nomeEn": "Homer's Many Jobs",
       "stickers": [
@@ -1145,6 +1164,7 @@
       ]
     },
     {
+      "numero": 20,
       "nome": "Alta sociedade",
       "nomeEn": "High Society",
       "stickers": [
@@ -1205,6 +1225,7 @@
       ]
     },
     {
+      "numero": 21,
       "nome": "Momentos icônicos",
       "nomeEn": "Iconic Moments",
       "stickers": [

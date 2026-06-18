@@ -18,6 +18,8 @@ const i18n = {
     'stat-dup': 'duplicatas',
     'busca-placeholder': 'Buscar sticker...',
     'filtro-set-all': 'Todos os sets',
+    'filtro-estrelas-all': 'Todas as estrelas',
+    'filtro-gold': 'Dourada',
     'filtro-status-all': 'Todos os status',
     'filtro-status-tenho': 'Tenho',
     'filtro-status-falta': 'Faltando',
@@ -33,6 +35,8 @@ const i18n = {
     'stat-dup': 'duplicates',
     'busca-placeholder': 'Search sticker...',
     'filtro-set-all': 'All sets',
+    'filtro-estrelas-all': 'All stars',
+    'filtro-gold': 'Gold',
     'filtro-status-all': 'All status',
     'filtro-status-tenho': 'Have',
     'filtro-status-falta': 'Missing',
@@ -65,10 +69,24 @@ function aplicarTraducao() {
     dadosStickers.sets.forEach(s => {
       const opt = document.createElement('option');
       opt.value = s.nome;
-      opt.textContent = lingua === 'en' ? (s.nomeEn || s.nome) : s.nome;
+      opt.textContent = nomeSetDisplay(s);
       select.appendChild(opt);
     });
     select.value = currentVal;
+
+    const estrelasSet = new Set();
+    dadosStickers.sets.forEach(s => s.stickers.forEach(st => estrelasSet.add(starCount(st.raridade))));
+    const maxStars = Math.max(...estrelasSet);
+    const selEstrelas = document.getElementById('filtro-estrelas');
+    const currentEstrelas = selEstrelas.value;
+    selEstrelas.innerHTML = `<option value="">${tr('filtro-estrelas-all')}</option>`;
+    for (let i = 1; i <= maxStars; i++) {
+      const opt = document.createElement('option');
+      opt.value = i;
+      opt.textContent = '⭐'.repeat(i);
+      selEstrelas.appendChild(opt);
+    }
+    selEstrelas.value = currentEstrelas;
   }
 }
 
@@ -87,7 +105,13 @@ function nomeDisplay(s) {
 }
 
 function nomeSetDisplay(set) {
-  return lingua === 'en' ? (set.nomeEn || set.nome) : set.nome;
+  const nome = lingua === 'en' ? (set.nomeEn || set.nome) : set.nome;
+  return set.numero ? `Set ${set.numero} - ${nome}` : nome;
+}
+
+function starCount(raridade) {
+  if (raridade >= 9) return 5;
+  return raridade;
 }
 
 function render(stickers, filtros) {
@@ -95,6 +119,8 @@ function render(stickers, filtros) {
   const busca = (filtros?.busca || '').toLowerCase();
   const setFiltro = filtros?.set || '';
   const statusFiltro = filtros?.status || '';
+  const estrelasFiltro = filtros?.estrelas || '';
+  const goldFiltro = filtros?.gold || '';
 
   const setsFiltrados = stickers.sets.filter(s => !setFiltro || s.nome === setFiltro);
 
@@ -112,6 +138,16 @@ function render(stickers, filtros) {
         nomeDisplay(s).toLowerCase().includes(busca) ||
         s.nomeEn?.toLowerCase().includes(busca)
       );
+    }
+
+    if (estrelasFiltro === '5+') {
+      stickersSet = stickersSet.filter(s => s.raridade >= 9);
+    } else if (estrelasFiltro) {
+      stickersSet = stickersSet.filter(s => starCount(s.raridade) === Number(estrelasFiltro));
+    }
+
+    if (goldFiltro) {
+      stickersSet = stickersSet.filter(s => isGold(s.raridade));
     }
 
     if (statusFiltro === 'tenho') {
@@ -184,16 +220,33 @@ async function main() {
       return {
         busca: document.getElementById('busca').value,
         set: document.getElementById('filtro-set').value,
+        estrelas: document.getElementById('filtro-estrelas').value,
+        gold: document.getElementById('filtro-gold').checked,
         status: document.getElementById('filtro-status').value,
       };
     }
 
+    function toggleClearBtn() {
+      const btn = document.getElementById('btn-limpar-busca');
+      const input = document.getElementById('busca');
+      btn.classList.toggle('visible', input.value.length > 0);
+    }
+
     window.onChange = function() {
       render(dadosStickers, getFiltros());
+      toggleClearBtn();
     };
     document.getElementById('busca').addEventListener('input', onChange);
     document.getElementById('filtro-set').addEventListener('change', onChange);
+    document.getElementById('filtro-estrelas').addEventListener('change', onChange);
+    document.getElementById('filtro-gold').addEventListener('change', onChange);
     document.getElementById('filtro-status').addEventListener('change', onChange);
+
+    document.getElementById('btn-limpar-busca').addEventListener('click', () => {
+      document.getElementById('busca').value = '';
+      onChange();
+      document.getElementById('busca').focus();
+    });
 
     document.querySelectorAll('.lang-btn').forEach(btn => {
       btn.addEventListener('click', () => toggleLingua(btn.dataset.lang));

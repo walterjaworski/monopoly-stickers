@@ -30,10 +30,20 @@
     </section>
 
     <section class="filtros">
-      <input type="text" id="busca" data-i18n-placeholder="busca-placeholder" placeholder="Buscar sticker...">
+      <div class="search-wrapper">
+        <input type="text" id="busca" data-i18n-placeholder="busca-placeholder" placeholder="Buscar sticker...">
+        <button class="search-clear" id="btn-limpar-busca" aria-label="Limpar busca">✕</button>
+      </div>
       <select id="filtro-set">
         <option value="" data-i18n="filtro-set-all">Todos os sets</option>
       </select>
+      <select id="filtro-estrelas">
+        <option value="" data-i18n="filtro-estrelas-all">Todas as estrelas</option>
+      </select>
+      <label class="checkbox-gold">
+        <input type="checkbox" id="filtro-gold">
+        <span data-i18n="filtro-gold">Dourada</span>
+      </label>
       <select id="filtro-status">
         <option value="" data-i18n="filtro-status-all">Todos os status</option>
         <option value="tenho" data-i18n="filtro-status-tenho">Tenho</option>

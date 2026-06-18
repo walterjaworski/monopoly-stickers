@@ -130,9 +130,73 @@ main {
   color: #a09888;
 }
 
-.filtros input {
+.search-wrapper {
   flex: 1;
   min-width: 200px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-wrapper input {
+  flex: 1;
+  min-width: 0;
+  width: 100%;
+}
+
+.search-clear {
+  display: none;
+  position: absolute;
+  right: 8px;
+  background: #d5c8b8;
+  border: none;
+  color: #fff;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  font-size: 0.75rem;
+  line-height: 1;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+
+.search-clear:hover {
+  background: #b5a898;
+}
+
+.search-clear.visible {
+  display: flex;
+}
+
+.checkbox-gold {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: #fff;
+  border: 2px solid #e0d8c8;
+  padding: 0.7rem 0.85rem;
+  border-radius: 10px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #3b3447;
+  cursor: pointer;
+  transition: border-color 0.2s;
+  white-space: nowrap;
+  user-select: none;
+}
+
+.checkbox-gold:has(input:focus-visible) {
+  border-color: #deb559;
+}
+
+.checkbox-gold input {
+  width: 18px;
+  height: 18px;
+  accent-color: #ffd700;
+  cursor: pointer;
 }
 
 .filtros select {

@@ -146,9 +146,10 @@ function salvarDados(ptData, enLookup) {
     }
   }
 
-  const sets = ptData.Data.Sets.map(set => {
+  const sets = ptData.Data.Sets.map((set, i) => {
     const setAnterior = traducoesAntigas[set.SetName];
     return {
+      numero: i + 1,
       nome: set.SetName,
       nomeEn: (setAnterior?.nomeEn) || set.SetName,
       stickers: set.Stickers.map(s => ({
