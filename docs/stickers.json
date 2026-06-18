@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-17T14:44:32.453Z",
+  "atualizadoEm": "2026-06-18T14:26:53.326Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -11,7 +11,7 @@
         {
           "nome": "Marge",
           "nomeEn": "Marge",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -23,13 +23,13 @@
         {
           "nome": "Lisa",
           "nomeEn": "Lisa",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Patty e Selma",
           "nomeEn": "Patty and Selma",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -47,7 +47,7 @@
         {
           "nome": "Ajudante de Papai Noel",
           "nomeEn": "Santa's Little Helper",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -71,31 +71,31 @@
         {
           "nome": "Weee!",
           "nomeEn": "Weee!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Dia de pagamento",
           "nomeEn": "Pay Day",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Hora da soneca",
           "nomeEn": "Nap Time",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Hora do intervalo",
           "nomeEn": "Break Time",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "À venda",
           "nomeEn": "For Sale",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -107,7 +107,7 @@
         {
           "nome": "D’Oh",
           "nomeEn": "D’Oh",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -131,7 +131,7 @@
         {
           "nome": "Herb Powell",
           "nomeEn": "Herb Powell",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -155,13 +155,13 @@
         {
           "nome": "Os Van Houtens",
           "nomeEn": "The Van Houtens",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Reverendo Lovejoy",
           "nomeEn": "Reverend Lovejoy",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -197,7 +197,7 @@
         {
           "nome": "Homer esperto",
           "nomeEn": "Smart Homer",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -209,7 +209,7 @@
         {
           "nome": "Vamos!",
           "nomeEn": "Let's Go!",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -239,7 +239,7 @@
         {
           "nome": "Vizinholá!",
           "nomeEn": "Neighborino!",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         }
       ]
@@ -251,13 +251,13 @@
         {
           "nome": "Nozes e Chiclete",
           "nomeEn": "Nuts and Gum",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Cereal do Krusty",
           "nomeEn": "Krusty Cereal",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -269,7 +269,7 @@
         {
           "nome": "Costeletas de porco",
           "nomeEn": "Pork Chops",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -311,7 +311,7 @@
         {
           "nome": "Vamos jogar boliche",
           "nomeEn": "Let's Go Bowling",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -407,7 +407,7 @@
         {
           "nome": "Passando pelo Go",
           "nomeEn": "Passing Go",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -503,7 +503,7 @@
         {
           "nome": "Você quer?",
           "nomeEn": "Do You?",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -581,7 +581,7 @@
         {
           "nome": "Prefeita",
           "nomeEn": "Mayor",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -935,7 +935,7 @@
         {
           "nome": "Homer no arbusto",
           "nomeEn": "Homer in Bush",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
@@ -1079,7 +1079,7 @@
         {
           "nome": "Mesa de sinuca",
           "nomeEn": "Pool Table",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 11
         }
       ]
@@ -1151,7 +1151,7 @@
         {
           "nome": "Kent Brockman",
           "nomeEn": "Kent Brockman",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 9
         },
         {
@@ -1235,7 +1235,7 @@
         {
           "nome": "Sr. Faísca",
           "nomeEn": "Mr. Sparkle",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
@@ -1259,7 +1259,7 @@
         {
           "nome": "Marge elegante",
           "nomeEn": "Fancy Marge",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 11
         }
       ]
