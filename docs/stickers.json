@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-19T12:32:18.843Z",
+  "atualizadoEm": "2026-06-19T16:30:00.112Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -48,7 +48,7 @@
         {
           "nome": "Ajudante de Papai Noel",
           "nomeEn": "Santa's Little Helper",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -73,7 +73,7 @@
         {
           "nome": "Weee!",
           "nomeEn": "Weee!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -518,7 +518,7 @@
         {
           "nome": "Eu aceito",
           "nomeEn": "I Do",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -561,7 +561,7 @@
         {
           "nome": "Policial Marge",
           "nomeEn": "Police Marge",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -658,7 +658,7 @@
         {
           "nome": "Valeu a pena!",
           "nomeEn": "Worth It!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
