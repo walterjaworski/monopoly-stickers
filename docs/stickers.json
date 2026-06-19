@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-19T16:30:00.112Z",
+  "atualizadoEm": "2026-06-19T18:00:14.292Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -42,7 +42,7 @@
         {
           "nome": "Maggie",
           "nomeEn": "Maggie",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -158,13 +158,13 @@
         {
           "nome": "Os Van Houtens",
           "nomeEn": "The Van Houtens",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Reverendo Lovejoy",
           "nomeEn": "Reverend Lovejoy",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -207,7 +207,7 @@
         {
           "nome": "Cai fora, Ned",
           "nomeEn": "Scram, Ned",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -243,7 +243,7 @@
         {
           "nome": "Vizinholá!",
           "nomeEn": "Neighborino!",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         }
       ]
@@ -280,13 +280,13 @@
         {
           "nome": "Raspadinha",
           "nomeEn": "Scratch-R",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Krusty Burger",
           "nomeEn": "Krusty Burger",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -378,7 +378,7 @@
         {
           "nome": "Dedal",
           "nomeEn": "Thimble",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -439,13 +439,13 @@
         {
           "nome": "Bartman",
           "nomeEn": "Bartman",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Homem Torta",
           "nomeEn": "Pie Man",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -512,7 +512,7 @@
         {
           "nome": "Você quer?",
           "nomeEn": "Do You?",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -878,7 +878,7 @@
         {
           "nome": "Ho! Ho! Ho!",
           "nomeEn": "Ho! Ho! Ho!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1055,7 +1055,7 @@
         {
           "nome": "De trapos a trapos",
           "nomeEn": "Rags to Rags",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1274,7 +1274,7 @@
         {
           "nome": "Salto do desfiladeiro",
           "nomeEn": "Canyon Leap",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
