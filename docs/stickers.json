@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-18T14:46:48.646Z",
+  "atualizadoEm": "2026-06-19T12:32:18.843Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -79,7 +79,7 @@
         {
           "nome": "Dia de pagamento",
           "nomeEn": "Pay Day",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -97,7 +97,7 @@
         {
           "nome": "À venda",
           "nomeEn": "For Sale",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -219,13 +219,13 @@
         {
           "nome": "Vamos lá!",
           "nomeEn": "Come On!",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Bom gatinho",
           "nomeEn": "Good Kitty",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -256,7 +256,7 @@
         {
           "nome": "Nozes e Chiclete",
           "nomeEn": "Nuts and Gum",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -408,7 +408,7 @@
         {
           "nome": "Bum!",
           "nomeEn": "Boom!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -481,7 +481,7 @@
         {
           "nome": "Caidaço Boy",
           "nomeEn": "Fallout Boy",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -536,7 +536,7 @@
         {
           "nome": "Encontro romântico",
           "nomeEn": "Romantic Date",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -603,7 +603,7 @@
         {
           "nome": "Garçonete",
           "nomeEn": "Waitress",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -658,13 +658,13 @@
         {
           "nome": "Valeu a pena!",
           "nomeEn": "Worth It!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Excelente!",
           "nomeEn": "Excellent!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -750,7 +750,7 @@
         {
           "nome": "Porco-Aranha",
           "nomeEn": "Spider-Pig",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 3
         },
         {
@@ -951,7 +951,7 @@
         {
           "nome": "Homer no arbusto",
           "nomeEn": "Homer in Bush",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 9
         },
         {
