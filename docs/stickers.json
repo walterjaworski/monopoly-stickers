@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-23T13:36:06.563Z",
+  "atualizadoEm": "2026-06-23T22:44:53.777Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -73,7 +73,7 @@
         {
           "nome": "Weee!",
           "nomeEn": "Weee!",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -195,7 +195,7 @@
         {
           "nome": "Que mané!",
           "nomeEn": "Diddily!",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -225,7 +225,7 @@
         {
           "nome": "Bom gatinho",
           "nomeEn": "Good Kitty",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -457,7 +457,7 @@
         {
           "nome": "Homem-Abelha",
           "nomeEn": "Bee Man",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
