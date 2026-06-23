@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-22T15:14:40.061Z",
+  "atualizadoEm": "2026-06-23T13:36:06.563Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -140,7 +140,7 @@
         {
           "nome": "Kumiko",
           "nomeEn": "Kumiko",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -152,7 +152,7 @@
         {
           "nome": "Lenny e Carl",
           "nomeEn": "Lenny and Carl",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -225,7 +225,7 @@
         {
           "nome": "Bom gatinho",
           "nomeEn": "Good Kitty",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -451,7 +451,7 @@
         {
           "nome": "Ondas de calor",
           "nomeEn": "Heat Waves",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -744,7 +744,7 @@
         {
           "nome": "Bilú bilú",
           "nomeEn": "Blu Bloo",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
