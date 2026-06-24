@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-24T11:47:35.582Z",
+  "atualizadoEm": "2026-06-24T14:03:21.292Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -12,7 +12,7 @@
         {
           "nome": "Marge",
           "nomeEn": "Marge",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -24,7 +24,7 @@
         {
           "nome": "Lisa",
           "nomeEn": "Lisa",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -54,7 +54,7 @@
         {
           "nome": "Bola de neve 2",
           "nomeEn": "Snowball 2",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
@@ -170,7 +170,7 @@
         {
           "nome": "Os Hibberts",
           "nomeEn": "The Hibberts",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -195,7 +195,7 @@
         {
           "nome": "Que mané!",
           "nomeEn": "Diddily!",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -225,7 +225,7 @@
         {
           "nome": "Bom gatinho",
           "nomeEn": "Good Kitty",
-          "tenho": 5,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -268,7 +268,7 @@
         {
           "nome": "Pimenta da insanidade",
           "nomeEn": "Insanity Pepper",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -463,7 +463,7 @@
         {
           "nome": "Homem Radioativo",
           "nomeEn": "Radioactive Man",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -683,7 +683,7 @@
         {
           "nome": "Ralph Wiggum",
           "nomeEn": "Ralph Wiggum",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {

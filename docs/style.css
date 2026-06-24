@@ -311,6 +311,25 @@ main {
   margin-bottom: 0.2rem;
 }
 
+.sticker-pos {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  background: #3b3447;
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  z-index: 1;
+}
+
 .badge-dup {
   position: absolute;
   top: -8px;

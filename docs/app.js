@@ -131,6 +131,7 @@ function render(stickers, filtros) {
   let totalDup = 0;
 
   for (const set of setsFiltrados) {
+    set.stickers.forEach((s, i) => s.posicao = i + 1);
     let stickersSet = set.stickers;
 
     if (busca) {
@@ -184,6 +185,7 @@ function render(stickers, filtros) {
           const gold = isGold(s.raridade);
           return `
             <div class="sticker ${cls} ${gold ? 'gold' : ''}">
+              <span class="sticker-pos">${s.posicao}</span>
               ${s.tenho > 1 ? `<span class="badge-dup">+${s.tenho - 1}</span>` : ''}
               <div class="estrelas">${estrelas(s.raridade)}</div>
               <div class="sticker-nome">${nomeDisplay(s)}</div>
