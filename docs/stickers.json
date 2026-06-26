@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-26T13:19:26.379Z",
+  "atualizadoEm": "2026-06-26T13:46:32.957Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -97,7 +97,7 @@
         {
           "nome": "À venda",
           "nomeEn": "For Sale",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "Buzz Cola",
           "nomeEn": "Buzz Cola",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         }
       ]
@@ -414,7 +414,7 @@
         {
           "nome": "Passando pelo Go",
           "nomeEn": "Passing Go",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
