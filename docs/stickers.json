@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-26T13:46:32.957Z",
+  "atualizadoEm": "2026-06-28T15:28:31.246Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -24,19 +24,19 @@
         {
           "nome": "Lisa",
           "nomeEn": "Lisa",
-          "tenho": 5,
+          "tenho": 7,
           "raridade": 1
         },
         {
           "nome": "Patty e Selma",
           "nomeEn": "Patty and Selma",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
           "nome": "Homer",
           "nomeEn": "Homer",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -54,7 +54,7 @@
         {
           "nome": "Bola de neve 2",
           "nomeEn": "Snowball 2",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 1
         },
         {
@@ -73,7 +73,7 @@
         {
           "nome": "Weee!",
           "nomeEn": "Weee!",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
@@ -109,19 +109,19 @@
         {
           "nome": "D’Oh",
           "nomeEn": "D’Oh",
-          "tenho": 10,
+          "tenho": 11,
           "raridade": 1
         },
         {
           "nome": "Lanche energético",
           "nomeEn": "Energy Drink",
-          "tenho": 6,
+          "tenho": 9,
           "raridade": 1
         },
         {
           "nome": "Uau ahh",
           "nomeEn": "Woo Hoo!",
-          "tenho": 5,
+          "tenho": 7,
           "raridade": 1
         }
       ]
@@ -134,19 +134,19 @@
         {
           "nome": "Herb Powell",
           "nomeEn": "Herb Powell",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Kumiko",
           "nomeEn": "Kumiko",
-          "tenho": 5,
+          "tenho": 7,
           "raridade": 1
         },
         {
           "nome": "Apu e Manjula",
           "nomeEn": "Apu and Manjula",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
@@ -164,13 +164,13 @@
         {
           "nome": "Reverendo Lovejoy",
           "nomeEn": "Reverend Lovejoy",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Os Hibberts",
           "nomeEn": "The Hibberts",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -195,7 +195,7 @@
         {
           "nome": "Que mané!",
           "nomeEn": "Diddily!",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -225,13 +225,13 @@
         {
           "nome": "Bom gatinho",
           "nomeEn": "Good Kitty",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Não fui eu",
           "nomeEn": "Not Me",
-          "tenho": 8,
+          "tenho": 9,
           "raridade": 2
         },
         {
@@ -274,19 +274,19 @@
         {
           "nome": "Costeletas de porco",
           "nomeEn": "Pork Chops",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Raspadinha",
           "nomeEn": "Scratch-R",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Krusty Burger",
           "nomeEn": "Krusty Burger",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -317,7 +317,7 @@
         {
           "nome": "Vamos jogar boliche",
           "nomeEn": "Let's Go Bowling",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -378,7 +378,7 @@
         {
           "nome": "Dedal",
           "nomeEn": "Thimble",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -390,7 +390,7 @@
         {
           "nome": "Casa rica",
           "nomeEn": "Rich House",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -402,7 +402,7 @@
         {
           "nome": "Scottie",
           "nomeEn": "Scottie",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -506,7 +506,7 @@
         {
           "nome": "Pompitus",
           "nomeEn": "Pompitus",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -518,7 +518,7 @@
         {
           "nome": "Eu aceito",
           "nomeEn": "I Do",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -530,7 +530,7 @@
         {
           "nome": "Oh Homie",
           "nomeEn": "Oh Homie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -640,13 +640,13 @@
         {
           "nome": "Eletricidade",
           "nomeEn": "Electricity",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "No rosto não!",
           "nomeEn": "Not The Face!",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -664,7 +664,7 @@
         {
           "nome": "Excelente!",
           "nomeEn": "Excellent!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -689,7 +689,7 @@
         {
           "nome": "Sherri e Terri",
           "nomeEn": "Sherri and Terri",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -713,7 +713,7 @@
         {
           "nome": "Hubert Wong",
           "nomeEn": "Hubert Wong",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -731,7 +731,7 @@
         {
           "nome": "Janey Powell",
           "nomeEn": "Janey Powell",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         }
       ]
@@ -744,7 +744,7 @@
         {
           "nome": "Bilú bilú",
           "nomeEn": "Blu Bloo",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -756,7 +756,7 @@
         {
           "nome": "Princesa",
           "nomeEn": "Princess",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -890,7 +890,7 @@
         {
           "nome": "Presuntos defumados",
           "nomeEn": "Smoked Hams",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -933,7 +933,7 @@
         {
           "nome": "Grita pra nuvem",
           "nomeEn": "Shout at Cloud",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1183,7 +1183,7 @@
         {
           "nome": "Prefeito Quimby",
           "nomeEn": "Mayor Quimby",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 5
         },
         {
