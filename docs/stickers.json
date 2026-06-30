@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-06-28T15:28:31.246Z",
+  "atualizadoEm": "2026-06-30T17:26:48.783Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -12,7 +12,7 @@
         {
           "nome": "Marge",
           "nomeEn": "Marge",
-          "tenho": 6,
+          "tenho": 9,
           "raridade": 1
         },
         {
@@ -42,13 +42,13 @@
         {
           "nome": "Maggie",
           "nomeEn": "Maggie",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
           "nome": "Ajudante de Papai Noel",
           "nomeEn": "Santa's Little Helper",
-          "tenho": 8,
+          "tenho": 9,
           "raridade": 1
         },
         {
@@ -60,7 +60,7 @@
         {
           "nome": "Vovô Simpson",
           "nomeEn": "Grampa Simpson",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 1
         }
       ]
@@ -109,7 +109,7 @@
         {
           "nome": "D’Oh",
           "nomeEn": "D’Oh",
-          "tenho": 11,
+          "tenho": 12,
           "raridade": 1
         },
         {
@@ -121,7 +121,7 @@
         {
           "nome": "Uau ahh",
           "nomeEn": "Woo Hoo!",
-          "tenho": 7,
+          "tenho": 9,
           "raridade": 1
         }
       ]
@@ -134,7 +134,7 @@
         {
           "nome": "Herb Powell",
           "nomeEn": "Herb Powell",
-          "tenho": 5,
+          "tenho": 7,
           "raridade": 1
         },
         {
@@ -152,7 +152,7 @@
         {
           "nome": "Lenny e Carl",
           "nomeEn": "Lenny and Carl",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -195,13 +195,13 @@
         {
           "nome": "Que mané!",
           "nomeEn": "Diddily!",
-          "tenho": 6,
+          "tenho": 8,
           "raridade": 1
         },
         {
           "nome": "Homer esperto",
           "nomeEn": "Smart Homer",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -219,7 +219,7 @@
         {
           "nome": "Vamos lá!",
           "nomeEn": "Come On!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -231,13 +231,13 @@
         {
           "nome": "Não fui eu",
           "nomeEn": "Not Me",
-          "tenho": 9,
+          "tenho": 10,
           "raridade": 2
         },
         {
           "nome": "Muito lento",
           "nomeEn": "Too Slow",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -262,7 +262,7 @@
         {
           "nome": "Cereal do Krusty",
           "nomeEn": "Krusty Cereal",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -298,13 +298,13 @@
         {
           "nome": "Goma de Vênus",
           "nomeEn": "Venus Gum",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Buzz Cola",
           "nomeEn": "Buzz Cola",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 2
         }
       ]
@@ -323,7 +323,7 @@
         {
           "nome": "Você joga boliche?",
           "nomeEn": "Do You Bowl?",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -341,7 +341,7 @@
         {
           "nome": "Campeão do boliche",
           "nomeEn": "Bowling Champ",
-          "tenho": 2,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -396,13 +396,13 @@
         {
           "nome": "Estação de água",
           "nomeEn": "Water Works",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Scottie",
           "nomeEn": "Scottie",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -445,7 +445,7 @@
         {
           "nome": "Homem Torta",
           "nomeEn": "Pie Man",
-          "tenho": 5,
+          "tenho": 7,
           "raridade": 2
         },
         {
@@ -463,7 +463,7 @@
         {
           "nome": "Homem Radioativo",
           "nomeEn": "Radioactive Man",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -512,13 +512,13 @@
         {
           "nome": "Você quer?",
           "nomeEn": "Do You?",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Eu aceito",
           "nomeEn": "I Do",
-          "tenho": 5,
+          "tenho": 7,
           "raridade": 2
         },
         {
@@ -561,7 +561,7 @@
         {
           "nome": "Policial Marge",
           "nomeEn": "Police Marge",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -573,13 +573,13 @@
         {
           "nome": "Corretora de imóveis",
           "nomeEn": "Real Estate Agent",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Escritora de romances",
           "nomeEn": "Romance Writer",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -634,13 +634,13 @@
         {
           "nome": "Sorriso maligno",
           "nomeEn": "Evil Smile",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Eletricidade",
           "nomeEn": "Electricity",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -670,7 +670,7 @@
         {
           "nome": "Corrida de cães",
           "nomeEn": "Dog Race",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         }
       ]
@@ -725,7 +725,7 @@
         {
           "nome": "Uter Zorker",
           "nomeEn": "Uter Zorker",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -744,7 +744,7 @@
         {
           "nome": "Bilú bilú",
           "nomeEn": "Blu Bloo",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -756,7 +756,7 @@
         {
           "nome": "Princesa",
           "nomeEn": "Princess",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -817,7 +817,7 @@
         {
           "nome": "Últimos pedidos",
           "nomeEn": "Last Call",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -890,7 +890,7 @@
         {
           "nome": "Presuntos defumados",
           "nomeEn": "Smoked Hams",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 4
         },
         {
@@ -945,7 +945,7 @@
         {
           "nome": "Lisa apresenta",
           "nomeEn": "Lisa Presents",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -1030,7 +1030,7 @@
         {
           "nome": "Demolição",
           "nomeEn": "Demolition",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
@@ -1195,7 +1195,7 @@
         {
           "nome": "Sr. Burns",
           "nomeEn": "Mr. Burns",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
