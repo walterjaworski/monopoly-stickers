@@ -1,4 +1,5 @@
 import { chromium } from 'playwright';
+import { execSync } from 'node:child_process';
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -124,6 +125,13 @@ async function capturar() {
     // 3. Merge: junta nomes em inglês ao dataset em português
     salvarDados(ptData, enLookup);
     console.log('✓ Dados salvos em docs/stickers.json!');
+
+    console.log('');
+    console.log('→ Executando git add, commit e push...');
+    execSync('git add -A', { stdio: 'inherit' });
+    execSync('git commit -m "Atualização stickers $(date +%d/%m/%Y)"', { stdio: 'inherit' });
+    execSync('git push', { stdio: 'inherit' });
+    console.log('✓ Git: commit e push realizados!');
   } catch (err) {
     console.error('✗ Erro:', err.message);
   } finally {
