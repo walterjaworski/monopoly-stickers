@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-07-06T13:21:54.102Z",
+  "atualizadoEm": "2026-07-06T13:58:02.893Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -158,7 +158,7 @@
         {
           "nome": "Os Van Houtens",
           "nomeEn": "The Van Houtens",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -219,13 +219,13 @@
         {
           "nome": "Vamos lá!",
           "nomeEn": "Come On!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Bom gatinho",
           "nomeEn": "Good Kitty",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -237,7 +237,7 @@
         {
           "nome": "Muito lento",
           "nomeEn": "Too Slow",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -341,7 +341,7 @@
         {
           "nome": "Campeão do boliche",
           "nomeEn": "Bowling Champ",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -378,7 +378,7 @@
         {
           "nome": "Dedal",
           "nomeEn": "Thimble",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -506,7 +506,7 @@
         {
           "nome": "Pompitus",
           "nomeEn": "Pompitus",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -670,7 +670,7 @@
         {
           "nome": "Corrida de cães",
           "nomeEn": "Dog Race",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         }
       ]
@@ -683,7 +683,7 @@
         {
           "nome": "Ralph Wiggum",
           "nomeEn": "Ralph Wiggum",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -744,7 +744,7 @@
         {
           "nome": "Bilú bilú",
           "nomeEn": "Blu Bloo",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
