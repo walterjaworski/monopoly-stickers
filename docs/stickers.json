@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-07-06T13:58:02.893Z",
+  "atualizadoEm": "2026-07-08T17:59:15.346Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -18,19 +18,19 @@
         {
           "nome": "Bart",
           "nomeEn": "Bart",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Lisa",
           "nomeEn": "Lisa",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Patty e Selma",
           "nomeEn": "Patty and Selma",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -42,7 +42,7 @@
         {
           "nome": "Maggie",
           "nomeEn": "Maggie",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -60,7 +60,7 @@
         {
           "nome": "Vovô Simpson",
           "nomeEn": "Grampa Simpson",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 1
         }
       ]
@@ -79,25 +79,25 @@
         {
           "nome": "Dia de pagamento",
           "nomeEn": "Pay Day",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Hora da soneca",
           "nomeEn": "Nap Time",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Hora do intervalo",
           "nomeEn": "Break Time",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "À venda",
           "nomeEn": "For Sale",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -115,13 +115,13 @@
         {
           "nome": "Lanche energético",
           "nomeEn": "Energy Drink",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
           "nome": "Uau ahh",
           "nomeEn": "Woo Hoo!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         }
       ]
@@ -146,25 +146,25 @@
         {
           "nome": "Apu e Manjula",
           "nomeEn": "Apu and Manjula",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Lenny e Carl",
           "nomeEn": "Lenny and Carl",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Os Van Houtens",
           "nomeEn": "The Van Houtens",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Reverendo Lovejoy",
           "nomeEn": "Reverend Lovejoy",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -201,7 +201,7 @@
         {
           "nome": "Homer esperto",
           "nomeEn": "Smart Homer",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -231,7 +231,7 @@
         {
           "nome": "Não fui eu",
           "nomeEn": "Not Me",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -256,7 +256,7 @@
         {
           "nome": "Nozes e Chiclete",
           "nomeEn": "Nuts and Gum",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -280,7 +280,7 @@
         {
           "nome": "Raspadinha",
           "nomeEn": "Scratch-R",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "Buzz Cola",
           "nomeEn": "Buzz Cola",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -329,7 +329,7 @@
         {
           "nome": "Uau! Que inveja!",
           "nomeEn": "Woo Hoo! So Jealous!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -341,7 +341,7 @@
         {
           "nome": "Campeão do boliche",
           "nomeEn": "Bowling Champ",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -426,7 +426,7 @@
         {
           "nome": "Passeio de trem",
           "nomeEn": "Train Ride",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         }
       ]
@@ -451,19 +451,19 @@
         {
           "nome": "Ondas de calor",
           "nomeEn": "Heat Waves",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Homem-Abelha",
           "nomeEn": "Bee Man",
-          "tenho": 5,
+          "tenho": 8,
           "raridade": 2
         },
         {
           "nome": "Homem Radioativo",
           "nomeEn": "Radioactive Man",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -500,7 +500,7 @@
         {
           "nome": "Surgem borboletas",
           "nomeEn": "Butterflies",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -518,7 +518,7 @@
         {
           "nome": "Eu aceito",
           "nomeEn": "I Do",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -542,7 +542,7 @@
         {
           "nome": "Beijos",
           "nomeEn": "Kisses",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -561,13 +561,13 @@
         {
           "nome": "Policial Marge",
           "nomeEn": "Police Marge",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
           "nome": "Pintora",
           "nomeEn": "Painter",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -634,7 +634,7 @@
         {
           "nome": "Sorriso maligno",
           "nomeEn": "Evil Smile",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -652,13 +652,13 @@
         {
           "nome": "Aniversário",
           "nomeEn": "Birthday",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 3
         },
         {
           "nome": "Valeu a pena!",
           "nomeEn": "Worth It!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -707,7 +707,7 @@
         {
           "nome": "Martin Prince",
           "nomeEn": "Martin Prince",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -811,7 +811,7 @@
         {
           "nome": "NÃO EU!",
           "nomeEn": "NOT ME!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -823,7 +823,7 @@
         {
           "nome": "Nós fazemos!",
           "nomeEn": "We Do!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -878,13 +878,13 @@
         {
           "nome": "Ho! Ho! Ho!",
           "nomeEn": "Ho! Ho! Ho!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
           "nome": "Só alongando",
           "nomeEn": "Just Stretching",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -969,13 +969,13 @@
         {
           "nome": "Estúpido e sexy Flanders",
           "nomeEn": "Stupid Sexy Flanders",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
           "nome": "Pior adesivo de todos",
           "nomeEn": "Worst Sticker Ever",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 11
         }
       ]
@@ -994,7 +994,7 @@
         {
           "nome": "Cuidado",
           "nomeEn": "Watch Out",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1024,7 +1024,7 @@
         {
           "nome": "Transbordando",
           "nomeEn": "Overflowing",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
@@ -1110,7 +1110,7 @@
         {
           "nome": "Boxeador",
           "nomeEn": "Boxer",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1146,7 +1146,7 @@
         {
           "nome": "Condutor de monotrilho",
           "nomeEn": "Monorail Conductor",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 10
         },
         {
