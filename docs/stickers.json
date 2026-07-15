@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-07-13T13:50:09.774Z",
+  "atualizadoEm": "2026-07-15T13:51:15.606Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -24,13 +24,13 @@
         {
           "nome": "Lisa",
           "nomeEn": "Lisa",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Patty e Selma",
           "nomeEn": "Patty and Selma",
-          "tenho": 8,
+          "tenho": 9,
           "raridade": 1
         },
         {
@@ -54,7 +54,7 @@
         {
           "nome": "Bola de neve 2",
           "nomeEn": "Snowball 2",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -73,7 +73,7 @@
         {
           "nome": "Weee!",
           "nomeEn": "Weee!",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 1
         },
         {
@@ -109,7 +109,7 @@
         {
           "nome": "D’Oh",
           "nomeEn": "D’Oh",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -134,7 +134,7 @@
         {
           "nome": "Herb Powell",
           "nomeEn": "Herb Powell",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -146,7 +146,7 @@
         {
           "nome": "Apu e Manjula",
           "nomeEn": "Apu and Manjula",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -213,7 +213,7 @@
         {
           "nome": "Vamos!",
           "nomeEn": "Let's Go!",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -274,7 +274,7 @@
         {
           "nome": "Costeletas de porco",
           "nomeEn": "Pork Chops",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -286,7 +286,7 @@
         {
           "nome": "Krusty Burger",
           "nomeEn": "Krusty Burger",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -335,7 +335,7 @@
         {
           "nome": "Feio, feio",
           "nomeEn": "Ugly, Ugly",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -359,7 +359,7 @@
         {
           "nome": "O velho ganha ouro",
           "nomeEn": "Old Man Wins Gold",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -390,7 +390,7 @@
         {
           "nome": "Casa rica",
           "nomeEn": "Rich House",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -457,7 +457,7 @@
         {
           "nome": "Homem-Abelha",
           "nomeEn": "Bee Man",
-          "tenho": 9,
+          "tenho": 10,
           "raridade": 2
         },
         {
@@ -487,7 +487,7 @@
         {
           "nome": "Batman das frutas",
           "nomeEn": "Fruit Batman",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         }
       ]
@@ -622,7 +622,7 @@
         {
           "nome": "Te peguei agora!",
           "nomeEn": "Caught Ya!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -695,7 +695,7 @@
         {
           "nome": "Milhouse Van Houten",
           "nomeEn": "Milhouse Van Houten",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -750,7 +750,7 @@
         {
           "nome": "Porco-Aranha",
           "nomeEn": "Spider-Pig",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -811,7 +811,7 @@
         {
           "nome": "NÃO EU!",
           "nomeEn": "NOT ME!",
-          "tenho": 3,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -1000,7 +1000,7 @@
         {
           "nome": "Empanturrado",
           "nomeEn": "Stuffed",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
