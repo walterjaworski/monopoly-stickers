@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-07-15T13:51:15.606Z",
+  "atualizadoEm": "2026-07-16T16:50:38.775Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -18,13 +18,13 @@
         {
           "nome": "Bart",
           "nomeEn": "Bart",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
           "nome": "Lisa",
           "nomeEn": "Lisa",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -42,7 +42,7 @@
         {
           "nome": "Maggie",
           "nomeEn": "Maggie",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -54,7 +54,7 @@
         {
           "nome": "Bola de neve 2",
           "nomeEn": "Snowball 2",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -109,7 +109,7 @@
         {
           "nome": "D’Oh",
           "nomeEn": "D’Oh",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -140,13 +140,13 @@
         {
           "nome": "Kumiko",
           "nomeEn": "Kumiko",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
           "nome": "Apu e Manjula",
           "nomeEn": "Apu and Manjula",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
@@ -170,7 +170,7 @@
         {
           "nome": "Os Hibberts",
           "nomeEn": "The Hibberts",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -182,7 +182,7 @@
         {
           "nome": "Jacqueline Bouvier",
           "nomeEn": "Jacqueline Bouvier",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         }
       ]
@@ -207,7 +207,7 @@
         {
           "nome": "Cai fora, Ned",
           "nomeEn": "Scram, Ned",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -262,13 +262,13 @@
         {
           "nome": "Cereal do Krusty",
           "nomeEn": "Krusty Cereal",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Pimenta da insanidade",
           "nomeEn": "Insanity Pepper",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "Buzz Cola",
           "nomeEn": "Buzz Cola",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 2
         }
       ]
@@ -347,13 +347,13 @@
         {
           "nome": "Boa!",
           "nomeEn": "Nice!",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Garra contra garra",
           "nomeEn": "Claw Claw",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -426,7 +426,7 @@
         {
           "nome": "Passeio de trem",
           "nomeEn": "Train Ride",
-          "tenho": 4,
+          "tenho": 1,
           "raridade": 3
         }
       ]
@@ -500,13 +500,13 @@
         {
           "nome": "Surgem borboletas",
           "nomeEn": "Butterflies",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Pompitus",
           "nomeEn": "Pompitus",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -609,7 +609,7 @@
         {
           "nome": "Atriz",
           "nomeEn": "Actress",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         }
       ]
@@ -713,7 +713,7 @@
         {
           "nome": "Hubert Wong",
           "nomeEn": "Hubert Wong",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -1097,7 +1097,7 @@
         {
           "nome": "Mesa de sinuca",
           "nomeEn": "Pool Table",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 11
         }
       ]
