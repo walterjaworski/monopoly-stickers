@@ -1,7 +1,7 @@
 {
   "album": "SyrupAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-07-25T12:34:00.821Z",
+  "atualizadoEm": "2026-07-27T13:48:24.002Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -12,19 +12,19 @@
         {
           "nome": "Marge",
           "nomeEn": "Marge",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Bart",
           "nomeEn": "Bart",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 1
         },
         {
           "nome": "Lisa",
           "nomeEn": "Lisa",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -36,13 +36,13 @@
         {
           "nome": "Homer",
           "nomeEn": "Homer",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Maggie",
           "nomeEn": "Maggie",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -54,7 +54,7 @@
         {
           "nome": "Bola de neve 2",
           "nomeEn": "Snowball 2",
-          "tenho": 1,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -85,7 +85,7 @@
         {
           "nome": "Hora da soneca",
           "nomeEn": "Nap Time",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -109,7 +109,7 @@
         {
           "nome": "D’Oh",
           "nomeEn": "D’Oh",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -121,7 +121,7 @@
         {
           "nome": "Uau ahh",
           "nomeEn": "Woo Hoo!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         }
       ]
@@ -134,31 +134,31 @@
         {
           "nome": "Herb Powell",
           "nomeEn": "Herb Powell",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Kumiko",
           "nomeEn": "Kumiko",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Apu e Manjula",
           "nomeEn": "Apu and Manjula",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Lenny e Carl",
           "nomeEn": "Lenny and Carl",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Os Van Houtens",
           "nomeEn": "The Van Houtens",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -195,13 +195,13 @@
         {
           "nome": "Que mané!",
           "nomeEn": "Diddily!",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Homer esperto",
           "nomeEn": "Smart Homer",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -225,7 +225,7 @@
         {
           "nome": "Bom gatinho",
           "nomeEn": "Good Kitty",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -256,7 +256,7 @@
         {
           "nome": "Nozes e Chiclete",
           "nomeEn": "Nuts and Gum",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -268,7 +268,7 @@
         {
           "nome": "Pimenta da insanidade",
           "nomeEn": "Insanity Pepper",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -280,7 +280,7 @@
         {
           "nome": "Raspadinha",
           "nomeEn": "Scratch-R",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -292,7 +292,7 @@
         {
           "nome": "Espaguete do Luigi",
           "nomeEn": "Luigi's Spaghetti",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "Buzz Cola",
           "nomeEn": "Buzz Cola",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         }
       ]
@@ -347,25 +347,25 @@
         {
           "nome": "Boa!",
           "nomeEn": "Nice!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Garra contra garra",
           "nomeEn": "Claw Claw",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "O velho ganha ouro",
           "nomeEn": "Old Man Wins Gold",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Colegas de equipe",
           "nomeEn": "Teammates",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -384,25 +384,25 @@
         {
           "nome": "Dados",
           "nomeEn": "Dice",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Casa rica",
           "nomeEn": "Rich House",
-          "tenho": 3,
+          "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Estação de água",
           "nomeEn": "Water Works",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Scottie",
           "nomeEn": "Scottie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -451,7 +451,7 @@
         {
           "nome": "Ondas de calor",
           "nomeEn": "Heat Waves",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -469,7 +469,7 @@
         {
           "nome": "Homem Elástico",
           "nomeEn": "Elastic Man",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -487,7 +487,7 @@
         {
           "nome": "Batman das frutas",
           "nomeEn": "Fruit Batman",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         }
       ]
@@ -518,13 +518,13 @@
         {
           "nome": "Eu aceito",
           "nomeEn": "I Do",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Carona por ai",
           "nomeEn": "Hitchhiking",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -536,7 +536,7 @@
         {
           "nome": "Encontro romântico",
           "nomeEn": "Romantic Date",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -548,7 +548,7 @@
         {
           "nome": "Aceito de novo",
           "nomeEn": "I Do Again",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         }
       ]
@@ -603,7 +603,7 @@
         {
           "nome": "Garçonete",
           "nomeEn": "Waitress",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -622,7 +622,7 @@
         {
           "nome": "Te peguei agora!",
           "nomeEn": "Caught Ya!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -634,7 +634,7 @@
         {
           "nome": "Sorriso maligno",
           "nomeEn": "Evil Smile",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -695,7 +695,7 @@
         {
           "nome": "Milhouse Van Houten",
           "nomeEn": "Milhouse Van Houten",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -744,19 +744,19 @@
         {
           "nome": "Bilú bilú",
           "nomeEn": "Blu Bloo",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Porco-Aranha",
           "nomeEn": "Spider-Pig",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Princesa",
           "nomeEn": "Princess",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -780,7 +780,7 @@
         {
           "nome": "Lagarta-Gritante",
           "nomeEn": "Screaming Caterpillar",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -933,13 +933,13 @@
         {
           "nome": "Grita pra nuvem",
           "nomeEn": "Shout at Cloud",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 4
         },
         {
           "nome": "Deslizando",
           "nomeEn": "Sliding",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 4
         },
         {
@@ -957,7 +957,7 @@
         {
           "nome": "Mais café",
           "nomeEn": "More Coffee",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 9
         },
         {
@@ -1061,7 +1061,7 @@
         {
           "nome": "Testador de amor",
           "nomeEn": "Love Tester",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
@@ -1085,7 +1085,7 @@
         {
           "nome": "Lenny Leonard",
           "nomeEn": "Lenny Leonard",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
@@ -1110,7 +1110,7 @@
         {
           "nome": "Boxeador",
           "nomeEn": "Boxer",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -1122,7 +1122,7 @@
         {
           "nome": "Trabalhador remoto",
           "nomeEn": "Remote Worker",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
