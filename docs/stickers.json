@@ -1,980 +1,980 @@
 {
-  "album": "SyrupAlbum",
+  "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-07-27T13:48:24.002Z",
+  "atualizadoEm": "2026-07-29T19:25:10.108Z",
   "totalStickers": 189,
   "sets": [
     {
       "numero": 1,
-      "nome": "Os Simpsons",
-      "nomeEn": "The Simpsons",
+      "nome": "Acres da ACME",
+      "nomeEn": "Acres da ACME",
       "stickers": [
         {
-          "nome": "Marge",
-          "nomeEn": "Marge",
-          "tenho": 4,
+          "nome": "E aí, pessoal!",
+          "nomeEn": "E aí, pessoal!",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Bart",
-          "nomeEn": "Bart",
-          "tenho": 6,
+          "nome": "Marvin",
+          "nomeEn": "Marvin",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Lisa",
-          "nomeEn": "Lisa",
-          "tenho": 3,
+          "nome": "Taz",
+          "nomeEn": "Taz",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Patty e Selma",
-          "nomeEn": "Patty and Selma",
+          "nome": "Lola",
+          "nomeEn": "Lola",
           "tenho": 1,
           "raridade": 1
         },
         {
-          "nome": "Homer",
-          "nomeEn": "Homer",
-          "tenho": 4,
+          "nome": "Gaguinho",
+          "nomeEn": "Gaguinho",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Maggie",
-          "nomeEn": "Maggie",
-          "tenho": 3,
+          "nome": "Frangolino",
+          "nomeEn": "Frangolino",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Ajudante de Papai Noel",
-          "nomeEn": "Santa's Little Helper",
-          "tenho": 3,
+          "nome": "Ligeirinho",
+          "nomeEn": "Ligeirinho",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Bola de neve 2",
-          "nomeEn": "Snowball 2",
-          "tenho": 4,
+          "nome": "Nada de toelhos",
+          "nomeEn": "Nada de toelhos",
+          "tenho": 1,
           "raridade": 1
         },
         {
-          "nome": "Vovô Simpson",
-          "nomeEn": "Grampa Simpson",
-          "tenho": 3,
+          "nome": "Patolino",
+          "nomeEn": "Patolino",
+          "tenho": 0,
           "raridade": 1
         }
       ]
     },
     {
       "numero": 2,
-      "nome": "Treinamento de Monopoly",
-      "nomeEn": "Monopoly Training",
+      "nome": "Bom dia",
+      "nomeEn": "Bom dia",
       "stickers": [
         {
-          "nome": "Weee!",
-          "nomeEn": "Weee!",
+          "nome": "Celeiro ao amanhecer",
+          "nomeEn": "Celeiro ao amanhecer",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Cocoricó!",
+          "nomeEn": "Cocoricó!",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Luz solar",
+          "nomeEn": "Luz solar",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Café da manhã",
+          "nomeEn": "Café da manhã",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Arregaçando as mangas",
+          "nomeEn": "Arregaçando as mangas",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Afazeres na fazenda",
+          "nomeEn": "Afazeres na fazenda",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "A caminho",
+          "nomeEn": "A caminho",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Arado",
+          "nomeEn": "Arado",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Fazendeiro feliz",
+          "nomeEn": "Fazendeiro feliz",
           "tenho": 1,
-          "raridade": 1
-        },
-        {
-          "nome": "Dia de pagamento",
-          "nomeEn": "Pay Day",
-          "tenho": 1,
-          "raridade": 1
-        },
-        {
-          "nome": "Hora da soneca",
-          "nomeEn": "Nap Time",
-          "tenho": 5,
-          "raridade": 1
-        },
-        {
-          "nome": "Hora do intervalo",
-          "nomeEn": "Break Time",
-          "tenho": 3,
-          "raridade": 1
-        },
-        {
-          "nome": "À venda",
-          "nomeEn": "For Sale",
-          "tenho": 4,
-          "raridade": 1
-        },
-        {
-          "nome": "Em guarda",
-          "nomeEn": "On Guard",
-          "tenho": 3,
-          "raridade": 1
-        },
-        {
-          "nome": "D’Oh",
-          "nomeEn": "D’Oh",
-          "tenho": 4,
-          "raridade": 1
-        },
-        {
-          "nome": "Lanche energético",
-          "nomeEn": "Energy Drink",
-          "tenho": 5,
-          "raridade": 1
-        },
-        {
-          "nome": "Uau ahh",
-          "nomeEn": "Woo Hoo!",
-          "tenho": 2,
           "raridade": 1
         }
       ]
     },
     {
       "numero": 3,
-      "nome": "Amigos e familiares",
-      "nomeEn": "Friends and Family",
+      "nome": "A cenoura gigante",
+      "nomeEn": "A cenoura gigante",
       "stickers": [
         {
-          "nome": "Herb Powell",
-          "nomeEn": "Herb Powell",
-          "tenho": 3,
+          "nome": "O culpado",
+          "nomeEn": "O culpado",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Kumiko",
-          "nomeEn": "Kumiko",
-          "tenho": 3,
-          "raridade": 1
-        },
-        {
-          "nome": "Apu e Manjula",
-          "nomeEn": "Apu and Manjula",
-          "tenho": 2,
-          "raridade": 1
-        },
-        {
-          "nome": "Lenny e Carl",
-          "nomeEn": "Lenny and Carl",
-          "tenho": 4,
-          "raridade": 1
-        },
-        {
-          "nome": "Os Van Houtens",
-          "nomeEn": "The Van Houtens",
-          "tenho": 2,
-          "raridade": 1
-        },
-        {
-          "nome": "Reverendo Lovejoy",
-          "nomeEn": "Reverend Lovejoy",
-          "tenho": 3,
-          "raridade": 1
-        },
-        {
-          "nome": "Os Hibberts",
-          "nomeEn": "The Hibberts",
+          "nome": "Mas o quê...?",
+          "nomeEn": "Mas o quê...?",
           "tenho": 1,
+          "raridade": 1
+        },
+        {
+          "nome": "Enquanto isso...",
+          "nomeEn": "Enquanto isso...",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Toupeira",
+          "nomeEn": "Toupeira",
+          "tenho": 1,
+          "raridade": 1
+        },
+        {
+          "nome": "Belisco",
+          "nomeEn": "Belisco",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Tesouro enterrado",
+          "nomeEn": "Tesouro enterrado",
+          "tenho": 0,
+          "raridade": 1
+        },
+        {
+          "nome": "Toca do coelho",
+          "nomeEn": "Toca do coelho",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Os valentões",
-          "nomeEn": "The Bullies",
-          "tenho": 1,
+          "nome": "A raiz do problema",
+          "nomeEn": "A raiz do problema",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Jacqueline Bouvier",
-          "nomeEn": "Jacqueline Bouvier",
-          "tenho": 5,
+          "nome": "Cenouras em abundância",
+          "nomeEn": "Cenouras em abundância",
+          "tenho": 0,
           "raridade": 2
         }
       ]
     },
     {
       "numero": 4,
-      "nome": "Propriedade de Ned Flanders",
-      "nomeEn": "Ned Flanders' Property",
+      "nome": "Diversão em família",
+      "nomeEn": "Diversão em família",
       "stickers": [
         {
-          "nome": "Que mané!",
-          "nomeEn": "Diddily!",
-          "tenho": 4,
+          "nome": "Visita à fazenda",
+          "nomeEn": "Visita à fazenda",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Homer esperto",
-          "nomeEn": "Smart Homer",
-          "tenho": 3,
+          "nome": "Lanchinhos apetitosos",
+          "nomeEn": "Lanchinhos apetitosos",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Cai fora, Ned",
-          "nomeEn": "Scram, Ned",
-          "tenho": 2,
+          "nome": "O labirinto do feno",
+          "nomeEn": "O labirinto do feno",
+          "tenho": 0,
           "raridade": 1
         },
         {
-          "nome": "Vamos!",
-          "nomeEn": "Let's Go!",
-          "tenho": 2,
+          "nome": "Corrida suína",
+          "nomeEn": "Corrida suína",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Vamos lá!",
-          "nomeEn": "Come On!",
-          "tenho": 1,
+          "nome": "Porcos premiados",
+          "nomeEn": "Porcos premiados",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Bom gatinho",
-          "nomeEn": "Good Kitty",
-          "tenho": 3,
+          "nome": "Saltinho da vitória",
+          "nomeEn": "Saltinho da vitória",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Não fui eu",
-          "nomeEn": "Not Me",
-          "tenho": 1,
+          "nome": "Concurso de comer",
+          "nomeEn": "Concurso de comer",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Muito lento",
-          "nomeEn": "Too Slow",
-          "tenho": 2,
+          "nome": "Canções do campo",
+          "nomeEn": "Canções do campo",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Vizinholá!",
-          "nomeEn": "Neighborino!",
-          "tenho": 1,
+          "nome": "Hora do piquenique",
+          "nomeEn": "Hora do piquenique",
+          "tenho": 0,
           "raridade": 2
         }
       ]
     },
     {
       "numero": 5,
-      "nome": "Isso é Springfield",
-      "nomeEn": "That's Springfield",
+      "nome": "Chiques no chiqueiro",
+      "nomeEn": "Chiques no chiqueiro",
       "stickers": [
         {
-          "nome": "Nozes e Chiclete",
-          "nomeEn": "Nuts and Gum",
-          "tenho": 4,
+          "nome": "Amigos urbanos",
+          "nomeEn": "Amigos urbanos",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Cereal do Krusty",
-          "nomeEn": "Krusty Cereal",
-          "tenho": 2,
+          "nome": "Cãorioso",
+          "nomeEn": "Cãorioso",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Pimenta da insanidade",
-          "nomeEn": "Insanity Pepper",
-          "tenho": 5,
-          "raridade": 2
-        },
-        {
-          "nome": "Costeletas de porco",
-          "nomeEn": "Pork Chops",
-          "tenho": 2,
-          "raridade": 2
-        },
-        {
-          "nome": "Raspadinha",
-          "nomeEn": "Scratch-R",
-          "tenho": 3,
-          "raridade": 2
-        },
-        {
-          "nome": "Krusty Burger",
-          "nomeEn": "Krusty Burger",
+          "nome": "Duque delicado",
+          "nomeEn": "Duque delicado",
           "tenho": 1,
           "raridade": 2
         },
         {
-          "nome": "Espaguete do Luigi",
-          "nomeEn": "Luigi's Spaghetti",
-          "tenho": 3,
-          "raridade": 2
-        },
-        {
-          "nome": "Goma de Vênus",
-          "nomeEn": "Venus Gum",
+          "nome": "Perseguição penosa",
+          "nomeEn": "Perseguição penosa",
           "tenho": 1,
           "raridade": 2
         },
         {
-          "nome": "Buzz Cola",
-          "nomeEn": "Buzz Cola",
-          "tenho": 2,
+          "nome": "Srta. Priss",
+          "nomeEn": "Srta. Priss",
+          "tenho": 1,
+          "raridade": 2
+        },
+        {
+          "nome": "Cercado",
+          "nomeEn": "Cercado",
+          "tenho": 0,
+          "raridade": 2
+        },
+        {
+          "nome": "O profissa",
+          "nomeEn": "O profissa",
+          "tenho": 1,
+          "raridade": 2
+        },
+        {
+          "nome": "Aprendiz veloz",
+          "nomeEn": "Aprendiz veloz",
+          "tenho": 0,
+          "raridade": 2
+        },
+        {
+          "nome": "Cães pastores",
+          "nomeEn": "Cães pastores",
+          "tenho": 0,
           "raridade": 2
         }
       ]
     },
     {
       "numero": 6,
-      "nome": "Pinos amigos",
-      "nomeEn": "Bowling Pals",
+      "nome": "Negócios agrários",
+      "nomeEn": "Negócios agrários",
       "stickers": [
         {
-          "nome": "Vamos jogar boliche",
-          "nomeEn": "Let's Go Bowling",
+          "nome": "Galinhas sonolentas",
+          "nomeEn": "Galinhas sonolentas",
+          "tenho": 0,
+          "raridade": 2
+        },
+        {
+          "nome": "Porquinho faminto",
+          "nomeEn": "Porquinho faminto",
+          "tenho": 0,
+          "raridade": 2
+        },
+        {
+          "nome": "Baixando o bico",
+          "nomeEn": "Baixando o bico",
           "tenho": 1,
           "raridade": 2
         },
         {
-          "nome": "Você joga boliche?",
-          "nomeEn": "Do You Bowl?",
-          "tenho": 1,
+          "nome": "Dando uma palhinha",
+          "nomeEn": "Dando uma palhinha",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Uau! Que inveja!",
-          "nomeEn": "Woo Hoo! So Jealous!",
-          "tenho": 3,
+          "nome": "Corvo rasante",
+          "nomeEn": "Corvo rasante",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Feio, feio",
-          "nomeEn": "Ugly, Ugly",
-          "tenho": 1,
+          "nome": "Visual animal!",
+          "nomeEn": "Visual animal!",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Campeão do boliche",
-          "nomeEn": "Bowling Champ",
-          "tenho": 1,
+          "nome": "Faça chuva ou faça sol",
+          "nomeEn": "Faça chuva ou faça sol",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Boa!",
-          "nomeEn": "Nice!",
-          "tenho": 2,
+          "nome": "Nascida para tosquiar",
+          "nomeEn": "Nascida para tosquiar",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Garra contra garra",
-          "nomeEn": "Claw Claw",
-          "tenho": 4,
-          "raridade": 2
-        },
-        {
-          "nome": "O velho ganha ouro",
-          "nomeEn": "Old Man Wins Gold",
-          "tenho": 2,
-          "raridade": 2
-        },
-        {
-          "nome": "Colegas de equipe",
-          "nomeEn": "Teammates",
-          "tenho": 3,
+          "nome": "Esforço duplo",
+          "nomeEn": "Esforço duplo",
+          "tenho": 0,
           "raridade": 2
         }
       ]
     },
     {
       "numero": 7,
-      "nome": "Aventura da Maggie",
-      "nomeEn": "Maggie's Adventure",
+      "nome": "Campos floridos",
+      "nomeEn": "Campos floridos",
       "stickers": [
         {
-          "nome": "Dedal",
-          "nomeEn": "Thimble",
+          "nome": "Tulipas tranquilas",
+          "nomeEn": "Tulipas tranquilas",
           "tenho": 1,
           "raridade": 2
         },
         {
-          "nome": "Dados",
-          "nomeEn": "Dice",
-          "tenho": 2,
+          "nome": "Gotas de orvalho",
+          "nomeEn": "Gotas de orvalho",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Casa rica",
-          "nomeEn": "Rich House",
-          "tenho": 6,
+          "nome": "Zangão",
+          "nomeEn": "Zangão",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Estação de água",
-          "nomeEn": "Water Works",
-          "tenho": 3,
+          "nome": "Buquês em abundância",
+          "nomeEn": "Buquês em abundância",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Scottie",
-          "nomeEn": "Scottie",
-          "tenho": 2,
+          "nome": "Aonde você flor",
+          "nomeEn": "Aonde você flor",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Bum!",
-          "nomeEn": "Boom!",
-          "tenho": 4,
-          "raridade": 2
-        },
-        {
-          "nome": "Passando pelo Go",
-          "nomeEn": "Passing Go",
+          "nome": "Santa margarida!",
+          "nomeEn": "Santa margarida!",
           "tenho": 1,
           "raridade": 2
         },
         {
-          "nome": "Saindo da cadeia",
-          "nomeEn": "Get Out of Jail",
-          "tenho": 1,
+          "nome": "Arranjo artístico",
+          "nomeEn": "Arranjo artístico",
+          "tenho": 0,
+          "raridade": 2
+        },
+        {
+          "nome": "Escolhas fresquinhas",
+          "nomeEn": "Escolhas fresquinhas",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Passeio de trem",
-          "nomeEn": "Train Ride",
-          "tenho": 1,
+          "nome": "Força floral",
+          "nomeEn": "Força floral",
+          "tenho": 0,
           "raridade": 3
         }
       ]
     },
     {
       "numero": 8,
-      "nome": "Heróis de Springfield",
-      "nomeEn": "Springfield Heroes",
+      "nome": "Achados agrários",
+      "nomeEn": "Achados agrários",
       "stickers": [
         {
-          "nome": "Bartman",
-          "nomeEn": "Bartman",
-          "tenho": 2,
+          "nome": "Pé na estrada!",
+          "nomeEn": "Pé na estrada!",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Homem Torta",
-          "nomeEn": "Pie Man",
-          "tenho": 1,
+          "nome": "Siga por aqui",
+          "nomeEn": "Siga por aqui",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Ondas de calor",
-          "nomeEn": "Heat Waves",
-          "tenho": 3,
+          "nome": "Histórias para contar",
+          "nomeEn": "Histórias para contar",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Homem-Abelha",
-          "nomeEn": "Bee Man",
-          "tenho": 1,
+          "nome": "Negócio fechado!",
+          "nomeEn": "Negócio fechado!",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Homem Radioativo",
-          "nomeEn": "Radioactive Man",
-          "tenho": 1,
-          "raridade": 2
-        },
-        {
-          "nome": "Homem Elástico",
-          "nomeEn": "Elastic Man",
-          "tenho": 2,
-          "raridade": 3
-        },
-        {
-          "nome": "Mulher Marrenta",
-          "nomeEn": "Stink Woman",
-          "tenho": 2,
-          "raridade": 3
-        },
-        {
-          "nome": "Caidaço Boy",
-          "nomeEn": "Fallout Boy",
+          "nome": "Armadilha pra turista",
+          "nomeEn": "Armadilha pra turista",
           "tenho": 1,
           "raridade": 3
         },
         {
-          "nome": "Batman das frutas",
-          "nomeEn": "Fruit Batman",
-          "tenho": 3,
+          "nome": "Disco voador?",
+          "nomeEn": "Disco voador?",
+          "tenho": 0,
+          "raridade": 3
+        },
+        {
+          "nome": "Rodovia interestadual",
+          "nomeEn": "Rodovia interestadual",
+          "tenho": 0,
+          "raridade": 3
+        },
+        {
+          "nome": "Estalagem espacial",
+          "nomeEn": "Estalagem espacial",
+          "tenho": 0,
+          "raridade": 3
+        },
+        {
+          "nome": "Lanche extraterrestre",
+          "nomeEn": "Lanche extraterrestre",
+          "tenho": 0,
           "raridade": 3
         }
       ]
     },
     {
       "numero": 9,
-      "nome": "Homie conhece Marge",
-      "nomeEn": "Homie Meets Marge",
+      "nome": "Cultivando cuidados",
+      "nomeEn": "Cultivando cuidados",
       "stickers": [
         {
-          "nome": "Surgem borboletas",
-          "nomeEn": "Butterflies",
-          "tenho": 1,
+          "nome": "Vamos lá!",
+          "nomeEn": "Come On!",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Pompitus",
-          "nomeEn": "Pompitus",
-          "tenho": 2,
+          "nome": "Maravilhovo",
+          "nomeEn": "Maravilhovo",
+          "tenho": 0,
           "raridade": 2
         },
         {
-          "nome": "Você quer?",
-          "nomeEn": "Do You?",
-          "tenho": 1,
-          "raridade": 2
-        },
-        {
-          "nome": "Eu aceito",
-          "nomeEn": "I Do",
-          "tenho": 3,
-          "raridade": 2
-        },
-        {
-          "nome": "Carona por ai",
-          "nomeEn": "Hitchhiking",
-          "tenho": 2,
+          "nome": "Semeando o sucesso",
+          "nomeEn": "Semeando o sucesso",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Oh Homie",
-          "nomeEn": "Oh Homie",
-          "tenho": 1,
+          "nome": "Peg-E e Porco-E",
+          "nomeEn": "Peg-E e Porco-E",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Encontro romântico",
-          "nomeEn": "Romantic Date",
-          "tenho": 2,
+          "nome": "Tecnocultivo",
+          "nomeEn": "Tecnocultivo",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Beijos",
-          "nomeEn": "Kisses",
+          "nome": "Futuro refrescante",
+          "nomeEn": "Futuro refrescante",
+          "tenho": 0,
+          "raridade": 3
+        },
+        {
+          "nome": "Energia solar",
+          "nomeEn": "Energia solar",
           "tenho": 1,
           "raridade": 3
         },
         {
-          "nome": "Aceito de novo",
-          "nomeEn": "I Do Again",
-          "tenho": 2,
+          "nome": "Hora do almoço",
+          "nomeEn": "Hora do almoço",
+          "tenho": 1,
+          "raridade": 3
+        },
+        {
+          "nome": "Cordeirinho",
+          "nomeEn": "Cordeirinho",
+          "tenho": 0,
           "raridade": 3
         }
       ]
     },
     {
       "numero": 10,
-      "nome": "Mil empregos de Marge",
-      "nomeEn": "Marge's Many Jobs",
+      "nome": "Dias lácteos",
+      "nomeEn": "Dias lácteos",
       "stickers": [
         {
-          "nome": "Policial Marge",
-          "nomeEn": "Police Marge",
-          "tenho": 1,
+          "nome": "Grama sempre mais verde",
+          "nomeEn": "Grama sempre mais verde",
+          "tenho": 0,
+          "raridade": 2
+        },
+        {
+          "nome": "Ordenha",
+          "nomeEn": "Ordenha",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Pintora",
-          "nomeEn": "Painter",
-          "tenho": 1,
+          "nome": "Rota do jarro",
+          "nomeEn": "Rota do jarro",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Corretora de imóveis",
-          "nomeEn": "Real Estate Agent",
-          "tenho": 3,
+          "nome": "Batedeira de manteiga",
+          "nomeEn": "Batedeira de manteiga",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Escritora de romances",
-          "nomeEn": "Romance Writer",
-          "tenho": 2,
+          "nome": "Suíçoculento",
+          "nomeEn": "Suíçoculento",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Fabricante de pretzels",
-          "nomeEn": "Pretzel Maker",
-          "tenho": 1,
+          "nome": "Malcheiroso",
+          "nomeEn": "Malcheiroso",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Prefeita",
-          "nomeEn": "Mayor",
-          "tenho": 1,
+          "nome": "Leite a domicílio",
+          "nomeEn": "Leite a domicílio",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Fisiculturista",
-          "nomeEn": "Bodybuilder",
-          "tenho": 2,
+          "nome": "Avacalhando",
+          "nomeEn": "Avacalhando",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Garçonete",
-          "nomeEn": "Waitress",
-          "tenho": 2,
-          "raridade": 3
-        },
-        {
-          "nome": "Atriz",
-          "nomeEn": "Actress",
-          "tenho": 1,
+          "nome": "Caubói magnata",
+          "nomeEn": "Caubói magnata",
+          "tenho": 0,
           "raridade": 3
         }
       ]
     },
     {
       "numero": 11,
-      "nome": "Antigos rivais",
-      "nomeEn": "Old Rivals",
+      "nome": "Ingredientes do Café",
+      "nomeEn": "Ingredientes do Café",
       "stickers": [
         {
-          "nome": "Te peguei agora!",
-          "nomeEn": "Caught Ya!",
-          "tenho": 3,
-          "raridade": 3
-        },
-        {
-          "nome": "Fúria no trânsito",
-          "nomeEn": "Road Rage",
-          "tenho": 1,
-          "raridade": 3
-        },
-        {
-          "nome": "Sorriso maligno",
-          "nomeEn": "Evil Smile",
+          "nome": "Enfarinhar",
+          "nomeEn": "Enfarinhar",
           "tenho": 2,
-          "raridade": 3
+          "raridade": 2
         },
         {
-          "nome": "Eletricidade",
-          "nomeEn": "Electricity",
+          "nome": "Ovos",
+          "nomeEn": "Ovos",
+          "tenho": 1,
+          "raridade": 2
+        },
+        {
+          "nome": "Laticínio",
+          "nomeEn": "Laticínio",
+          "tenho": 1,
+          "raridade": 2
+        },
+        {
+          "nome": "Queijo",
+          "nomeEn": "Queijo",
           "tenho": 1,
           "raridade": 3
         },
         {
-          "nome": "No rosto não!",
-          "nomeEn": "Not The Face!",
-          "tenho": 2,
-          "raridade": 3
-        },
-        {
-          "nome": "Aniversário",
-          "nomeEn": "Birthday",
-          "tenho": 2,
-          "raridade": 3
-        },
-        {
-          "nome": "Valeu a pena!",
-          "nomeEn": "Worth It!",
+          "nome": "Vegetais",
+          "nomeEn": "Vegetais",
           "tenho": 1,
           "raridade": 3
         },
         {
-          "nome": "Excelente!",
-          "nomeEn": "Excellent!",
-          "tenho": 1,
+          "nome": "Frutas",
+          "nomeEn": "Frutas",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Corrida de cães",
-          "nomeEn": "Dog Race",
+          "nome": "Nozes",
+          "nomeEn": "Nozes",
           "tenho": 1,
-          "raridade": 3
+          "raridade": 4
+        },
+        {
+          "nome": "Mel",
+          "nomeEn": "Mel",
+          "tenho": 0,
+          "raridade": 4
+        },
+        {
+          "nome": "Tempero especial",
+          "nomeEn": "Tempero especial",
+          "tenho": 0,
+          "raridade": 4
         }
       ]
     },
     {
       "numero": 12,
-      "nome": "Escola primária",
-      "nomeEn": "Elementary School",
+      "nome": "Ciência da estufa",
+      "nomeEn": "Ciência da estufa",
       "stickers": [
         {
-          "nome": "Ralph Wiggum",
-          "nomeEn": "Ralph Wiggum",
-          "tenho": 1,
+          "nome": "Em nome da ciência!",
+          "nomeEn": "Em nome da ciência!",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Sherri e Terri",
-          "nomeEn": "Sherri and Terri",
-          "tenho": 1,
+          "nome": "Curiosa",
+          "nomeEn": "Curiosa",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Milhouse Van Houten",
-          "nomeEn": "Milhouse Van Houten",
-          "tenho": 2,
+          "nome": "Suco duplo",
+          "nomeEn": "Suco duplo",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Nelson Muntz",
-          "nomeEn": "Nelson Muntz",
-          "tenho": 1,
+          "nome": "Milho ao quadrado",
+          "nomeEn": "Milho ao quadrado",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Martin Prince",
-          "nomeEn": "Martin Prince",
-          "tenho": 2,
+          "nome": "Ajudante especial",
+          "nomeEn": "Ajudante especial",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Hubert Wong",
-          "nomeEn": "Hubert Wong",
-          "tenho": 1,
+          "nome": "Drone regador",
+          "nomeEn": "Drone regador",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Allison Taylor",
-          "nomeEn": "Allison Taylor",
-          "tenho": 1,
+          "nome": "Abacatologia",
+          "nomeEn": "Abacatologia",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Uter Zorker",
-          "nomeEn": "Uter Zorker",
-          "tenho": 1,
+          "nome": "Banho de girassol",
+          "nomeEn": "Banho de girassol",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Janey Powell",
-          "nomeEn": "Janey Powell",
-          "tenho": 1,
+          "nome": "Melancia azul",
+          "nomeEn": "Melancia azul",
+          "tenho": 0,
           "raridade": 4
         }
       ]
     },
     {
       "numero": 13,
-      "nome": "Animais exóticos",
-      "nomeEn": "Exotic Animals",
+      "nome": "Problema abelhudo",
+      "nomeEn": "Problema abelhudo",
       "stickers": [
         {
-          "nome": "Bilú bilú",
-          "nomeEn": "Blu Bloo",
-          "tenho": 2,
+          "nome": "Abelhas operárias",
+          "nomeEn": "Abelhas operárias",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Porco-Aranha",
-          "nomeEn": "Spider-Pig",
-          "tenho": 2,
+          "nome": "A colmeia",
+          "nomeEn": "A colmeia",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Princesa",
-          "nomeEn": "Princess",
-          "tenho": 3,
+          "nome": "Favo de mel",
+          "nomeEn": "Favo de mel",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Panda ilegal",
-          "nomeEn": "Illegal Panda",
-          "tenho": 1,
+          "nome": "Almoço tranquilo",
+          "nomeEn": "Almoço tranquilo",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Sr. Teeny",
-          "nomeEn": "Mr. Teeny",
-          "tenho": 1,
+          "nome": "Voa daqui!",
+          "nomeEn": "Voa daqui!",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Beliscão",
-          "nomeEn": "Pinchy",
-          "tenho": 2,
+          "nome": "I-na-be-lha-di-tá-vel!",
+          "nomeEn": "I-na-be-lha-di-tá-vel!",
+          "tenho": 0,
+          "raridade": 3
+        },
+        {
+          "nome": "Búúúú, abelhinha!",
+          "nomeEn": "Búúúú, abelhinha!",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Lagarta-Gritante",
-          "nomeEn": "Screaming Caterpillar",
-          "tenho": 2,
+          "nome": "Muito amor envolvido",
+          "nomeEn": "Muito amor envolvido",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Pisoteador",
-          "nomeEn": "Stomper",
-          "tenho": 2,
-          "raridade": 4
-        },
-        {
-          "nome": "Blinky",
-          "nomeEn": "Blinky",
-          "tenho": 2,
+          "nome": "Docinho, cheguei!",
+          "nomeEn": "Docinho, cheguei!",
+          "tenho": 0,
           "raridade": 9
         }
       ]
     },
     {
       "numero": 14,
-      "nome": "Cantoria",
-      "nomeEn": "Singing",
+      "nome": "Cidade da Cenoura",
+      "nomeEn": "Cidade da Cenoura",
       "stickers": [
         {
-          "nome": "Bebê a bordo",
-          "nomeEn": "Baby on Board",
-          "tenho": 1,
+          "nome": "Arcada",
+          "nomeEn": "Arcada",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "NÃO EU!",
-          "nomeEn": "NOT ME!",
-          "tenho": 1,
+          "nome": "Fonte da aldeia",
+          "nomeEn": "Fonte da aldeia",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Últimos pedidos",
-          "nomeEn": "Last Call",
-          "tenho": 1,
+          "nome": "Próxima parada",
+          "nomeEn": "Próxima parada",
+          "tenho": 0,
           "raridade": 3
         },
         {
-          "nome": "Nós fazemos!",
-          "nomeEn": "We Do!",
-          "tenho": 1,
+          "nome": "Sabor vergonha alheia",
+          "nomeEn": "Sabor vergonha alheia",
+          "tenho": 0,
+          "raridade": 3
+        },
+        {
+          "nome": "Bolo de cenoura",
+          "nomeEn": "Bolo de cenoura",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Veja meu colete!",
-          "nomeEn": "See My Vest!",
-          "tenho": 1,
+          "nome": "Momento fotográfico",
+          "nomeEn": "Momento fotográfico",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Springfield",
-          "nomeEn": "Springfield",
-          "tenho": 1,
+          "nome": "Vitória!",
+          "nomeEn": "Vitória!",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Mixtape",
-          "nomeEn": "Mixtape",
-          "tenho": 1,
-          "raridade": 4
-        },
-        {
-          "nome": "Pobre coitado",
-          "nomeEn": "Poor Soul",
-          "tenho": 1,
+          "nome": "Rudy Raiz",
+          "nomeEn": "Rudy Raiz",
+          "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Blues da Lisa",
-          "nomeEn": "Lisa's Blues",
-          "tenho": 1,
+          "nome": "Dia do desfile",
+          "nomeEn": "Dia do desfile",
+          "tenho": 0,
           "raridade": 5
         }
       ]
     },
     {
       "numero": 15,
-      "nome": "Presunto nota 10!",
-      "nomeEn": "Top Notch Ham!",
+      "nome": "Amigos da fazenda",
+      "nomeEn": "Amigos da fazenda",
       "stickers": [
         {
-          "nome": "Inesquecível",
-          "nomeEn": "Unforgettable",
-          "tenho": 1,
+          "nome": "Soneca bovina",
+          "nomeEn": "Soneca bovina",
+          "tenho": 0,
+          "raridade": 3
+        },
+        {
+          "nome": "Chafurdeiros",
+          "nomeEn": "Chafurdeiros",
+          "tenho": 0,
+          "raridade": 3
+        },
+        {
+          "nome": "Piando!",
+          "nomeEn": "Piando!",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Assado queimado",
-          "nomeEn": "Burnt Roast",
-          "tenho": 1,
+          "nome": "Seriedade zero",
+          "nomeEn": "Seriedade zero",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Ho! Ho! Ho!",
-          "nomeEn": "Ho! Ho! Ho!",
-          "tenho": 1,
+          "nome": "Hora do trote",
+          "nomeEn": "Hora do trote",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Só alongando",
-          "nomeEn": "Just Stretching",
-          "tenho": 2,
+          "nome": "Cãopetente",
+          "nomeEn": "Cãopetente",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Presuntos defumados",
-          "nomeEn": "Smoked Hams",
-          "tenho": 1,
-          "raridade": 4
-        },
-        {
-          "nome": "Obviamente grelhados",
-          "nomeEn": "Obviously Grilled",
-          "tenho": 3,
+          "nome": "Cãolaborativo",
+          "nomeEn": "Cãolaborativo",
+          "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Posso ver?",
-          "nomeEn": "Can I See?",
-          "tenho": 1,
+          "nome": "Arrebanhados",
+          "nomeEn": "Arrebanhados",
+          "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Aurora boreal",
-          "nomeEn": "Aurora Borealis",
-          "tenho": 1,
+          "nome": "Colheita de maçãs",
+          "nomeEn": "Colheita de maçãs",
+          "tenho": 0,
           "raridade": 5
-        },
-        {
-          "nome": "Luzes do norte",
-          "nomeEn": "Northern Lights",
-          "tenho": 1,
-          "raridade": 10
         }
       ]
     },
     {
       "numero": 16,
-      "nome": "Memes amados",
-      "nomeEn": "Beloved Memes",
+      "nome": "Raízes culturais",
+      "nomeEn": "Raízes culturais",
       "stickers": [
         {
-          "nome": "Estou em perigo",
-          "nomeEn": "I'm In Danger",
-          "tenho": 1,
+          "nome": "Interior",
+          "nomeEn": "Interior",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Grita pra nuvem",
-          "nomeEn": "Shout at Cloud",
-          "tenho": 3,
+          "nome": "Estilo rústico",
+          "nomeEn": "Estilo rústico",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Deslizando",
-          "nomeEn": "Sliding",
-          "tenho": 3,
+          "nome": "Natureza-morta",
+          "nomeEn": "Natureza-morta",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Lisa apresenta",
-          "nomeEn": "Lisa Presents",
-          "tenho": 2,
+          "nome": "Ângulo perfeito",
+          "nomeEn": "Ângulo perfeito",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Homer no arbusto",
-          "nomeEn": "Homer in Bush",
-          "tenho": 2,
+          "nome": "A arte das maçãs",
+          "nomeEn": "A arte das maçãs",
+          "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Mais café",
-          "nomeEn": "More Coffee",
-          "tenho": 2,
+          "nome": "Retrato em família",
+          "nomeEn": "Retrato em família",
+          "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Um de nós",
-          "nomeEn": "One of Us",
-          "tenho": 1,
+          "nome": "Pastoril e pitoresco",
+          "nomeEn": "Pastoril e pitoresco",
+          "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Estúpido e sexy Flanders",
-          "nomeEn": "Stupid Sexy Flanders",
-          "tenho": 1,
+          "nome": "Milharais farfalhantes",
+          "nomeEn": "Milharais farfalhantes",
+          "tenho": 0,
           "raridade": 10
         },
         {
-          "nome": "Pior adesivo de todos",
-          "nomeEn": "Worst Sticker Ever",
+          "nome": "Pequenos prazeres",
+          "nomeEn": "Pequenos prazeres",
           "tenho": 1,
           "raridade": 11
         }
@@ -982,305 +982,305 @@
     },
     {
       "numero": 17,
-      "nome": "Comichão e Coçadinha",
-      "nomeEn": "Itchy and Scratchy",
+      "nome": "Frutos do trabalho",
+      "nomeEn": "Frutos do trabalho",
       "stickers": [
         {
-          "nome": "Corre, Coçadinha!",
-          "nomeEn": "Run, Scratchy!",
-          "tenho": 1,
+          "nome": "A horta é agora",
+          "nomeEn": "A horta é agora",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Cuidado",
-          "nomeEn": "Watch Out",
-          "tenho": 2,
+          "nome": "Cesta cheia",
+          "nomeEn": "Cesta cheia",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Empanturrado",
-          "nomeEn": "Stuffed",
-          "tenho": 1,
+          "nome": "Abóbora gigante",
+          "nomeEn": "Abóbora gigante",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Ataque cardíaco",
-          "nomeEn": "Heart Attack",
-          "tenho": 1,
-          "raridade": 9
-        },
-        {
-          "nome": "Passou por cima",
-          "nomeEn": "Run Over",
+          "nome": "Galinheiro",
+          "nomeEn": "Galinheiro",
           "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Não ria!",
-          "nomeEn": "Don't Laugh!",
+          "nome": "As mercadorias",
+          "nomeEn": "As mercadorias",
+          "tenho": 0,
+          "raridade": 9
+        },
+        {
+          "nome": "O “milhor” cereal",
+          "nomeEn": "O “milhor” cereal",
           "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Transbordando",
-          "nomeEn": "Overflowing",
-          "tenho": 1,
+          "nome": "Em conserva",
+          "nomeEn": "Em conserva",
+          "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Demolição",
-          "nomeEn": "Demolition",
-          "tenho": 1,
+          "nome": "Pegando picles",
+          "nomeEn": "Pegando picles",
+          "tenho": 0,
           "raridade": 10
         },
         {
-          "nome": "Vá para a estação",
-          "nomeEn": "Go to the Station",
-          "tenho": 1,
+          "nome": "O banquete",
+          "nomeEn": "O banquete",
+          "tenho": 0,
           "raridade": 11
         }
       ]
     },
     {
       "numero": 18,
-      "nome": "Taverna Moe",
-      "nomeEn": "Moe's Tavern",
+      "nome": "Cenas serenas",
+      "nomeEn": "Cenas serenas",
       "stickers": [
         {
-          "nome": "Do Moe",
-          "nomeEn": "Moe's",
-          "tenho": 1,
+          "nome": "Lavagem impecável",
+          "nomeEn": "Lavagem impecável",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "De trapos a trapos",
-          "nomeEn": "Rags to Rags",
-          "tenho": 2,
+          "nome": "Fora do expediente",
+          "nomeEn": "Fora do expediente",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Testador de amor",
-          "nomeEn": "Love Tester",
-          "tenho": 1,
+          "nome": "Sonhador",
+          "nomeEn": "Sonhador",
+          "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Ovos em conserva",
-          "nomeEn": "Pickled Eggs",
-          "tenho": 2,
+          "nome": "Banho de lama",
+          "nomeEn": "Banho de lama",
+          "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Barney Gumble",
-          "nomeEn": "Barney Gumble",
+          "nome": "Belamente bucólico",
+          "nomeEn": "Belamente bucólico",
           "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Trote telefônico",
-          "nomeEn": "Phone Prank",
-          "tenho": 2,
+          "nome": "Doçura",
+          "nomeEn": "Doçura",
+          "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Lenny Leonard",
-          "nomeEn": "Lenny Leonard",
-          "tenho": 1,
-          "raridade": 10
+          "nome": "Conforto da varanda",
+          "nomeEn": "Conforto da varanda",
+          "tenho": 0,
+          "raridade": 5
         },
         {
-          "nome": "Carl Carlson",
-          "nomeEn": "Carl Carlson",
+          "nome": "Situação cítrica",
+          "nomeEn": "Situação cítrica",
           "tenho": 0,
           "raridade": 10
         },
         {
-          "nome": "Mesa de sinuca",
-          "nomeEn": "Pool Table",
-          "tenho": 3,
+          "nome": "Luar",
+          "nomeEn": "Luar",
+          "tenho": 0,
           "raridade": 11
         }
       ]
     },
     {
       "numero": 19,
-      "nome": "Mil empregos de Homer",
-      "nomeEn": "Homer's Many Jobs",
+      "nome": "Agroglífos arcanos",
+      "nomeEn": "Agroglífos arcanos",
       "stickers": [
         {
-          "nome": "Boxeador",
-          "nomeEn": "Boxer",
-          "tenho": 2,
+          "nome": "Pegadinha do Ben",
+          "nomeEn": "Pegadinha do Ben",
+          "tenho": 0,
           "raridade": 4
         },
         {
-          "nome": "Saneamento",
-          "nomeEn": "Sanitation",
-          "tenho": 2,
+          "nome": "Obra de arte",
+          "nomeEn": "Obra de arte",
+          "tenho": 0,
+          "raridade": 4
+        },
+        {
+          "nome": "Alienígenas!",
+          "nomeEn": "Alienígenas!",
+          "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Trabalhador remoto",
-          "nomeEn": "Remote Worker",
-          "tenho": 1,
+          "nome": "Prova",
+          "nomeEn": "Prova",
+          "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Segurança",
-          "nomeEn": "Security Guard",
-          "tenho": 1,
+          "nome": "Conspiração",
+          "nomeEn": "Conspiração",
+          "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Astronauta",
-          "nomeEn": "Astronaut",
-          "tenho": 1,
+          "nome": "Paranoia",
+          "nomeEn": "Paranoia",
+          "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Mascote",
-          "nomeEn": "Mascot",
-          "tenho": 1,
-          "raridade": 5
-        },
-        {
-          "nome": "Condutor de monotrilho",
-          "nomeEn": "Monorail Conductor",
-          "tenho": 2,
+          "nome": "Chapéus de alumínio",
+          "nomeEn": "Chapéus de alumínio",
+          "tenho": 0,
           "raridade": 10
         },
         {
-          "nome": "Os Bem Afinados",
-          "nomeEn": "The B Sharps",
-          "tenho": 1,
+          "nome": "Extraterrestres",
+          "nomeEn": "Extraterrestres",
+          "tenho": 0,
           "raridade": 10
         },
         {
-          "nome": "Sr. Escavadeira",
-          "nomeEn": "Mr. Plow",
-          "tenho": 1,
+          "nome": "Te peguei!",
+          "nomeEn": "Te peguei!",
+          "tenho": 0,
           "raridade": 11
         }
       ]
     },
     {
       "numero": 20,
-      "nome": "Alta sociedade",
-      "nomeEn": "High Society",
+      "nome": "Feira agrícola",
+      "nomeEn": "Feira agrícola",
       "stickers": [
         {
-          "nome": "Kent Brockman",
-          "nomeEn": "Kent Brockman",
-          "tenho": 1,
-          "raridade": 9
-        },
-        {
-          "nome": "Sra. Vanderbilt",
-          "nomeEn": "Mrs. Vanderbilt",
+          "nome": "Ansiosíssima",
+          "nomeEn": "Ansiosíssima",
           "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Prefeito Quimby",
-          "nomeEn": "Mayor Quimby",
-          "tenho": 1,
-          "raridade": 5
+          "nome": "Clássicos",
+          "nomeEn": "Clássicos",
+          "tenho": 0,
+          "raridade": 9
         },
         {
-          "nome": "Texano rico",
-          "nomeEn": "Rich Texan",
+          "nome": "Fome de algodão",
+          "nomeEn": "Fome de algodão",
           "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Sr. Burns",
-          "nomeEn": "Mr. Burns",
-          "tenho": 1,
+          "nome": "Julgamento",
+          "nomeEn": "Julgamento",
+          "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Hank Scorpio",
-          "nomeEn": "Hank Scorpio",
-          "tenho": 1,
-          "raridade": 10
+          "nome": "Fita azul",
+          "nomeEn": "Fita azul",
+          "tenho": 0,
+          "raridade": 5
         },
         {
-          "nome": "Ranier Wolfcastle",
-          "nomeEn": "Ranier Wolfcastle",
-          "tenho": 1,
-          "raridade": 10
-        },
-        {
-          "nome": "Drederick Tatum",
-          "nomeEn": "Drederick Tatum",
+          "nome": "Abóboravilhoso",
+          "nomeEn": "Abóboravilhoso",
           "tenho": 0,
           "raridade": 10
         },
         {
-          "nome": "Krusty, o palhaço",
-          "nomeEn": "Krusty the Clown",
-          "tenho": 3,
+          "nome": "Derrubei!",
+          "nomeEn": "Derrubei!",
+          "tenho": 0,
+          "raridade": 10
+        },
+        {
+          "nome": "Com a banda",
+          "nomeEn": "Com a banda",
+          "tenho": 0,
+          "raridade": 10
+        },
+        {
+          "nome": "Fogos de artifício",
+          "nomeEn": "Fogos de artifício",
+          "tenho": 0,
           "raridade": 11
         }
       ]
     },
     {
       "numero": 21,
-      "nome": "Momentos icônicos",
-      "nomeEn": "Iconic Moments",
+      "nome": "Lendas dos Looney Tunes",
+      "nomeEn": "Lendas dos Looney Tunes",
       "stickers": [
         {
-          "nome": "Bloqueador Solar",
-          "nomeEn": "Sunblocker",
-          "tenho": 2,
-          "raridade": 9
-        },
-        {
-          "nome": "O sanduíche do Homer",
-          "nomeEn": "Homer's Sandwich",
+          "nome": "Coiote",
+          "nomeEn": "Coiote",
           "tenho": 0,
           "raridade": 9
         },
         {
-          "nome": "Pisar no ancinho",
-          "nomeEn": "Rake Step",
-          "tenho": 1,
+          "nome": "Gato medroso",
+          "nomeEn": "Gato medroso",
+          "tenho": 0,
+          "raridade": 9
+        },
+        {
+          "nome": "Papa-Léguas",
+          "nomeEn": "Papa-Léguas",
+          "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Faça por ela",
-          "nomeEn": "Do It For Her",
-          "tenho": 1,
+          "nome": "Piu-Piu",
+          "nomeEn": "Piu-Piu",
+          "tenho": 0,
           "raridade": 5
         },
         {
-          "nome": "Sr. Faísca",
-          "nomeEn": "Mr. Sparkle",
-          "tenho": 2,
-          "raridade": 10
-        },
-        {
-          "nome": "Sr. Snrub",
-          "nomeEn": "Mr. Snrub",
+          "nome": "Frajola",
+          "nomeEn": "Frajola",
           "tenho": 0,
           "raridade": 10
         },
         {
-          "nome": "Cara incógnito",
-          "nomeEn": "Mystery Guy",
-          "tenho": 1,
+          "nome": "Hector",
+          "nomeEn": "Hector",
+          "tenho": 0,
           "raridade": 10
         },
         {
-          "nome": "Salto do desfiladeiro",
-          "nomeEn": "Canyon Leap",
-          "tenho": 2,
+          "nome": "Presente suspeito",
+          "nomeEn": "Presente suspeito",
+          "tenho": 0,
           "raridade": 10
         },
         {
-          "nome": "Marge elegante",
-          "nomeEn": "Fancy Marge",
-          "tenho": 1,
+          "nome": "Hortelino Troca-Letras",
+          "nomeEn": "Hortelino Troca-Letras",
+          "tenho": 0,
+          "raridade": 10
+        },
+        {
+          "nome": "Pernalonga",
+          "nomeEn": "Pernalonga",
+          "tenho": 0,
           "raridade": 11
         }
       ]
