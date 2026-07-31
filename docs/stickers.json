@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-07-29T19:25:10.108Z",
+  "atualizadoEm": "2026-07-31T17:32:38.158Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -18,13 +18,13 @@
         {
           "nome": "Marvin",
           "nomeEn": "Marvin",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Taz",
           "nomeEn": "Taz",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -91,7 +91,7 @@
         {
           "nome": "Café da manhã",
           "nomeEn": "Café da manhã",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -103,7 +103,7 @@
         {
           "nome": "Afazeres na fazenda",
           "nomeEn": "Afazeres na fazenda",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -115,7 +115,7 @@
         {
           "nome": "Arado",
           "nomeEn": "Arado",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -134,7 +134,7 @@
         {
           "nome": "O culpado",
           "nomeEn": "O culpado",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -146,7 +146,7 @@
         {
           "nome": "Enquanto isso...",
           "nomeEn": "Enquanto isso...",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -195,7 +195,7 @@
         {
           "nome": "Visita à fazenda",
           "nomeEn": "Visita à fazenda",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -231,7 +231,7 @@
         {
           "nome": "Concurso de comer",
           "nomeEn": "Concurso de comer",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -256,7 +256,7 @@
         {
           "nome": "Amigos urbanos",
           "nomeEn": "Amigos urbanos",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -274,7 +274,7 @@
         {
           "nome": "Perseguição penosa",
           "nomeEn": "Perseguição penosa",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -323,7 +323,7 @@
         {
           "nome": "Porquinho faminto",
           "nomeEn": "Porquinho faminto",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -353,7 +353,7 @@
         {
           "nome": "Faça chuva ou faça sol",
           "nomeEn": "Faça chuva ou faça sol",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -396,13 +396,13 @@
         {
           "nome": "Buquês em abundância",
           "nomeEn": "Buquês em abundância",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Aonde você flor",
           "nomeEn": "Aonde você flor",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -451,7 +451,7 @@
         {
           "nome": "Histórias para contar",
           "nomeEn": "Histórias para contar",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -500,7 +500,7 @@
         {
           "nome": "Vamos lá!",
           "nomeEn": "Come On!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -628,25 +628,25 @@
         {
           "nome": "Ovos",
           "nomeEn": "Ovos",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Laticínio",
           "nomeEn": "Laticínio",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Queijo",
           "nomeEn": "Queijo",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 3
         },
         {
           "nome": "Vegetais",
           "nomeEn": "Vegetais",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -805,7 +805,7 @@
         {
           "nome": "Arcada",
           "nomeEn": "Arcada",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -933,7 +933,7 @@
         {
           "nome": "Estilo rústico",
           "nomeEn": "Estilo rústico",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
