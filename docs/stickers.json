@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-06T11:43:41.999Z",
+  "atualizadoEm": "2026-08-07T17:39:54.717Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -12,7 +12,7 @@
         {
           "nome": "E aí, pessoal!",
           "nomeEn": "E aí, pessoal!",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -115,7 +115,7 @@
         {
           "nome": "Arado",
           "nomeEn": "Arado",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -152,7 +152,7 @@
         {
           "nome": "Toupeira",
           "nomeEn": "Toupeira",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -225,25 +225,25 @@
         {
           "nome": "Saltinho da vitória",
           "nomeEn": "Saltinho da vitória",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Concurso de comer",
           "nomeEn": "Concurso de comer",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Canções do campo",
           "nomeEn": "Canções do campo",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Hora do piquenique",
           "nomeEn": "Hora do piquenique",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         }
       ]
@@ -274,7 +274,7 @@
         {
           "nome": "Perseguição penosa",
           "nomeEn": "Perseguição penosa",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -292,7 +292,7 @@
         {
           "nome": "O profissa",
           "nomeEn": "O profissa",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -335,7 +335,7 @@
         {
           "nome": "Dando uma palhinha",
           "nomeEn": "Dando uma palhinha",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -347,7 +347,7 @@
         {
           "nome": "Visual animal!",
           "nomeEn": "Visual animal!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -384,7 +384,7 @@
         {
           "nome": "Gotas de orvalho",
           "nomeEn": "Gotas de orvalho",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -408,7 +408,7 @@
         {
           "nome": "Santa margarida!",
           "nomeEn": "Santa margarida!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -469,13 +469,13 @@
         {
           "nome": "Disco voador?",
           "nomeEn": "Disco voador?",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Rodovia interestadual",
           "nomeEn": "Rodovia interestadual",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -506,7 +506,7 @@
         {
           "nome": "Maravilhovo",
           "nomeEn": "Maravilhovo",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -603,7 +603,7 @@
         {
           "nome": "Avacalhando",
           "nomeEn": "Avacalhando",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -634,19 +634,19 @@
         {
           "nome": "Laticínio",
           "nomeEn": "Laticínio",
-          "tenho": 4,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Queijo",
           "nomeEn": "Queijo",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Vegetais",
           "nomeEn": "Vegetais",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 3
         },
         {
@@ -664,13 +664,13 @@
         {
           "nome": "Mel",
           "nomeEn": "Mel",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Tempero especial",
           "nomeEn": "Tempero especial",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         }
       ]
@@ -701,7 +701,7 @@
         {
           "nome": "Milho ao quadrado",
           "nomeEn": "Milho ao quadrado",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -750,7 +750,7 @@
         {
           "nome": "A colmeia",
           "nomeEn": "A colmeia",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -768,7 +768,7 @@
         {
           "nome": "Voa daqui!",
           "nomeEn": "Voa daqui!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
