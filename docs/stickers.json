@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-11T12:22:07.790Z",
+  "atualizadoEm": "2026-08-11T14:22:45.041Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -54,7 +54,7 @@
         {
           "nome": "Nada de toelhos",
           "nomeEn": "Nada de toelhos",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -73,7 +73,7 @@
         {
           "nome": "Celeiro ao amanhecer",
           "nomeEn": "Celeiro ao amanhecer",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -121,7 +121,7 @@
         {
           "nome": "Fazendeiro feliz",
           "nomeEn": "Fazendeiro feliz",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         }
       ]
@@ -134,7 +134,7 @@
         {
           "nome": "O culpado",
           "nomeEn": "O culpado",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
@@ -396,7 +396,7 @@
         {
           "nome": "Buquês em abundância",
           "nomeEn": "Buquês em abundância",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -408,13 +408,13 @@
         {
           "nome": "Santa margarida!",
           "nomeEn": "Santa margarida!",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Arranjo artístico",
           "nomeEn": "Arranjo artístico",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -506,7 +506,7 @@
         {
           "nome": "Maravilhovo",
           "nomeEn": "Maravilhovo",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -530,7 +530,7 @@
         {
           "nome": "Futuro refrescante",
           "nomeEn": "Futuro refrescante",
-          "tenho": 0,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -561,7 +561,7 @@
         {
           "nome": "Grama sempre mais verde",
           "nomeEn": "Grama sempre mais verde",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -597,7 +597,7 @@
         {
           "nome": "Leite a domicílio",
           "nomeEn": "Leite a domicílio",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -609,7 +609,7 @@
         {
           "nome": "Caubói magnata",
           "nomeEn": "Caubói magnata",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         }
       ]
@@ -646,19 +646,19 @@
         {
           "nome": "Vegetais",
           "nomeEn": "Vegetais",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 3
         },
         {
           "nome": "Frutas",
           "nomeEn": "Frutas",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Nozes",
           "nomeEn": "Nozes",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 4
         },
         {
@@ -683,7 +683,7 @@
         {
           "nome": "Em nome da ciência!",
           "nomeEn": "Em nome da ciência!",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -707,7 +707,7 @@
         {
           "nome": "Ajudante especial",
           "nomeEn": "Ajudante especial",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -768,7 +768,7 @@
         {
           "nome": "Voa daqui!",
           "nomeEn": "Voa daqui!",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -872,7 +872,7 @@
         {
           "nome": "Chafurdeiros",
           "nomeEn": "Chafurdeiros",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -951,7 +951,7 @@
         {
           "nome": "A arte das maçãs",
           "nomeEn": "A arte das maçãs",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 9
         },
         {
