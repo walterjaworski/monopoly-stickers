@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-12T12:40:02.083Z",
+  "atualizadoEm": "2026-08-12T13:55:04.064Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -12,7 +12,7 @@
         {
           "nome": "E aí, pessoal!",
           "nomeEn": "E aí, pessoal!",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "Cães pastores",
           "nomeEn": "Cães pastores",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -658,7 +658,7 @@
         {
           "nome": "Nozes",
           "nomeEn": "Nozes",
-          "tenho": 5,
+          "tenho": 7,
           "raridade": 4
         },
         {
@@ -719,7 +719,7 @@
         {
           "nome": "Abacatologia",
           "nomeEn": "Abacatologia",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -762,7 +762,7 @@
         {
           "nome": "Almoço tranquilo",
           "nomeEn": "Almoço tranquilo",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -774,7 +774,7 @@
         {
           "nome": "I-na-be-lha-di-tá-vel!",
           "nomeEn": "I-na-be-lha-di-tá-vel!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -1146,7 +1146,7 @@
         {
           "nome": "Chapéus de alumínio",
           "nomeEn": "Chapéus de alumínio",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
