@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-13T13:36:36.202Z",
+  "atualizadoEm": "2026-08-13T14:08:27.074Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -426,7 +426,7 @@
         {
           "nome": "Força floral",
           "nomeEn": "Força floral",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         }
       ]
@@ -469,13 +469,13 @@
         {
           "nome": "Disco voador?",
           "nomeEn": "Disco voador?",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Rodovia interestadual",
           "nomeEn": "Rodovia interestadual",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -585,7 +585,7 @@
         {
           "nome": "Suíçoculento",
           "nomeEn": "Suíçoculento",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -628,13 +628,13 @@
         {
           "nome": "Ovos",
           "nomeEn": "Ovos",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Laticínio",
           "nomeEn": "Laticínio",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -646,13 +646,13 @@
         {
           "nome": "Vegetais",
           "nomeEn": "Vegetais",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 3
         },
         {
           "nome": "Frutas",
           "nomeEn": "Frutas",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 3
         },
         {
@@ -1036,7 +1036,7 @@
         {
           "nome": "O banquete",
           "nomeEn": "O banquete",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 11
         }
       ]
@@ -1134,7 +1134,7 @@
         {
           "nome": "Conspiração",
           "nomeEn": "Conspiração",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 5
         },
         {
