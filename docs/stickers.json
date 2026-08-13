@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-12T18:29:49.587Z",
+  "atualizadoEm": "2026-08-13T11:48:21.752Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -115,7 +115,7 @@
         {
           "nome": "Arado",
           "nomeEn": "Arado",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -140,7 +140,7 @@
         {
           "nome": "Mas o quê...?",
           "nomeEn": "Mas o quê...?",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -170,7 +170,7 @@
         {
           "nome": "Toca do coelho",
           "nomeEn": "Toca do coelho",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -939,7 +939,7 @@
         {
           "nome": "Natureza-morta",
           "nomeEn": "Natureza-morta",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1110,7 +1110,7 @@
         {
           "nome": "Pegadinha do Ben",
           "nomeEn": "Pegadinha do Ben",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
