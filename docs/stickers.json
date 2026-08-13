@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-13T11:48:21.752Z",
+  "atualizadoEm": "2026-08-13T13:36:36.202Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -12,7 +12,7 @@
         {
           "nome": "E aí, pessoal!",
           "nomeEn": "E aí, pessoal!",
-          "tenho": 5,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -30,7 +30,7 @@
         {
           "nome": "Lola",
           "nomeEn": "Lola",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -60,7 +60,7 @@
         {
           "nome": "Patolino",
           "nomeEn": "Patolino",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         }
       ]
@@ -201,7 +201,7 @@
         {
           "nome": "Lanchinhos apetitosos",
           "nomeEn": "Lanchinhos apetitosos",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -268,7 +268,7 @@
         {
           "nome": "Duque delicado",
           "nomeEn": "Duque delicado",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -323,7 +323,7 @@
         {
           "nome": "Porquinho faminto",
           "nomeEn": "Porquinho faminto",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -384,7 +384,7 @@
         {
           "nome": "Gotas de orvalho",
           "nomeEn": "Gotas de orvalho",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -439,7 +439,7 @@
         {
           "nome": "Pé na estrada!",
           "nomeEn": "Pé na estrada!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -457,7 +457,7 @@
         {
           "nome": "Negócio fechado!",
           "nomeEn": "Negócio fechado!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -573,7 +573,7 @@
         {
           "nome": "Rota do jarro",
           "nomeEn": "Rota do jarro",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -988,7 +988,7 @@
         {
           "nome": "A horta é agora",
           "nomeEn": "A horta é agora",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 4
         },
         {
