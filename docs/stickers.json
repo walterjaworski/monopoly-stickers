@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-18T11:36:04.273Z",
+  "atualizadoEm": "2026-08-19T11:47:17.386Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -24,7 +24,7 @@
         {
           "nome": "Taz",
           "nomeEn": "Taz",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -48,7 +48,7 @@
         {
           "nome": "Ligeirinho",
           "nomeEn": "Ligeirinho",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -85,7 +85,7 @@
         {
           "nome": "Luz solar",
           "nomeEn": "Luz solar",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
@@ -97,7 +97,7 @@
         {
           "nome": "Arregaçando as mangas",
           "nomeEn": "Arregaçando as mangas",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -207,7 +207,7 @@
         {
           "nome": "O labirinto do feno",
           "nomeEn": "O labirinto do feno",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -219,7 +219,7 @@
         {
           "nome": "Porcos premiados",
           "nomeEn": "Porcos premiados",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -262,7 +262,7 @@
         {
           "nome": "Cãorioso",
           "nomeEn": "Cãorioso",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -365,7 +365,7 @@
         {
           "nome": "Esforço duplo",
           "nomeEn": "Esforço duplo",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         }
       ]
@@ -628,7 +628,7 @@
         {
           "nome": "Ovos",
           "nomeEn": "Ovos",
-          "tenho": 8,
+          "tenho": 10,
           "raridade": 2
         },
         {
@@ -701,7 +701,7 @@
         {
           "nome": "Milho ao quadrado",
           "nomeEn": "Milho ao quadrado",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -1128,7 +1128,7 @@
         {
           "nome": "Prova",
           "nomeEn": "Prova",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 9
         },
         {
