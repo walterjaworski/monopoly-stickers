@@ -10,6 +10,9 @@ const OUTPUT_FILE = resolve(__dirname, 'docs/stickers.json');
 const ALBUM_URL = 'https://www.monopolygo.com/sticker-album';
 const API_PATTERN = 'web-portal/sticker-trading';
 const CDP_PORT = 9333;
+const WIKI_API = 'https://api.monopolygo.wiki/v1/mogo-wiki/app-service/tool-config';
+const WIKI_CACHE_FILE = resolve(__dirname, 'wiki-cache.json');
+const WIKI_CACHE_TTL = 15 * 24 * 60 * 60 * 1000;
 
 function carregarAnterior() {
   try {
@@ -17,6 +20,81 @@ function carregarAnterior() {
   } catch {
     return null;
   }
+}
+
+function carregarCacheWiki() {
+  try {
+    const cache = JSON.parse(readFileSync(WIKI_CACHE_FILE, 'utf-8'));
+    const idade = Date.now() - new Date(cache.atualizadoEm).getTime();
+    if (idade < WIKI_CACHE_TTL) {
+      return { dados: cache, valido: true };
+    }
+    return { dados: cache, valido: false };
+  } catch {
+    return { dados: null, valido: false };
+  }
+}
+
+function salvarCacheWiki(stickers, sets) {
+  const cache = {
+    atualizadoEm: new Date().toISOString(),
+    stickers,
+    sets,
+  };
+  writeFileSync(WIKI_CACHE_FILE, JSON.stringify(cache, null, 2));
+}
+
+async function buscarNomesEN() {
+  const { dados: cache, valido } = carregarCacheWiki();
+
+  if (valido) {
+    console.log('  → Usando cache wiki (15 dias de validade)');
+    return montarLookupWiki(cache);
+  }
+
+  console.log('→ Buscando nomes EN do wiki...');
+  try {
+    const resp = await fetch(WIKI_API);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    const config = data.config;
+
+    if (config?.stickers && config?.sets) {
+      salvarCacheWiki(config.stickers, config.sets);
+      console.log('✓ Nomes EN capturados do wiki e cache salvos');
+      return montarLookupWiki(config);
+    }
+    throw new Error('Dados incompletos na API wiki');
+  } catch (err) {
+    console.log(`  ↳ Wiki indisponível (${err.message}), usando cache como fallback`);
+    if (cache) return montarLookupWiki(cache);
+    console.log('  ↳ Sem cache disponível, traduções EN não serão preenchidas');
+    return { sets: {}, stickers: {} };
+  }
+}
+
+function montarLookupWiki(config) {
+  const setsLookup = {};
+  const stickersLookup = {};
+
+  for (const [key, set] of Object.entries(config.sets)) {
+    const match = key.match(/\.(\d+)$/);
+    if (match) {
+      setsLookup[parseInt(match[1])] = set.name;
+    }
+  }
+
+  for (const [key, sticker] of Object.entries(config.stickers)) {
+    const match = key.match(/_(\d+)_(\d+)$/);
+    if (match) {
+      const setNum = parseInt(match[1]);
+      const stickerNum = parseInt(match[2]);
+      const idx = `${setNum}:${stickerNum}`;
+      stickersLookup[idx] = sticker.name;
+    }
+  }
+
+  return { sets: setsLookup, stickers: stickersLookup };
 }
 
 async function capturar() {
@@ -97,30 +175,8 @@ async function capturar() {
     }
     console.log('✓ Dados pt-BR capturados');
 
-    // 2. Tenta capturar em inglês (pode falhar por causa da assinatura da URL)
-    console.log('→ Capturando stickers (en)...');
-    let enLookup = {};
-    try {
-      const apiUrlEn = resp.url().replace('c_locale=pt-br', 'c_locale=en');
-      const enResp = await page.request.fetch(apiUrlEn);
-      if (enResp.ok) {
-        const enData = await enResp.json();
-        if (enData.IsSuccess) {
-          for (const set of enData.Data.Sets) {
-            for (const s of set.Stickers) {
-              enLookup[s.StickerId] = s.StickerName;
-            }
-          }
-          console.log('✓ Dados en capturados');
-        }
-      }
-    } catch {
-      console.log('  ↳ EN indisponível, mantendo traduções anteriores');
-    }
-
-    if (Object.keys(enLookup).length === 0) {
-      console.log('  ↳ Usando traduções anteriores como fallback');
-    }
+    // 2. Busca nomes em inglês via wiki (com cache)
+    const enLookup = await buscarNomesEN();
 
     // 3. Merge: junta nomes em inglês ao dataset em português
     salvarDados(ptData, enLookup);
@@ -143,7 +199,7 @@ async function capturar() {
 function salvarDados(ptData, enLookup) {
   const anterior = carregarAnterior();
 
-  // Monta lookup de traduções antigas: nome PT → { nomeEn, nomeSetEn? }
+  // Monta lookup de traduções antigas como fallback
   const traducoesAntigas = {};
   if (anterior) {
     for (const set of anterior.sets) {
@@ -155,17 +211,22 @@ function salvarDados(ptData, enLookup) {
   }
 
   const sets = ptData.Data.Sets.map((set, i) => {
+    const setNum = i + 1;
     const setAnterior = traducoesAntigas[set.SetName];
     return {
-      numero: i + 1,
+      numero: setNum,
       nome: set.SetName,
-      nomeEn: (setAnterior?.nomeEn) || set.SetName,
-      stickers: set.Stickers.map(s => ({
-        nome: s.StickerName,
-        nomeEn: enLookup[s.StickerId] || traducoesAntigas[s.StickerName] || s.StickerName,
-        tenho: s.OwnedCount,
-        raridade: s.Rarity,
-      })),
+      nomeEn: enLookup.sets[setNum] || setAnterior?.nomeEn || set.SetName,
+      stickers: set.Stickers.map((s, j) => {
+        const stickerNum = j + 1;
+        const key = `${setNum}:${stickerNum}`;
+        return {
+          nome: s.StickerName,
+          nomeEn: enLookup.stickers[key] || traducoesAntigas[s.StickerName] || s.StickerName,
+          tenho: s.OwnedCount,
+          raridade: s.Rarity,
+        };
+      }),
     };
   });
 
