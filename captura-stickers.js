@@ -13,14 +13,6 @@ const CDP_PORT = 9333;
 const WIKI_API = 'https://api.monopolygo.wiki/v1/mogo-wiki/app-service/tool-config';
 const WIKI_CACHE_FILE = resolve(__dirname, 'wiki-cache.json');
 const WIKI_CACHE_TTL = 15 * 24 * 60 * 60 * 1000;
-const WIKI_HEADERS = {
-  'x-mogo-app-version': 'web',
-  'x-mogo-device-type': 'browser',
-  'x-mogo-install-id': '070425ab-fc62-4429-ab91-31c5209050ab',
-  'x-mogo-app-ownership': 'web',
-  'x-mogo-platform': 'web',
-  'accept': 'application/json',
-};
 
 function carregarAnterior() {
   try {
@@ -52,7 +44,7 @@ function salvarCacheWiki(stickers, sets) {
   writeFileSync(WIKI_CACHE_FILE, JSON.stringify(cache, null, 2));
 }
 
-async function buscarNomesEN() {
+async function buscarNomesEN(context) {
   const { dados: cache, valido } = carregarCacheWiki();
 
   if (valido) {
@@ -60,11 +52,13 @@ async function buscarNomesEN() {
     return montarLookupWiki(cache);
   }
 
-  console.log('→ Buscando nomes EN do wiki...');
+  console.log('→ Buscando nomes EN do wiki (abrindo janela)...');
+  let wikiPage;
   try {
-    const resp = await fetch(WIKI_API, { headers: WIKI_HEADERS });
-    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-    const data = await resp.json();
+    wikiPage = await context.newPage();
+    const resp = await wikiPage.goto(WIKI_API, { waitUntil: 'load', timeout: 30000 });
+    const text = await resp.text();
+    const data = JSON.parse(text);
     const config = data.config;
 
     if (config?.stickers && config?.sets) {
@@ -78,6 +72,8 @@ async function buscarNomesEN() {
     if (cache) return montarLookupWiki(cache);
     console.log('  ↳ Sem cache disponível, traduções EN não serão preenchidas');
     return { sets: {}, stickers: {} };
+  } finally {
+    if (wikiPage) await wikiPage.close();
   }
 }
 
@@ -184,7 +180,7 @@ async function capturar() {
     console.log('✓ Dados pt-BR capturados');
 
     // 2. Busca nomes em inglês via wiki (com cache)
-    const enLookup = await buscarNomesEN();
+    const enLookup = await buscarNomesEN(context);
 
     // 3. Merge: junta nomes em inglês ao dataset em português
     salvarDados(ptData, enLookup);

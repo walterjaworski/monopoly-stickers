@@ -1,17 +1,17 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-20T12:16:31.645Z",
+  "atualizadoEm": "2026-08-20T12:20:21.708Z",
   "totalStickers": 189,
   "sets": [
     {
       "numero": 1,
       "nome": "Acres da ACME",
-      "nomeEn": "Acres da ACME",
+      "nomeEn": "ACME Acres",
       "stickers": [
         {
           "nome": "E aí, pessoal!",
-          "nomeEn": "E aí, pessoal!",
+          "nomeEn": "Welcome, Folks!",
           "tenho": 5,
           "raridade": 1
         },
@@ -29,37 +29,37 @@
         },
         {
           "nome": "Lola",
-          "nomeEn": "Lola",
+          "nomeEn": "Lola Bunny",
           "tenho": 8,
           "raridade": 1
         },
         {
           "nome": "Gaguinho",
-          "nomeEn": "Gaguinho",
+          "nomeEn": "Porky Pig",
           "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Frangolino",
-          "nomeEn": "Frangolino",
+          "nomeEn": "Foghorn Leghorn",
           "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Ligeirinho",
-          "nomeEn": "Ligeirinho",
+          "nomeEn": "Speedy Gonzales",
           "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Nada de toelhos",
-          "nomeEn": "Nada de toelhos",
+          "nomeEn": "No Wabbits",
           "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Patolino",
-          "nomeEn": "Patolino",
+          "nomeEn": "Daffy Duck",
           "tenho": 3,
           "raridade": 1
         }
@@ -68,59 +68,59 @@
     {
       "numero": 2,
       "nome": "Bom dia",
-      "nomeEn": "Bom dia",
+      "nomeEn": "Good Morning",
       "stickers": [
         {
           "nome": "Celeiro ao amanhecer",
-          "nomeEn": "Celeiro ao amanhecer",
+          "nomeEn": "Daybreak Barn",
           "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Cocoricó!",
-          "nomeEn": "Cocoricó!",
+          "nomeEn": "Doodle Doo!",
           "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Luz solar",
-          "nomeEn": "Luz solar",
+          "nomeEn": "Sunlight",
           "tenho": 8,
           "raridade": 1
         },
         {
           "nome": "Café da manhã",
-          "nomeEn": "Café da manhã",
+          "nomeEn": "Breakfast",
           "tenho": 10,
           "raridade": 1
         },
         {
           "nome": "Arregaçando as mangas",
-          "nomeEn": "Arregaçando as mangas",
+          "nomeEn": "Getting to Work",
           "tenho": 6,
           "raridade": 1
         },
         {
           "nome": "Afazeres na fazenda",
-          "nomeEn": "Afazeres na fazenda",
+          "nomeEn": "Waddling to Do",
           "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "A caminho",
-          "nomeEn": "A caminho",
+          "nomeEn": "Gone Sheepin'",
           "tenho": 6,
           "raridade": 1
         },
         {
           "nome": "Arado",
-          "nomeEn": "Arado",
+          "nomeEn": "Tilling",
           "tenho": 9,
           "raridade": 1
         },
         {
           "nome": "Fazendeiro feliz",
-          "nomeEn": "Fazendeiro feliz",
+          "nomeEn": "Happy Farmer",
           "tenho": 5,
           "raridade": 1
         }
@@ -129,59 +129,59 @@
     {
       "numero": 3,
       "nome": "A cenoura gigante",
-      "nomeEn": "A cenoura gigante",
+      "nomeEn": "The Giant Carrot",
       "stickers": [
         {
           "nome": "O culpado",
-          "nomeEn": "O culpado",
+          "nomeEn": "The Culprit",
           "tenho": 9,
           "raridade": 1
         },
         {
           "nome": "Mas o quê...?",
-          "nomeEn": "Mas o quê...?",
+          "nomeEn": "What the?",
           "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Enquanto isso...",
-          "nomeEn": "Enquanto isso...",
+          "nomeEn": "Meanwhile...",
           "tenho": 9,
           "raridade": 1
         },
         {
           "nome": "Toupeira",
-          "nomeEn": "Toupeira",
+          "nomeEn": "Moley",
           "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Belisco",
-          "nomeEn": "Belisco",
+          "nomeEn": "Nibbles",
           "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Tesouro enterrado",
-          "nomeEn": "Tesouro enterrado",
+          "nomeEn": "Buried Treasure",
           "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Toca do coelho",
-          "nomeEn": "Toca do coelho",
+          "nomeEn": "Rabbit Hole",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "A raiz do problema",
-          "nomeEn": "A raiz do problema",
+          "nomeEn": "Root Problem",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Cenouras em abundância",
-          "nomeEn": "Cenouras em abundância",
+          "nomeEn": "24 Carrot",
           "tenho": 2,
           "raridade": 2
         }
@@ -190,59 +190,59 @@
     {
       "numero": 4,
       "nome": "Diversão em família",
-      "nomeEn": "Diversão em família",
+      "nomeEn": "Family Fun",
       "stickers": [
         {
           "nome": "Visita à fazenda",
-          "nomeEn": "Visita à fazenda",
+          "nomeEn": "Farm Visit",
           "tenho": 6,
           "raridade": 1
         },
         {
           "nome": "Lanchinhos apetitosos",
-          "nomeEn": "Lanchinhos apetitosos",
+          "nomeEn": "Sheepish",
           "tenho": 6,
           "raridade": 1
         },
         {
           "nome": "O labirinto do feno",
-          "nomeEn": "O labirinto do feno",
+          "nomeEn": "Hay Maze",
           "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Corrida suína",
-          "nomeEn": "Corrida suína",
+          "nomeEn": "Pig Run",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Porcos premiados",
-          "nomeEn": "Porcos premiados",
+          "nomeEn": "Prize Pigs",
           "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Saltinho da vitória",
-          "nomeEn": "Saltinho da vitória",
+          "nomeEn": "Victory Hop",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Concurso de comer",
-          "nomeEn": "Concurso de comer",
+          "nomeEn": "Eating Contest",
           "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Canções do campo",
-          "nomeEn": "Canções do campo",
+          "nomeEn": "Bluegrass Tunes",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Hora do piquenique",
-          "nomeEn": "Hora do piquenique",
+          "nomeEn": "Picnic Time",
           "tenho": 5,
           "raridade": 2
         }
@@ -251,59 +251,59 @@
     {
       "numero": 5,
       "nome": "Chiques no chiqueiro",
-      "nomeEn": "Chiques no chiqueiro",
+      "nomeEn": "Posh Pets Go Country",
       "stickers": [
         {
           "nome": "Amigos urbanos",
-          "nomeEn": "Amigos urbanos",
+          "nomeEn": "City Friends",
           "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Cãorioso",
-          "nomeEn": "Cãorioso",
+          "nomeEn": "Interesting Dog",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Duque delicado",
-          "nomeEn": "Duque delicado",
+          "nomeEn": "Delicate Duke",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Perseguição penosa",
-          "nomeEn": "Perseguição penosa",
+          "nomeEn": "Goose Chase",
           "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Srta. Priss",
-          "nomeEn": "Srta. Priss",
+          "nomeEn": "Miss Priss",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Cercado",
-          "nomeEn": "Cercado",
+          "nomeEn": "Surrounded",
           "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "O profissa",
-          "nomeEn": "O profissa",
+          "nomeEn": "The Pro",
           "tenho": 8,
           "raridade": 2
         },
         {
           "nome": "Aprendiz veloz",
-          "nomeEn": "Aprendiz veloz",
+          "nomeEn": "Quick Study",
           "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Cães pastores",
-          "nomeEn": "Cães pastores",
+          "nomeEn": "Sheepdogs",
           "tenho": 3,
           "raridade": 2
         }
@@ -312,59 +312,59 @@
     {
       "numero": 6,
       "nome": "Negócios agrários",
-      "nomeEn": "Negócios agrários",
+      "nomeEn": "Barnyard Business",
       "stickers": [
         {
           "nome": "Galinhas sonolentas",
-          "nomeEn": "Galinhas sonolentas",
+          "nomeEn": "Sleepy Hens",
           "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Porquinho faminto",
-          "nomeEn": "Porquinho faminto",
+          "nomeEn": "Hungry Piggy",
           "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Baixando o bico",
-          "nomeEn": "Baixando o bico",
+          "nomeEn": "A Bit Peckish",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Dando uma palhinha",
-          "nomeEn": "Dando uma palhinha",
+          "nomeEn": "Oh Hay There!",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Corvo rasante",
-          "nomeEn": "Corvo rasante",
+          "nomeEn": "Low Crow",
           "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Visual animal!",
-          "nomeEn": "Visual animal!",
+          "nomeEn": "Glow Up",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Faça chuva ou faça sol",
-          "nomeEn": "Faça chuva ou faça sol",
+          "nomeEn": "Rain or Shine",
           "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Nascida para tosquiar",
-          "nomeEn": "Nascida para tosquiar",
+          "nomeEn": "Shear Genius",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Esforço duplo",
-          "nomeEn": "Esforço duplo",
+          "nomeEn": "It Takes Two",
           "tenho": 4,
           "raridade": 2
         }
@@ -373,59 +373,59 @@
     {
       "numero": 7,
       "nome": "Campos floridos",
-      "nomeEn": "Campos floridos",
+      "nomeEn": "Blooming Fields",
       "stickers": [
         {
           "nome": "Tulipas tranquilas",
-          "nomeEn": "Tulipas tranquilas",
+          "nomeEn": "Tranquil Tulips",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Gotas de orvalho",
-          "nomeEn": "Gotas de orvalho",
+          "nomeEn": "Dewdrops",
           "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Zangão",
-          "nomeEn": "Zangão",
+          "nomeEn": "Bumblebee",
           "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Buquês em abundância",
-          "nomeEn": "Buquês em abundância",
+          "nomeEn": "Posies Aplenty",
           "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Aonde você flor",
-          "nomeEn": "Aonde você flor",
+          "nomeEn": "Best Buds",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Santa margarida!",
-          "nomeEn": "Santa margarida!",
+          "nomeEn": "Oopsie Daisy",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Arranjo artístico",
-          "nomeEn": "Arranjo artístico",
+          "nomeEn": "Artful Bouquets",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Escolhas fresquinhas",
-          "nomeEn": "Escolhas fresquinhas",
+          "nomeEn": "Fresh Picks",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Força floral",
-          "nomeEn": "Força floral",
+          "nomeEn": "Flower Power",
           "tenho": 1,
           "raridade": 3
         }
@@ -434,59 +434,59 @@
     {
       "numero": 8,
       "nome": "Achados agrários",
-      "nomeEn": "Achados agrários",
+      "nomeEn": "Farmside Finds",
       "stickers": [
         {
           "nome": "Pé na estrada!",
-          "nomeEn": "Pé na estrada!",
+          "nomeEn": "Road Trip",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Siga por aqui",
-          "nomeEn": "Siga por aqui",
+          "nomeEn": "This Way",
           "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Histórias para contar",
-          "nomeEn": "Histórias para contar",
+          "nomeEn": "Tales to Tell",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Negócio fechado!",
-          "nomeEn": "Negócio fechado!",
+          "nomeEn": "Sold!",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Armadilha pra turista",
-          "nomeEn": "Armadilha pra turista",
+          "nomeEn": "Tourist Trap",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Disco voador?",
-          "nomeEn": "Disco voador?",
+          "nomeEn": "Flying Saucer?",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Rodovia interestadual",
-          "nomeEn": "Rodovia interestadual",
+          "nomeEn": "Interstate",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Estalagem espacial",
-          "nomeEn": "Estalagem espacial",
+          "nomeEn": "Mothership Motel",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Lanche extraterrestre",
-          "nomeEn": "Lanche extraterrestre",
+          "nomeEn": "UFO Burgers",
           "tenho": 2,
           "raridade": 3
         }
@@ -495,59 +495,59 @@
     {
       "numero": 9,
       "nome": "Cultivando cuidados",
-      "nomeEn": "Cultivando cuidados",
+      "nomeEn": "Growing Care",
       "stickers": [
         {
           "nome": "Vamos lá!",
-          "nomeEn": "Come On!",
+          "nomeEn": "Let's Go!",
           "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Maravilhovo",
-          "nomeEn": "Maravilhovo",
+          "nomeEn": "Eggcellent",
           "tenho": 7,
           "raridade": 2
         },
         {
           "nome": "Semeando o sucesso",
-          "nomeEn": "Semeando o sucesso",
+          "nomeEn": "Sow Far, Sow Good",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Peg-E e Porco-E",
-          "nomeEn": "Peg-E e Porco-E",
+          "nomeEn": "Peg-E & Pig-E",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Tecnocultivo",
-          "nomeEn": "Tecnocultivo",
+          "nomeEn": "Grow For Me",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Futuro refrescante",
-          "nomeEn": "Futuro refrescante",
+          "nomeEn": "Mint To Be",
           "tenho": 3,
           "raridade": 3
         },
         {
           "nome": "Energia solar",
-          "nomeEn": "Energia solar",
+          "nomeEn": "Solar Power",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Hora do almoço",
-          "nomeEn": "Hora do almoço",
+          "nomeEn": "Lunchtime",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Cordeirinho",
-          "nomeEn": "Cordeirinho",
+          "nomeEn": "Little Lamb",
           "tenho": 1,
           "raridade": 3
         }
@@ -556,59 +556,59 @@
     {
       "numero": 10,
       "nome": "Dias lácteos",
-      "nomeEn": "Dias lácteos",
+      "nomeEn": "Dairy Days",
       "stickers": [
         {
           "nome": "Grama sempre mais verde",
-          "nomeEn": "Grama sempre mais verde",
+          "nomeEn": "Grass is Greener",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Ordenha",
-          "nomeEn": "Ordenha",
+          "nomeEn": "Milking",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Rota do jarro",
-          "nomeEn": "Rota do jarro",
+          "nomeEn": "Jug Jaunt",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Batedeira de manteiga",
-          "nomeEn": "Batedeira de manteiga",
+          "nomeEn": "Butter Churn",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Suíçoculento",
-          "nomeEn": "Suíçoculento",
+          "nomeEn": "Swisstacular",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Malcheiroso",
-          "nomeEn": "Malcheiroso",
+          "nomeEn": "Funky",
           "tenho": 3,
           "raridade": 3
         },
         {
           "nome": "Leite a domicílio",
-          "nomeEn": "Leite a domicílio",
+          "nomeEn": "Dairy on Demand",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Avacalhando",
-          "nomeEn": "Avacalhando",
+          "nomeEn": "Udderly Fab",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Caubói magnata",
-          "nomeEn": "Caubói magnata",
+          "nomeEn": "Tycoon Cowboy",
           "tenho": 1,
           "raridade": 3
         }
@@ -617,59 +617,59 @@
     {
       "numero": 11,
       "nome": "Ingredientes do Café",
-      "nomeEn": "Ingredientes do Café",
+      "nomeEn": "Cafe Ingredients",
       "stickers": [
         {
           "nome": "Enfarinhar",
-          "nomeEn": "Enfarinhar",
+          "nomeEn": "Flour",
           "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Ovos",
-          "nomeEn": "Ovos",
+          "nomeEn": "Eggs",
           "tenho": 7,
           "raridade": 2
         },
         {
           "nome": "Laticínio",
-          "nomeEn": "Laticínio",
+          "nomeEn": "Dairy",
           "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Queijo",
-          "nomeEn": "Queijo",
+          "nomeEn": "Cheese",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Vegetais",
-          "nomeEn": "Vegetais",
+          "nomeEn": "Veggies",
           "tenho": 5,
           "raridade": 3
         },
         {
           "nome": "Frutas",
-          "nomeEn": "Frutas",
+          "nomeEn": "Fruits",
           "tenho": 10,
           "raridade": 3
         },
         {
           "nome": "Nozes",
-          "nomeEn": "Nozes",
+          "nomeEn": "Nuts",
           "tenho": 7,
           "raridade": 4
         },
         {
           "nome": "Mel",
-          "nomeEn": "Mel",
+          "nomeEn": "Honey",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Tempero especial",
-          "nomeEn": "Tempero especial",
+          "nomeEn": "Special Spice",
           "tenho": 1,
           "raridade": 4
         }
@@ -678,59 +678,59 @@
     {
       "numero": 12,
       "nome": "Ciência da estufa",
-      "nomeEn": "Ciência da estufa",
+      "nomeEn": "Greenhouse Lab",
       "stickers": [
         {
           "nome": "Em nome da ciência!",
-          "nomeEn": "Em nome da ciência!",
+          "nomeEn": "For Science!",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Curiosa",
-          "nomeEn": "Curiosa",
+          "nomeEn": "Curious",
           "tenho": 4,
           "raridade": 3
         },
         {
           "nome": "Suco duplo",
-          "nomeEn": "Suco duplo",
+          "nomeEn": "Duo Juice",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Milho ao quadrado",
-          "nomeEn": "Milho ao quadrado",
+          "nomeEn": "Corn, Squared",
           "tenho": 3,
           "raridade": 3
         },
         {
           "nome": "Ajudante especial",
-          "nomeEn": "Ajudante especial",
+          "nomeEn": "Special Helper",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Drone regador",
-          "nomeEn": "Drone regador",
+          "nomeEn": "Cloud Drone",
           "tenho": 3,
           "raridade": 3
         },
         {
           "nome": "Abacatologia",
-          "nomeEn": "Abacatologia",
+          "nomeEn": "Avocadon't",
           "tenho": 3,
           "raridade": 3
         },
         {
           "nome": "Banho de girassol",
-          "nomeEn": "Banho de girassol",
+          "nomeEn": "Sunny Sunflower",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Melancia azul",
-          "nomeEn": "Melancia azul",
+          "nomeEn": "Blue Melon",
           "tenho": 1,
           "raridade": 4
         }
@@ -739,59 +739,59 @@
     {
       "numero": 13,
       "nome": "Problema abelhudo",
-      "nomeEn": "Problema abelhudo",
+      "nomeEn": "Bee Trouble",
       "stickers": [
         {
           "nome": "Abelhas operárias",
-          "nomeEn": "Abelhas operárias",
+          "nomeEn": "Busy Bee",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "A colmeia",
-          "nomeEn": "A colmeia",
+          "nomeEn": "The Hive",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Favo de mel",
-          "nomeEn": "Favo de mel",
+          "nomeEn": "Honeycomb",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Almoço tranquilo",
-          "nomeEn": "Almoço tranquilo",
+          "nomeEn": "Carefree Lunch",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Voa daqui!",
-          "nomeEn": "Voa daqui!",
+          "nomeEn": "Buzz Off!",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "I-na-be-lha-di-tá-vel!",
-          "nomeEn": "I-na-be-lha-di-tá-vel!",
+          "nomeEn": "Un-Bee-lievable!",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Búúúú, abelhinha!",
-          "nomeEn": "Búúúú, abelhinha!",
+          "nomeEn": "Bee Boo Boo",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Muito amor envolvido",
-          "nomeEn": "Muito amor envolvido",
+          "nomeEn": "TLC",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Docinho, cheguei!",
-          "nomeEn": "Docinho, cheguei!",
+          "nomeEn": "Honey, I'm Home",
           "tenho": 0,
           "raridade": 9
         }
@@ -800,59 +800,59 @@
     {
       "numero": 14,
       "nome": "Cidade da Cenoura",
-      "nomeEn": "Cidade da Cenoura",
+      "nomeEn": "Carrotville",
       "stickers": [
         {
           "nome": "Arcada",
-          "nomeEn": "Arcada",
+          "nomeEn": "Archway",
           "tenho": 3,
           "raridade": 3
         },
         {
           "nome": "Fonte da aldeia",
-          "nomeEn": "Fonte da aldeia",
+          "nomeEn": "Village Fountain",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Próxima parada",
-          "nomeEn": "Próxima parada",
+          "nomeEn": "Next Stop",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Sabor vergonha alheia",
-          "nomeEn": "Sabor vergonha alheia",
+          "nomeEn": "Cringe Flavored",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Bolo de cenoura",
-          "nomeEn": "Bolo de cenoura",
+          "nomeEn": "Carrot Cake",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Momento fotográfico",
-          "nomeEn": "Momento fotográfico",
+          "nomeEn": "Photo Op",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Vitória!",
-          "nomeEn": "Vitória!",
+          "nomeEn": "Winner!",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Rudy Raiz",
-          "nomeEn": "Rudy Raiz",
+          "nomeEn": "Rudy Root",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Dia do desfile",
-          "nomeEn": "Dia do desfile",
+          "nomeEn": "Parade Day",
           "tenho": 0,
           "raridade": 5
         }
@@ -861,59 +861,59 @@
     {
       "numero": 15,
       "nome": "Amigos da fazenda",
-      "nomeEn": "Amigos da fazenda",
+      "nomeEn": "Farm Friends",
       "stickers": [
         {
           "nome": "Soneca bovina",
-          "nomeEn": "Soneca bovina",
+          "nomeEn": "Cow Nap",
           "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Chafurdeiros",
-          "nomeEn": "Chafurdeiros",
+          "nomeEn": "Wallowing",
           "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Piando!",
-          "nomeEn": "Piando!",
+          "nomeEn": "Cheep Cheep!",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Seriedade zero",
-          "nomeEn": "Seriedade zero",
+          "nomeEn": "Very Serious",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Hora do trote",
-          "nomeEn": "Hora do trote",
+          "nomeEn": "Horseplay",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Cãopetente",
-          "nomeEn": "Cãopetente",
+          "nomeEn": "Working Dog",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Cãolaborativo",
-          "nomeEn": "Cãolaborativo",
+          "nomeEn": "Too Helpful",
           "tenho": 1,
           "raridade": 9
         },
         {
           "nome": "Arrebanhados",
-          "nomeEn": "Arrebanhados",
+          "nomeEn": "Join the Flock",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Colheita de maçãs",
-          "nomeEn": "Colheita de maçãs",
+          "nomeEn": "Apple Picking",
           "tenho": 0,
           "raridade": 5
         }
@@ -922,59 +922,59 @@
     {
       "numero": 16,
       "nome": "Raízes culturais",
-      "nomeEn": "Raízes culturais",
+      "nomeEn": "Folk Americana",
       "stickers": [
         {
           "nome": "Interior",
-          "nomeEn": "Interior",
+          "nomeEn": "Hinterlands",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Estilo rústico",
-          "nomeEn": "Estilo rústico",
+          "nomeEn": "American Rustic",
           "tenho": 2,
           "raridade": 4
         },
         {
           "nome": "Natureza-morta",
-          "nomeEn": "Natureza-morta",
+          "nomeEn": "Still Life",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Ângulo perfeito",
-          "nomeEn": "Ângulo perfeito",
+          "nomeEn": "Picture Perfect",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "A arte das maçãs",
-          "nomeEn": "A arte das maçãs",
+          "nomeEn": "Artful Apples",
           "tenho": 4,
           "raridade": 9
         },
         {
           "nome": "Retrato em família",
-          "nomeEn": "Retrato em família",
+          "nomeEn": "Family Portrait",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Pastoril e pitoresco",
-          "nomeEn": "Pastoril e pitoresco",
+          "nomeEn": "Pretty Pastoral",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Milharais farfalhantes",
-          "nomeEn": "Milharais farfalhantes",
+          "nomeEn": "Rustling Corn",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Pequenos prazeres",
-          "nomeEn": "Pequenos prazeres",
+          "nomeEn": "Simple Joys",
           "tenho": 1,
           "raridade": 11
         }
@@ -983,59 +983,59 @@
     {
       "numero": 17,
       "nome": "Frutos do trabalho",
-      "nomeEn": "Frutos do trabalho",
+      "nomeEn": "Fruits of our Labor",
       "stickers": [
         {
           "nome": "A horta é agora",
-          "nomeEn": "A horta é agora",
+          "nomeEn": "Salad Plans",
           "tenho": 2,
           "raridade": 4
         },
         {
           "nome": "Cesta cheia",
-          "nomeEn": "Cesta cheia",
+          "nomeEn": "Full Basket",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Abóbora gigante",
-          "nomeEn": "Abóbora gigante",
+          "nomeEn": "Giant Pumpkin",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Galinheiro",
-          "nomeEn": "Galinheiro",
+          "nomeEn": "Henhouse",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "As mercadorias",
-          "nomeEn": "As mercadorias",
+          "nomeEn": "The Goods",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "O “milhor” cereal",
-          "nomeEn": "O “milhor” cereal",
+          "nomeEn": "All Ears",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Em conserva",
-          "nomeEn": "Em conserva",
+          "nomeEn": "Preserves",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Pegando picles",
-          "nomeEn": "Pegando picles",
+          "nomeEn": "Picking Pickles",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "O banquete",
-          "nomeEn": "O banquete",
+          "nomeEn": "Feasting",
           "tenho": 1,
           "raridade": 11
         }
@@ -1044,59 +1044,59 @@
     {
       "numero": 18,
       "nome": "Cenas serenas",
-      "nomeEn": "Cenas serenas",
+      "nomeEn": "Serene Scenes",
       "stickers": [
         {
           "nome": "Lavagem impecável",
-          "nomeEn": "Lavagem impecável",
+          "nomeEn": "Crisp Laundry",
           "tenho": 2,
           "raridade": 4
         },
         {
           "nome": "Fora do expediente",
-          "nomeEn": "Fora do expediente",
+          "nomeEn": "Out of Office",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Sonhador",
-          "nomeEn": "Sonhador",
+          "nomeEn": "Daydreamer",
           "tenho": 1,
           "raridade": 9
         },
         {
           "nome": "Banho de lama",
-          "nomeEn": "Banho de lama",
+          "nomeEn": "Mud Bath",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Belamente bucólico",
-          "nomeEn": "Belamente bucólico",
+          "nomeEn": "Perfectly Pastoral",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Doçura",
-          "nomeEn": "Doçura",
+          "nomeEn": "Sweetness",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Conforto da varanda",
-          "nomeEn": "Conforto da varanda",
+          "nomeEn": "Porch Life",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Situação cítrica",
-          "nomeEn": "Situação cítrica",
+          "nomeEn": "Lemon Squeezy",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Luar",
-          "nomeEn": "Luar",
+          "nomeEn": "Moonlight",
           "tenho": 0,
           "raridade": 11
         }
@@ -1105,35 +1105,35 @@
     {
       "numero": 19,
       "nome": "Agroglífos arcanos",
-      "nomeEn": "Agroglífos arcanos",
+      "nomeEn": "Crop Circle Chronicles",
       "stickers": [
         {
           "nome": "Pegadinha do Ben",
-          "nomeEn": "Pegadinha do Ben",
+          "nomeEn": "Ben's Prank",
           "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Obra de arte",
-          "nomeEn": "Obra de arte",
+          "nomeEn": "Work of Art",
           "tenho": 0,
           "raridade": 4
         },
         {
           "nome": "Alienígenas!",
-          "nomeEn": "Alienígenas!",
+          "nomeEn": "Aliens!",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Prova",
-          "nomeEn": "Prova",
+          "nomeEn": "Proof",
           "tenho": 2,
           "raridade": 9
         },
         {
           "nome": "Conspiração",
-          "nomeEn": "Conspiração",
+          "nomeEn": "Conspiracy",
           "tenho": 1,
           "raridade": 5
         },
@@ -1145,19 +1145,19 @@
         },
         {
           "nome": "Chapéus de alumínio",
-          "nomeEn": "Chapéus de alumínio",
+          "nomeEn": "Tinfoil Hats",
           "tenho": 1,
           "raridade": 10
         },
         {
           "nome": "Extraterrestres",
-          "nomeEn": "Extraterrestres",
+          "nomeEn": "Extraterrestrial",
           "tenho": 1,
           "raridade": 10
         },
         {
           "nome": "Te peguei!",
-          "nomeEn": "Te peguei!",
+          "nomeEn": "Gotcha",
           "tenho": 2,
           "raridade": 11
         }
@@ -1166,59 +1166,59 @@
     {
       "numero": 20,
       "nome": "Feira agrícola",
-      "nomeEn": "Feira agrícola",
+      "nomeEn": "County Fair",
       "stickers": [
         {
           "nome": "Ansiosíssima",
-          "nomeEn": "Ansiosíssima",
+          "nomeEn": "Can't Wait",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Clássicos",
-          "nomeEn": "Clássicos",
+          "nomeEn": "Classics",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Fome de algodão",
-          "nomeEn": "Fome de algodão",
+          "nomeEn": "Fluff Eat Fluff",
           "tenho": 1,
           "raridade": 5
         },
         {
           "nome": "Julgamento",
-          "nomeEn": "Julgamento",
+          "nomeEn": "Judging",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Fita azul",
-          "nomeEn": "Fita azul",
+          "nomeEn": "Blue Ribbon",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Abóboravilhoso",
-          "nomeEn": "Abóboravilhoso",
+          "nomeEn": "Gourd-geous",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Derrubei!",
-          "nomeEn": "Derrubei!",
+          "nomeEn": "Toppled",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Com a banda",
-          "nomeEn": "Com a banda",
+          "nomeEn": "With the Band",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Fogos de artifício",
-          "nomeEn": "Fogos de artifício",
+          "nomeEn": "Fireworks",
           "tenho": 0,
           "raridade": 11
         }
@@ -1227,35 +1227,35 @@
     {
       "numero": 21,
       "nome": "Lendas dos Looney Tunes",
-      "nomeEn": "Lendas dos Looney Tunes",
+      "nomeEn": "Looney Legends",
       "stickers": [
         {
           "nome": "Coiote",
-          "nomeEn": "Coiote",
+          "nomeEn": "Wile E. Coyote",
           "tenho": 1,
           "raridade": 9
         },
         {
           "nome": "Gato medroso",
-          "nomeEn": "Gato medroso",
+          "nomeEn": "Scaredy Cat",
           "tenho": 0,
           "raridade": 9
         },
         {
           "nome": "Papa-Léguas",
-          "nomeEn": "Papa-Léguas",
+          "nomeEn": "Road Runner",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Piu-Piu",
-          "nomeEn": "Piu-Piu",
+          "nomeEn": "Tweety Bird",
           "tenho": 0,
           "raridade": 5
         },
         {
           "nome": "Frajola",
-          "nomeEn": "Frajola",
+          "nomeEn": "Sylvester",
           "tenho": 1,
           "raridade": 10
         },
@@ -1267,19 +1267,19 @@
         },
         {
           "nome": "Presente suspeito",
-          "nomeEn": "Presente suspeito",
+          "nomeEn": "Suspicious Gift",
           "tenho": 1,
           "raridade": 10
         },
         {
           "nome": "Hortelino Troca-Letras",
-          "nomeEn": "Hortelino Troca-Letras",
+          "nomeEn": "Elmer Fudd",
           "tenho": 0,
           "raridade": 10
         },
         {
           "nome": "Pernalonga",
-          "nomeEn": "Pernalonga",
+          "nomeEn": "Bugs Bunny",
           "tenho": 1,
           "raridade": 11
         }
