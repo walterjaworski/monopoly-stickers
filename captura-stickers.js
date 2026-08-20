@@ -13,6 +13,14 @@ const CDP_PORT = 9333;
 const WIKI_API = 'https://api.monopolygo.wiki/v1/mogo-wiki/app-service/tool-config';
 const WIKI_CACHE_FILE = resolve(__dirname, 'wiki-cache.json');
 const WIKI_CACHE_TTL = 15 * 24 * 60 * 60 * 1000;
+const WIKI_HEADERS = {
+  'x-mogo-app-version': 'web',
+  'x-mogo-device-type': 'browser',
+  'x-mogo-install-id': '070425ab-fc62-4429-ab91-31c5209050ab',
+  'x-mogo-app-ownership': 'web',
+  'x-mogo-platform': 'web',
+  'accept': 'application/json',
+};
 
 function carregarAnterior() {
   try {
@@ -54,7 +62,7 @@ async function buscarNomesEN() {
 
   console.log('→ Buscando nomes EN do wiki...');
   try {
-    const resp = await fetch(WIKI_API);
+    const resp = await fetch(WIKI_API, { headers: WIKI_HEADERS });
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const data = await resp.json();
     const config = data.config;

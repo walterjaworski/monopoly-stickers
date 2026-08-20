@@ -1,0 +1,7 @@
+[     215ms] [WARNING] [GPT] PubAdsService.clearTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202608170101/pubads_impl.js?cb=122880533:18
+[     390ms] [WARNING]  is not a valid value for uspDnsText @ https://cmp.inmobi.com/tcfv2/60/cmp2.js?referer=monopolygo.wiki:1
+[     427ms] [LOG] uspData set usp out of jurisiction value @ https://cmp.inmobi.com/tcfv2/60/cmp2.js?referer=monopolygo.wiki:1
+[     427ms] [WARNING] Google basic consent is not applicable. @ https://cmp.inmobi.com/tcfv2/60/cmp2.js?referer=monopolygo.wiki:1
+[     428ms] [WARNING] Regulation is not applicable, hence visit event is not sent. @ https://cmp.inmobi.com/tcfv2/60/cmp2.js?referer=monopolygo.wiki:1
+[     929ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://monopolygo.wiki/mogo-tools/sticker-finder:0

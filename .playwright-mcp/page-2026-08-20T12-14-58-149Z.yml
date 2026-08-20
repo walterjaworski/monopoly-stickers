@@ -1,0 +1,1167 @@
+- generic [ref=f8e1]:
+  - dialog "Privacy" [active] [ref=f8e3]:
+    - generic [ref=f8e6]:
+      - figure [ref=f8e8]:
+        - heading "We value your privacy" [level=2] [ref=f8e9]
+      - generic [ref=f8e10]: We and our 1734 partners store and access information on your device (e.g., cookies, device identifiers) and process personal data (e.g., unique identifiers, browsing data) for personalized advertising, content measurement, audience insights, and other specified purposes. With your consent, we may utilize precise geolocation and device scanning technologies. You may review and manage the purposes for which your data is processed in the settings. Certain partners may process your data based on legitimate interest rather than consent. You retain the right to object to such processing, with further details available in the relevant section of our Privacy Settings. You may withdraw your consent or update your preferences at any time via Privacy Settings. Your choices apply exclusively to this site and will be retained for 13 months.
+    - generic [ref=f8e14]:
+      - button "MORE OPTIONS" [ref=f8e15] [cursor=pointer]
+      - button "AGREE" [ref=f8e17] [cursor=pointer]
+  - link "Skip to content" [ref=f8e19] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=f8e20]:
+    - generic [ref=f8e21]:
+      - link "Monopoly GO! Wiki Monopoly GO! Wiki" [ref=f8e22] [cursor=pointer]:
+        - /url: /
+        - img "Monopoly GO! Wiki" [ref=f8e24]
+        - generic [ref=f8e25]: Monopoly GO! Wiki
+      - generic [ref=f8e26]:
+        - link "Log in" [ref=f8e27] [cursor=pointer]:
+          - /url: /mogo-tools/login
+        - button "Open navigation" [ref=f8e29] [cursor=pointer]
+  - main [ref=f8e31]:
+    - generic [ref=f8e32]:
+      - generic [ref=f8e33]:
+        - generic [ref=f8e34]: Sticker Finder
+        - heading "Track, match, and share your stickers" [level=1] [ref=f8e35]
+        - paragraph [ref=f8e36]: Browse every sticker, update counts manually, find trade matches, and create sticker sheets. Game account connection is optional.
+      - complementary "Advertisement" [ref=f8e37]
+      - generic [ref=f8e39]:
+        - generic [ref=f8e42]:
+          - generic [ref=f8e43]:
+            - heading "Become an Insider" [level=2] [ref=f8e48]
+            - paragraph [ref=f8e49]: Easy Trading • Sticker Tracking • Smarter Matches
+          - link "Log in to start" [ref=f8e50] [cursor=pointer]:
+            - /url: /login?returnTo=%2Finsider
+        - generic [ref=f8e53]:
+          - generic [ref=f8e54]:
+            - generic [ref=f8e55]:
+              - paragraph [ref=f8e56]: Albums
+              - paragraph [ref=f8e57]: "1"
+            - generic [ref=f8e58]:
+              - paragraph [ref=f8e59]: Sets
+              - paragraph [ref=f8e60]: "21"
+            - generic [ref=f8e61]:
+              - paragraph [ref=f8e62]: Stickers
+              - paragraph [ref=f8e63]: "189"
+          - paragraph [ref=f8e65]: Browse album sets and their stickers. Log in when you are ready to track your own stickers.
+          - generic [ref=f8e66]:
+            - generic [ref=f8e67]:
+              - paragraph [ref=f8e68]: Want to track your own album?
+              - paragraph [ref=f8e69]: Public browsing stays open here. Log in to track your stickers, duplicates, requests, and smarter matches.
+              - generic [ref=f8e70]:
+                - link "Log in to track stickers" [ref=f8e71] [cursor=pointer]:
+                  - /url: /login?returnTo=%2Fmogo-tools%2Fsticker-finder
+                - link "Become an Insider" [ref=f8e72] [cursor=pointer]:
+                  - /url: /insider
+            - generic [ref=f8e73]:
+              - paragraph [ref=f8e74]: Trending stickers
+              - generic [ref=f8e75]:
+                - link [ref=f8e76] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_6
+                  - img "Fruits" [ref=f8e78]
+                  - generic [ref=f8e79]:
+                    - paragraph [ref=f8e81]: Fruits
+                    - paragraph [ref=f8e82]: Cafe Ingredients · 3★
+                    - generic [ref=f8e83]: Popular today
+                - link [ref=f8e88] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_5
+                  - img "Veggies" [ref=f8e90]
+                  - generic [ref=f8e91]:
+                    - paragraph [ref=f8e93]: Veggies
+                    - paragraph [ref=f8e94]: Cafe Ingredients · 3★
+                    - generic [ref=f8e95]: Popular today
+                - link [ref=f8e100] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_9
+                  - img "Blue Melon" [ref=f8e102]
+                  - generic [ref=f8e103]:
+                    - paragraph [ref=f8e105]: Blue Melon
+                    - paragraph [ref=f8e106]: Greenhouse Lab · 4★
+                    - generic [ref=f8e107]: Popular today
+          - generic [ref=f8e112]:
+            - textbox "Search sticker name" [ref=f8e114]
+            - combobox "Album" [ref=f8e115]:
+              - option "All albums" [selected]
+              - option "Current Album"
+            - combobox "Set" [ref=f8e116]:
+              - option "All sets" [selected]
+              - option "1. ACME Acres"
+              - option "2. Good Morning"
+              - option "3. The Giant Carrot"
+              - option "4. Family Fun"
+              - option "5. Posh Pets Go Country"
+              - option "6. Barnyard Business"
+              - option "7. Blooming Fields"
+              - option "8. Farmside Finds"
+              - option "9. Growing Care"
+              - option "10. Dairy Days"
+              - option "11. Cafe Ingredients"
+              - option "12. Greenhouse Lab"
+              - option "13. Bee Trouble"
+              - option "14. Carrotville"
+              - option "15. Farm Friends"
+              - option "16. Folk Americana"
+              - option "17. Fruits of our Labor"
+              - option "18. Serene Scenes"
+              - option "19. Crop Circle Chronicles"
+              - option "20. County Fair"
+              - option "21. Looney Legends"
+            - combobox "Star count" [ref=f8e117]:
+              - option "Any stars" [selected]
+              - option "1 star"
+              - option "2 stars"
+              - option "3 stars"
+              - option "4 stars"
+              - option "5 stars"
+              - option "6 stars"
+            - generic [ref=f8e118]:
+              - checkbox "Gold" [ref=f8e119]
+              - text: Gold
+          - generic [ref=f8e120]:
+            - generic [ref=f8e121]:
+              - generic [ref=f8e122]:
+                - generic [ref=f8e123]:
+                  - heading "ACME Acres" [level=3] [ref=f8e124]
+                  - paragraph [ref=f8e125]: Set 1 · 9 stickers
+                - generic [ref=f8e126]: Catalog
+              - generic [ref=f8e129]:
+                - link "Welcome, Folks! 1★" [ref=f8e130] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_1_1
+                  - img "Welcome, Folks!" [ref=f8e132]
+                  - generic [ref=f8e133]: 1★
+                - link "Marvin 1★" [ref=f8e135] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_1_2
+                  - img "Marvin" [ref=f8e137]
+                  - generic [ref=f8e138]: 1★
+                - link "Taz 1★" [ref=f8e140] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_1_3
+                  - img "Taz" [ref=f8e142]
+                  - generic [ref=f8e143]: 1★
+                - link "Lola Bunny 1★" [ref=f8e145] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_1_4
+                  - img "Lola Bunny" [ref=f8e147]
+                  - generic [ref=f8e148]: 1★
+                - link "Porky Pig 1★" [ref=f8e150] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_1_5
+                  - img "Porky Pig" [ref=f8e152]
+                  - generic [ref=f8e153]: 1★
+                - link "Foghorn Leghorn 1★" [ref=f8e155] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_1_6
+                  - img "Foghorn Leghorn" [ref=f8e157]
+                  - generic [ref=f8e158]: 1★
+                - link "Speedy Gonzales 1★" [ref=f8e160] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_1_7
+                  - img "Speedy Gonzales" [ref=f8e162]
+                  - generic [ref=f8e163]: 1★
+                - link "No Wabbits 1★" [ref=f8e165] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_1_8
+                  - img "No Wabbits" [ref=f8e167]
+                  - generic [ref=f8e168]: 1★
+                - link "Daffy Duck 1★" [ref=f8e170] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_1_9
+                  - img "Daffy Duck" [ref=f8e172]
+                  - generic [ref=f8e173]: 1★
+            - generic [ref=f8e175]:
+              - generic [ref=f8e176]:
+                - generic [ref=f8e177]:
+                  - heading "Good Morning" [level=3] [ref=f8e178]
+                  - paragraph [ref=f8e179]: Set 2 · 9 stickers
+                - generic [ref=f8e180]: Catalog
+              - generic [ref=f8e183]:
+                - link "Daybreak Barn 1★" [ref=f8e184] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_2_1
+                  - img "Daybreak Barn" [ref=f8e186]
+                  - generic [ref=f8e187]: 1★
+                - link "Doodle Doo! 1★" [ref=f8e189] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_2_2
+                  - img "Doodle Doo!" [ref=f8e191]
+                  - generic [ref=f8e192]: 1★
+                - link "Sunlight 1★" [ref=f8e194] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_2_3
+                  - img "Sunlight" [ref=f8e196]
+                  - generic [ref=f8e197]: 1★
+                - link "Breakfast 1★" [ref=f8e199] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_2_4
+                  - img "Breakfast" [ref=f8e201]
+                  - generic [ref=f8e202]: 1★
+                - link "Getting to Work 1★" [ref=f8e204] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_2_5
+                  - img "Getting to Work" [ref=f8e206]
+                  - generic [ref=f8e207]: 1★
+                - link "Waddling to Do 1★" [ref=f8e209] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_2_6
+                  - img "Waddling to Do" [ref=f8e211]
+                  - generic [ref=f8e212]: 1★
+                - link "Gone Sheepin' 1★" [ref=f8e214] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_2_7
+                  - img "Gone Sheepin'" [ref=f8e216]
+                  - generic [ref=f8e217]: 1★
+                - link "Tilling 1★" [ref=f8e219] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_2_8
+                  - img "Tilling" [ref=f8e221]
+                  - generic [ref=f8e222]: 1★
+                - link "Happy Farmer 1★" [ref=f8e224] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_2_9
+                  - img "Happy Farmer" [ref=f8e226]
+                  - generic [ref=f8e227]: 1★
+            - generic [ref=f8e229]:
+              - generic [ref=f8e230]:
+                - generic [ref=f8e231]:
+                  - heading "The Giant Carrot" [level=3] [ref=f8e232]
+                  - paragraph [ref=f8e233]: Set 3 · 9 stickers
+                - generic [ref=f8e234]: Catalog
+              - generic [ref=f8e237]:
+                - link "The Culprit 1★" [ref=f8e238] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_3_1
+                  - img "The Culprit" [ref=f8e240]
+                  - generic [ref=f8e241]: 1★
+                - link "What the? 1★" [ref=f8e243] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_3_2
+                  - img "What the?" [ref=f8e245]
+                  - generic [ref=f8e246]: 1★
+                - link "Meanwhile... 1★" [ref=f8e248] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_3_3
+                  - img "Meanwhile..." [ref=f8e250]
+                  - generic [ref=f8e251]: 1★
+                - link "Moley 1★" [ref=f8e253] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_3_4
+                  - img "Moley" [ref=f8e255]
+                  - generic [ref=f8e256]: 1★
+                - link "Nibbles 1★" [ref=f8e258] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_3_5
+                  - img "Nibbles" [ref=f8e260]
+                  - generic [ref=f8e261]: 1★
+                - link "Buried Treasure 1★" [ref=f8e263] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_3_6
+                  - img "Buried Treasure" [ref=f8e265]
+                  - generic [ref=f8e266]: 1★
+                - link "Rabbit Hole 2★" [ref=f8e268] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_3_7
+                  - img "Rabbit Hole" [ref=f8e270]
+                  - generic [ref=f8e271]: 2★
+                - link "Root Problem 2★" [ref=f8e273] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_3_8
+                  - img "Root Problem" [ref=f8e275]
+                  - generic [ref=f8e276]: 2★
+                - link "24 Carrot 2★" [ref=f8e278] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_3_9
+                  - img "24 Carrot" [ref=f8e280]
+                  - generic [ref=f8e281]: 2★
+            - generic [ref=f8e283]:
+              - generic [ref=f8e284]:
+                - generic [ref=f8e285]:
+                  - heading "Family Fun" [level=3] [ref=f8e286]
+                  - paragraph [ref=f8e287]: Set 4 · 9 stickers
+                - generic [ref=f8e288]: Catalog
+              - generic [ref=f8e291]:
+                - link "Farm Visit 1★" [ref=f8e292] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_4_1
+                  - img "Farm Visit" [ref=f8e294]
+                  - generic [ref=f8e295]: 1★
+                - link "Sheepish 1★" [ref=f8e297] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_4_2
+                  - img "Sheepish" [ref=f8e299]
+                  - generic [ref=f8e300]: 1★
+                - link "Hay Maze 1★" [ref=f8e302] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_4_3
+                  - img "Hay Maze" [ref=f8e304]
+                  - generic [ref=f8e305]: 1★
+                - link "Pig Run 2★" [ref=f8e307] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_4_4
+                  - img "Pig Run" [ref=f8e309]
+                  - generic [ref=f8e310]: 2★
+                - link "Prize Pigs 2★" [ref=f8e312] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_4_5
+                  - img "Prize Pigs" [ref=f8e314]
+                  - generic [ref=f8e315]: 2★
+                - link "Victory Hop 2★" [ref=f8e317] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_4_6
+                  - img "Victory Hop" [ref=f8e319]
+                  - generic [ref=f8e320]: 2★
+                - link "Eating Contest 2★" [ref=f8e322] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_4_7
+                  - img "Eating Contest" [ref=f8e324]
+                  - generic [ref=f8e325]: 2★
+                - link "Bluegrass Tunes 2★" [ref=f8e327] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_4_8
+                  - img "Bluegrass Tunes" [ref=f8e329]
+                  - generic [ref=f8e330]: 2★
+                - link "Picnic Time 2★" [ref=f8e332] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_4_9
+                  - img "Picnic Time" [ref=f8e334]
+                  - generic [ref=f8e335]: 2★
+            - generic [ref=f8e337]:
+              - generic [ref=f8e338]:
+                - generic [ref=f8e339]:
+                  - heading "Posh Pets Go Country" [level=3] [ref=f8e340]
+                  - paragraph [ref=f8e341]: Set 5 · 9 stickers
+                - generic [ref=f8e342]: Catalog
+              - generic [ref=f8e345]:
+                - link "City Friends 2★" [ref=f8e346] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_5_1
+                  - img "City Friends" [ref=f8e348]
+                  - generic [ref=f8e349]: 2★
+                - link "Interesting Dog 2★" [ref=f8e351] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_5_2
+                  - img "Interesting Dog" [ref=f8e353]
+                  - generic [ref=f8e354]: 2★
+                - link "Delicate Duke 2★" [ref=f8e356] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_5_3
+                  - img "Delicate Duke" [ref=f8e358]
+                  - generic [ref=f8e359]: 2★
+                - link "Goose Chase 2★" [ref=f8e361] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_5_4
+                  - img "Goose Chase" [ref=f8e363]
+                  - generic [ref=f8e364]: 2★
+                - link "Miss Priss 2★" [ref=f8e366] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_5_5
+                  - img "Miss Priss" [ref=f8e368]
+                  - generic [ref=f8e369]: 2★
+                - link "Surrounded 2★" [ref=f8e371] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_5_6
+                  - img "Surrounded" [ref=f8e373]
+                  - generic [ref=f8e374]: 2★
+                - link "The Pro 2★" [ref=f8e376] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_5_7
+                  - img "The Pro" [ref=f8e378]
+                  - generic [ref=f8e379]: 2★
+                - link "Quick Study 2★" [ref=f8e381] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_5_8
+                  - img "Quick Study" [ref=f8e383]
+                  - generic [ref=f8e384]: 2★
+                - link "Sheepdogs 2★" [ref=f8e386] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_5_9
+                  - img "Sheepdogs" [ref=f8e388]
+                  - generic [ref=f8e389]: 2★
+            - generic [ref=f8e391]:
+              - generic [ref=f8e392]:
+                - generic [ref=f8e393]:
+                  - heading "Barnyard Business" [level=3] [ref=f8e394]
+                  - paragraph [ref=f8e395]: Set 6 · 9 stickers
+                - generic [ref=f8e396]: Catalog
+              - generic [ref=f8e399]:
+                - link "Sleepy Hens 2★" [ref=f8e400] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_6_1
+                  - img "Sleepy Hens" [ref=f8e402]
+                  - generic [ref=f8e403]: 2★
+                - link "Hungry Piggy 2★" [ref=f8e405] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_6_2
+                  - img "Hungry Piggy" [ref=f8e407]
+                  - generic [ref=f8e408]: 2★
+                - link "A Bit Peckish 2★" [ref=f8e410] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_6_3
+                  - img "A Bit Peckish" [ref=f8e412]
+                  - generic [ref=f8e413]: 2★
+                - link "Oh Hay There! 2★" [ref=f8e415] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_6_4
+                  - img "Oh Hay There!" [ref=f8e417]
+                  - generic [ref=f8e418]: 2★
+                - link "Low Crow 2★" [ref=f8e420] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_6_5
+                  - img "Low Crow" [ref=f8e422]
+                  - generic [ref=f8e423]: 2★
+                - link "Glow Up 2★" [ref=f8e425] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_6_6
+                  - img "Glow Up" [ref=f8e427]
+                  - generic [ref=f8e428]: 2★
+                - link "Rain or Shine 2★" [ref=f8e430] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_6_7
+                  - img "Rain or Shine" [ref=f8e432]
+                  - generic [ref=f8e433]: 2★
+                - link "Shear Genius 2★" [ref=f8e435] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_6_8
+                  - img "Shear Genius" [ref=f8e437]
+                  - generic [ref=f8e438]: 2★
+                - link "It Takes Two 2★" [ref=f8e440] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_6_9
+                  - img "It Takes Two" [ref=f8e442]
+                  - generic [ref=f8e443]: 2★
+            - generic [ref=f8e445]:
+              - generic [ref=f8e446]:
+                - generic [ref=f8e447]:
+                  - heading "Blooming Fields" [level=3] [ref=f8e448]
+                  - paragraph [ref=f8e449]: Set 7 · 9 stickers
+                - generic [ref=f8e450]: Catalog
+              - generic [ref=f8e453]:
+                - link "Tranquil Tulips 2★" [ref=f8e454] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_7_1
+                  - img "Tranquil Tulips" [ref=f8e456]
+                  - generic [ref=f8e457]: 2★
+                - link "Dewdrops 2★" [ref=f8e459] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_7_2
+                  - img "Dewdrops" [ref=f8e461]
+                  - generic [ref=f8e462]: 2★
+                - link "Bumblebee 2★" [ref=f8e464] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_7_3
+                  - img "Bumblebee" [ref=f8e466]
+                  - generic [ref=f8e467]: 2★
+                - link "Posies Aplenty 2★" [ref=f8e469] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_7_4
+                  - img "Posies Aplenty" [ref=f8e471]
+                  - generic [ref=f8e472]: 2★
+                - link "Best Buds 2★" [ref=f8e474] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_7_5
+                  - img "Best Buds" [ref=f8e476]
+                  - generic [ref=f8e477]: 2★
+                - link "Oopsie Daisy 2★" [ref=f8e479] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_7_6
+                  - img "Oopsie Daisy" [ref=f8e481]
+                  - generic [ref=f8e482]: 2★
+                - link "Artful Bouquets 2★" [ref=f8e484] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_7_7
+                  - img "Artful Bouquets" [ref=f8e486]
+                  - generic [ref=f8e487]: 2★
+                - link "Fresh Picks 3★" [ref=f8e489] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_7_8
+                  - img "Fresh Picks" [ref=f8e491]
+                  - generic [ref=f8e492]: 3★
+                - link "Flower Power 3★" [ref=f8e494] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_7_9
+                  - img "Flower Power" [ref=f8e496]
+                  - generic [ref=f8e497]: 3★
+            - generic [ref=f8e499]:
+              - generic [ref=f8e500]:
+                - generic [ref=f8e501]:
+                  - heading "Farmside Finds" [level=3] [ref=f8e502]
+                  - paragraph [ref=f8e503]: Set 8 · 9 stickers
+                - generic [ref=f8e504]: Catalog
+              - generic [ref=f8e507]:
+                - link "Road Trip 2★" [ref=f8e508] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_8_1
+                  - img "Road Trip" [ref=f8e510]
+                  - generic [ref=f8e511]: 2★
+                - link "This Way 2★" [ref=f8e513] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_8_2
+                  - img "This Way" [ref=f8e515]
+                  - generic [ref=f8e516]: 2★
+                - link "Tales to Tell 2★" [ref=f8e518] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_8_3
+                  - img "Tales to Tell" [ref=f8e520]
+                  - generic [ref=f8e521]: 2★
+                - link "Sold! 2★" [ref=f8e523] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_8_4
+                  - img "Sold!" [ref=f8e525]
+                  - generic [ref=f8e526]: 2★
+                - link "Tourist Trap 3★" [ref=f8e528] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_8_5
+                  - img "Tourist Trap" [ref=f8e530]
+                  - generic [ref=f8e531]: 3★
+                - link "Flying Saucer? 3★" [ref=f8e533] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_8_6
+                  - img "Flying Saucer?" [ref=f8e535]
+                  - generic [ref=f8e536]: 3★
+                - link "Interstate 3★" [ref=f8e538] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_8_7
+                  - img "Interstate" [ref=f8e540]
+                  - generic [ref=f8e541]: 3★
+                - link "Mothership Motel 3★" [ref=f8e543] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_8_8
+                  - img "Mothership Motel" [ref=f8e545]
+                  - generic [ref=f8e546]: 3★
+                - link "UFO Burgers 3★" [ref=f8e548] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_8_9
+                  - img "UFO Burgers" [ref=f8e550]
+                  - generic [ref=f8e551]: 3★
+            - generic [ref=f8e553]:
+              - generic [ref=f8e554]:
+                - generic [ref=f8e555]:
+                  - heading "Growing Care" [level=3] [ref=f8e556]
+                  - paragraph [ref=f8e557]: Set 9 · 9 stickers
+                - generic [ref=f8e558]: Catalog
+              - generic [ref=f8e561]:
+                - link "Let's Go! 2★" [ref=f8e562] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_9_1
+                  - img "Let's Go!" [ref=f8e564]
+                  - generic [ref=f8e565]: 2★
+                - link "Eggcellent 2★" [ref=f8e567] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_9_2
+                  - img "Eggcellent" [ref=f8e569]
+                  - generic [ref=f8e570]: 2★
+                - link "Sow Far, Sow Good 3★" [ref=f8e572] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_9_3
+                  - img "Sow Far, Sow Good" [ref=f8e574]
+                  - generic [ref=f8e575]: 3★
+                - link "Peg-E & Pig-E 3★" [ref=f8e577] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_9_4
+                  - img "Peg-E & Pig-E" [ref=f8e579]
+                  - generic [ref=f8e580]: 3★
+                - link "Grow For Me 3★" [ref=f8e582] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_9_5
+                  - img "Grow For Me" [ref=f8e584]
+                  - generic [ref=f8e585]: 3★
+                - link "Mint To Be 3★" [ref=f8e587] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_9_6
+                  - img "Mint To Be" [ref=f8e589]
+                  - generic [ref=f8e590]: 3★
+                - link "Solar Power 3★" [ref=f8e592] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_9_7
+                  - img "Solar Power" [ref=f8e594]
+                  - generic [ref=f8e595]: 3★
+                - link "Lunchtime 3★" [ref=f8e597] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_9_8
+                  - img "Lunchtime" [ref=f8e599]
+                  - generic [ref=f8e600]: 3★
+                - link "Little Lamb 3★" [ref=f8e602] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_9_9
+                  - img "Little Lamb" [ref=f8e604]
+                  - generic [ref=f8e605]: 3★
+            - generic [ref=f8e607]:
+              - generic [ref=f8e608]:
+                - generic [ref=f8e609]:
+                  - heading "Dairy Days" [level=3] [ref=f8e610]
+                  - paragraph [ref=f8e611]: Set 10 · 9 stickers
+                - generic [ref=f8e612]: Catalog
+              - generic [ref=f8e615]:
+                - link "Grass is Greener 2★" [ref=f8e616] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_10_1
+                  - img "Grass is Greener" [ref=f8e618]
+                  - generic [ref=f8e619]: 2★
+                - link "Milking 3★" [ref=f8e621] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_10_2
+                  - img "Milking" [ref=f8e623]
+                  - generic [ref=f8e624]: 3★
+                - link "Jug Jaunt 3★" [ref=f8e626] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_10_3
+                  - img "Jug Jaunt" [ref=f8e628]
+                  - generic [ref=f8e629]: 3★
+                - link "Butter Churn 3★" [ref=f8e631] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_10_4
+                  - img "Butter Churn" [ref=f8e633]
+                  - generic [ref=f8e634]: 3★
+                - link "Swisstacular 3★" [ref=f8e636] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_10_5
+                  - img "Swisstacular" [ref=f8e638]
+                  - generic [ref=f8e639]: 3★
+                - link "Funky 3★" [ref=f8e641] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_10_6
+                  - img "Funky" [ref=f8e643]
+                  - generic [ref=f8e644]: 3★
+                - link "Dairy on Demand 3★" [ref=f8e646] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_10_7
+                  - img "Dairy on Demand" [ref=f8e648]
+                  - generic [ref=f8e649]: 3★
+                - link "Udderly Fab 3★" [ref=f8e651] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_10_8
+                  - img "Udderly Fab" [ref=f8e653]
+                  - generic [ref=f8e654]: 3★
+                - link "Tycoon Cowboy 3★" [ref=f8e656] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_10_9
+                  - img "Tycoon Cowboy" [ref=f8e658]
+                  - generic [ref=f8e659]: 3★
+            - generic [ref=f8e661]:
+              - generic [ref=f8e662]:
+                - generic [ref=f8e663]:
+                  - heading "Cafe Ingredients" [level=3] [ref=f8e664]
+                  - paragraph [ref=f8e665]: Set 11 · 9 stickers
+                - generic [ref=f8e666]: Catalog
+              - generic [ref=f8e669]:
+                - link "Flour 2★" [ref=f8e670] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_1
+                  - img "Flour" [ref=f8e672]
+                  - generic [ref=f8e673]: 2★
+                - link "Eggs 2★" [ref=f8e675] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_2
+                  - img "Eggs" [ref=f8e677]
+                  - generic [ref=f8e678]: 2★
+                - link "Dairy 2★" [ref=f8e680] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_3
+                  - img "Dairy" [ref=f8e682]
+                  - generic [ref=f8e683]: 2★
+                - link "Cheese 3★" [ref=f8e685] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_4
+                  - img "Cheese" [ref=f8e687]
+                  - generic [ref=f8e688]: 3★
+                - link "Veggies 3★" [ref=f8e690] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_5
+                  - img "Veggies" [ref=f8e692]
+                  - generic [ref=f8e693]: 3★
+                - link "Fruits 3★" [ref=f8e695] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_6
+                  - img "Fruits" [ref=f8e697]
+                  - generic [ref=f8e698]: 3★
+                - link "Nuts 4★" [ref=f8e700] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_7
+                  - img "Nuts" [ref=f8e702]
+                  - generic [ref=f8e703]: 4★
+                - link "Honey 4★" [ref=f8e705] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_8
+                  - img "Honey" [ref=f8e707]
+                  - generic [ref=f8e708]: 4★
+                - link "Special Spice 4★" [ref=f8e710] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_11_9
+                  - img "Special Spice" [ref=f8e712]
+                  - generic [ref=f8e713]: 4★
+            - generic [ref=f8e715]:
+              - generic [ref=f8e716]:
+                - generic [ref=f8e717]:
+                  - heading "Greenhouse Lab" [level=3] [ref=f8e718]
+                  - paragraph [ref=f8e719]: Set 12 · 9 stickers
+                - generic [ref=f8e720]: Catalog
+              - generic [ref=f8e723]:
+                - link "For Science! 3★" [ref=f8e724] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_1
+                  - img "For Science!" [ref=f8e726]
+                  - generic [ref=f8e727]: 3★
+                - link "Curious 3★" [ref=f8e729] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_2
+                  - img "Curious" [ref=f8e731]
+                  - generic [ref=f8e732]: 3★
+                - link "Duo Juice 3★" [ref=f8e734] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_3
+                  - img "Duo Juice" [ref=f8e736]
+                  - generic [ref=f8e737]: 3★
+                - link "Corn, Squared 3★" [ref=f8e739] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_4
+                  - img "Corn, Squared" [ref=f8e741]
+                  - generic [ref=f8e742]: 3★
+                - link "Special Helper 3★" [ref=f8e744] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_5
+                  - img "Special Helper" [ref=f8e746]
+                  - generic [ref=f8e747]: 3★
+                - link "Cloud Drone 3★" [ref=f8e749] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_6
+                  - img "Cloud Drone" [ref=f8e751]
+                  - generic [ref=f8e752]: 3★
+                - link "Avocadon't 3★" [ref=f8e754] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_7
+                  - img "Avocadon't" [ref=f8e756]
+                  - generic [ref=f8e757]: 3★
+                - link "Sunny Sunflower 4★" [ref=f8e759] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_8
+                  - img "Sunny Sunflower" [ref=f8e761]
+                  - generic [ref=f8e762]: 4★
+                - link "Blue Melon 4★" [ref=f8e764] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_12_9
+                  - img "Blue Melon" [ref=f8e766]
+                  - generic [ref=f8e767]: 4★
+            - generic [ref=f8e769]:
+              - generic [ref=f8e770]:
+                - generic [ref=f8e771]:
+                  - heading "Bee Trouble" [level=3] [ref=f8e772]
+                  - paragraph [ref=f8e773]: Set 13 · 9 stickers · 1 gold
+                - generic [ref=f8e774]:
+                  - generic [ref=f8e775]: Catalog
+                  - generic [ref=f8e776]: 1 gold
+              - generic [ref=f8e778]:
+                - link "Busy Bee 3★" [ref=f8e779] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_13_1
+                  - img "Busy Bee" [ref=f8e781]
+                  - generic [ref=f8e782]: 3★
+                - link "The Hive 3★" [ref=f8e784] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_13_2
+                  - img "The Hive" [ref=f8e786]
+                  - generic [ref=f8e787]: 3★
+                - link "Honeycomb 3★" [ref=f8e789] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_13_3
+                  - img "Honeycomb" [ref=f8e791]
+                  - generic [ref=f8e792]: 3★
+                - link "Carefree Lunch 3★" [ref=f8e794] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_13_4
+                  - img "Carefree Lunch" [ref=f8e796]
+                  - generic [ref=f8e797]: 3★
+                - link "Buzz Off! 3★" [ref=f8e799] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_13_5
+                  - img "Buzz Off!" [ref=f8e801]
+                  - generic [ref=f8e802]: 3★
+                - link "Un-Bee-lievable! 3★" [ref=f8e804] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_13_6
+                  - img "Un-Bee-lievable!" [ref=f8e806]
+                  - generic [ref=f8e807]: 3★
+                - link "Bee Boo Boo 4★" [ref=f8e809] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_13_7
+                  - img "Bee Boo Boo" [ref=f8e811]
+                  - generic [ref=f8e812]: 4★
+                - link "TLC 4★" [ref=f8e814] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_13_8
+                  - img "TLC" [ref=f8e816]
+                  - generic [ref=f8e817]: 4★
+                - link "Honey, I'm Home Gold 4★" [ref=f8e819] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_13_9
+                  - generic [ref=f8e820]:
+                    - img "Honey, I'm Home" [ref=f8e821]
+                    - generic [ref=f8e822]: Gold
+                  - generic [ref=f8e823]: 4★
+            - generic [ref=f8e825]:
+              - generic [ref=f8e826]:
+                - generic [ref=f8e827]:
+                  - heading "Carrotville" [level=3] [ref=f8e828]
+                  - paragraph [ref=f8e829]: Set 14 · 9 stickers · 1 gold
+                - generic [ref=f8e830]:
+                  - generic [ref=f8e831]: Catalog
+                  - generic [ref=f8e832]: 1 gold
+              - generic [ref=f8e834]:
+                - link "Archway 3★" [ref=f8e835] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_14_1
+                  - img "Archway" [ref=f8e837]
+                  - generic [ref=f8e838]: 3★
+                - link "Village Fountain 3★" [ref=f8e840] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_14_2
+                  - img "Village Fountain" [ref=f8e842]
+                  - generic [ref=f8e843]: 3★
+                - link "Next Stop 3★" [ref=f8e845] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_14_3
+                  - img "Next Stop" [ref=f8e847]
+                  - generic [ref=f8e848]: 3★
+                - link "Cringe Flavored 3★" [ref=f8e850] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_14_4
+                  - img "Cringe Flavored" [ref=f8e852]
+                  - generic [ref=f8e853]: 3★
+                - link "Carrot Cake 4★" [ref=f8e855] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_14_5
+                  - img "Carrot Cake" [ref=f8e857]
+                  - generic [ref=f8e858]: 4★
+                - link "Photo Op 4★" [ref=f8e860] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_14_6
+                  - img "Photo Op" [ref=f8e862]
+                  - generic [ref=f8e863]: 4★
+                - link "Winner! 4★" [ref=f8e865] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_14_7
+                  - img "Winner!" [ref=f8e867]
+                  - generic [ref=f8e868]: 4★
+                - link "Rudy Root Gold 4★" [ref=f8e870] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_14_8
+                  - generic [ref=f8e871]:
+                    - img "Rudy Root" [ref=f8e872]
+                    - generic [ref=f8e873]: Gold
+                  - generic [ref=f8e874]: 4★
+                - link "Parade Day 5★" [ref=f8e876] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_14_9
+                  - img "Parade Day" [ref=f8e878]
+                  - generic [ref=f8e879]: 5★
+            - generic [ref=f8e881]:
+              - generic [ref=f8e882]:
+                - generic [ref=f8e883]:
+                  - heading "Farm Friends" [level=3] [ref=f8e884]
+                  - paragraph [ref=f8e885]: Set 15 · 9 stickers · 1 gold
+                - generic [ref=f8e886]:
+                  - generic [ref=f8e887]: Catalog
+                  - generic [ref=f8e888]: 1 gold
+              - generic [ref=f8e890]:
+                - link "Cow Nap 3★" [ref=f8e891] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_15_1
+                  - img "Cow Nap" [ref=f8e893]
+                  - generic [ref=f8e894]: 3★
+                - link "Wallowing 3★" [ref=f8e896] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_15_2
+                  - img "Wallowing" [ref=f8e898]
+                  - generic [ref=f8e899]: 3★
+                - link "Cheep Cheep! 4★" [ref=f8e901] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_15_3
+                  - img "Cheep Cheep!" [ref=f8e903]
+                  - generic [ref=f8e904]: 4★
+                - link "Very Serious 4★" [ref=f8e906] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_15_4
+                  - img "Very Serious" [ref=f8e908]
+                  - generic [ref=f8e909]: 4★
+                - link "Horseplay 4★" [ref=f8e911] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_15_5
+                  - img "Horseplay" [ref=f8e913]
+                  - generic [ref=f8e914]: 4★
+                - link "Working Dog 4★" [ref=f8e916] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_15_6
+                  - img "Working Dog" [ref=f8e918]
+                  - generic [ref=f8e919]: 4★
+                - link "Too Helpful Gold 4★" [ref=f8e921] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_15_7
+                  - generic [ref=f8e922]:
+                    - img "Too Helpful" [ref=f8e923]
+                    - generic [ref=f8e924]: Gold
+                  - generic [ref=f8e925]: 4★
+                - link "Join the Flock 5★" [ref=f8e927] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_15_8
+                  - img "Join the Flock" [ref=f8e929]
+                  - generic [ref=f8e930]: 5★
+                - link "Apple Picking 5★" [ref=f8e932] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_15_9
+                  - img "Apple Picking" [ref=f8e934]
+                  - generic [ref=f8e935]: 5★
+            - generic [ref=f8e937]:
+              - generic [ref=f8e938]:
+                - generic [ref=f8e939]:
+                  - heading "Folk Americana" [level=3] [ref=f8e940]
+                  - paragraph [ref=f8e941]: Set 16 · 9 stickers · 3 gold
+                - generic [ref=f8e942]:
+                  - generic [ref=f8e943]: Catalog
+                  - generic [ref=f8e944]: 3 gold
+              - generic [ref=f8e946]:
+                - link "Hinterlands 4★" [ref=f8e947] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_16_1
+                  - img "Hinterlands" [ref=f8e949]
+                  - generic [ref=f8e950]: 4★
+                - link "American Rustic 4★" [ref=f8e952] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_16_2
+                  - img "American Rustic" [ref=f8e954]
+                  - generic [ref=f8e955]: 4★
+                - link "Still Life 4★" [ref=f8e957] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_16_3
+                  - img "Still Life" [ref=f8e959]
+                  - generic [ref=f8e960]: 4★
+                - link "Picture Perfect 4★" [ref=f8e962] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_16_4
+                  - img "Picture Perfect" [ref=f8e964]
+                  - generic [ref=f8e965]: 4★
+                - link "Artful Apples Gold 4★" [ref=f8e967] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_16_5
+                  - generic [ref=f8e968]:
+                    - img "Artful Apples" [ref=f8e969]
+                    - generic [ref=f8e970]: Gold
+                  - generic [ref=f8e971]: 4★
+                - link "Family Portrait Gold 4★" [ref=f8e973] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_16_6
+                  - generic [ref=f8e974]:
+                    - img "Family Portrait" [ref=f8e975]
+                    - generic [ref=f8e976]: Gold
+                  - generic [ref=f8e977]: 4★
+                - link "Pretty Pastoral 5★" [ref=f8e979] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_16_7
+                  - img "Pretty Pastoral" [ref=f8e981]
+                  - generic [ref=f8e982]: 5★
+                - link "Rustling Corn Gold 5★" [ref=f8e984] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_16_8
+                  - generic [ref=f8e985]:
+                    - img "Rustling Corn" [ref=f8e986]
+                    - generic [ref=f8e987]: Gold
+                  - generic [ref=f8e988]: 5★
+                - link "Simple Joys 6★" [ref=f8e990] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_16_9
+                  - img "Simple Joys" [ref=f8e992]
+                  - generic [ref=f8e993]: 6★
+            - generic [ref=f8e995]:
+              - generic [ref=f8e996]:
+                - generic [ref=f8e997]:
+                  - heading "Fruits of our Labor" [level=3] [ref=f8e998]
+                  - paragraph [ref=f8e999]: Set 17 · 9 stickers · 3 gold
+                - generic [ref=f8e1000]:
+                  - generic [ref=f8e1001]: Catalog
+                  - generic [ref=f8e1002]: 3 gold
+              - generic [ref=f8e1004]:
+                - link "Salad Plans 4★" [ref=f8e1005] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_17_1
+                  - img "Salad Plans" [ref=f8e1007]
+                  - generic [ref=f8e1008]: 4★
+                - link "Full Basket 4★" [ref=f8e1010] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_17_2
+                  - img "Full Basket" [ref=f8e1012]
+                  - generic [ref=f8e1013]: 4★
+                - link "Giant Pumpkin 4★" [ref=f8e1015] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_17_3
+                  - img "Giant Pumpkin" [ref=f8e1017]
+                  - generic [ref=f8e1018]: 4★
+                - link "Henhouse Gold 4★" [ref=f8e1020] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_17_4
+                  - generic [ref=f8e1021]:
+                    - img "Henhouse" [ref=f8e1022]
+                    - generic [ref=f8e1023]: Gold
+                  - generic [ref=f8e1024]: 4★
+                - link "The Goods Gold 4★" [ref=f8e1026] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_17_5
+                  - generic [ref=f8e1027]:
+                    - img "The Goods" [ref=f8e1028]
+                    - generic [ref=f8e1029]: Gold
+                  - generic [ref=f8e1030]: 4★
+                - link "All Ears 5★" [ref=f8e1032] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_17_6
+                  - img "All Ears" [ref=f8e1034]
+                  - generic [ref=f8e1035]: 5★
+                - link "Preserves 5★" [ref=f8e1037] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_17_7
+                  - img "Preserves" [ref=f8e1039]
+                  - generic [ref=f8e1040]: 5★
+                - link "Picking Pickles Gold 5★" [ref=f8e1042] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_17_8
+                  - generic [ref=f8e1043]:
+                    - img "Picking Pickles" [ref=f8e1044]
+                    - generic [ref=f8e1045]: Gold
+                  - generic [ref=f8e1046]: 5★
+                - link "Feasting 6★" [ref=f8e1048] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_17_9
+                  - img "Feasting" [ref=f8e1050]
+                  - generic [ref=f8e1051]: 6★
+            - generic [ref=f8e1053]:
+              - generic [ref=f8e1054]:
+                - generic [ref=f8e1055]:
+                  - heading "Serene Scenes" [level=3] [ref=f8e1056]
+                  - paragraph [ref=f8e1057]: Set 18 · 9 stickers · 3 gold
+                - generic [ref=f8e1058]:
+                  - generic [ref=f8e1059]: Catalog
+                  - generic [ref=f8e1060]: 3 gold
+              - generic [ref=f8e1062]:
+                - link "Crisp Laundry 4★" [ref=f8e1063] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_18_1
+                  - img "Crisp Laundry" [ref=f8e1065]
+                  - generic [ref=f8e1066]: 4★
+                - link "Out of Office 4★" [ref=f8e1068] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_18_2
+                  - img "Out of Office" [ref=f8e1070]
+                  - generic [ref=f8e1071]: 4★
+                - link "Daydreamer Gold 4★" [ref=f8e1073] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_18_3
+                  - generic [ref=f8e1074]:
+                    - img "Daydreamer" [ref=f8e1075]
+                    - generic [ref=f8e1076]: Gold
+                  - generic [ref=f8e1077]: 4★
+                - link "Mud Bath Gold 4★" [ref=f8e1079] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_18_4
+                  - generic [ref=f8e1080]:
+                    - img "Mud Bath" [ref=f8e1081]
+                    - generic [ref=f8e1082]: Gold
+                  - generic [ref=f8e1083]: 4★
+                - link "Perfectly Pastoral 5★" [ref=f8e1085] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_18_5
+                  - img "Perfectly Pastoral" [ref=f8e1087]
+                  - generic [ref=f8e1088]: 5★
+                - link "Sweetness 5★" [ref=f8e1090] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_18_6
+                  - img "Sweetness" [ref=f8e1092]
+                  - generic [ref=f8e1093]: 5★
+                - link "Porch Life 5★" [ref=f8e1095] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_18_7
+                  - img "Porch Life" [ref=f8e1097]
+                  - generic [ref=f8e1098]: 5★
+                - link "Lemon Squeezy Gold 5★" [ref=f8e1100] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_18_8
+                  - generic [ref=f8e1101]:
+                    - img "Lemon Squeezy" [ref=f8e1102]
+                    - generic [ref=f8e1103]: Gold
+                  - generic [ref=f8e1104]: 5★
+                - link "Moonlight 6★" [ref=f8e1106] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_18_9
+                  - img "Moonlight" [ref=f8e1108]
+                  - generic [ref=f8e1109]: 6★
+            - generic [ref=f8e1111]:
+              - generic [ref=f8e1112]:
+                - generic [ref=f8e1113]:
+                  - heading "Crop Circle Chronicles" [level=3] [ref=f8e1114]
+                  - paragraph [ref=f8e1115]: Set 19 · 9 stickers · 4 gold
+                - generic [ref=f8e1116]:
+                  - generic [ref=f8e1117]: Catalog
+                  - generic [ref=f8e1118]: 4 gold
+              - generic [ref=f8e1120]:
+                - link "Ben's Prank 4★" [ref=f8e1121] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_19_1
+                  - img "Ben's Prank" [ref=f8e1123]
+                  - generic [ref=f8e1124]: 4★
+                - link "Work of Art 4★" [ref=f8e1126] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_19_2
+                  - img "Work of Art" [ref=f8e1128]
+                  - generic [ref=f8e1129]: 4★
+                - link "Aliens! Gold 4★" [ref=f8e1131] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_19_3
+                  - generic [ref=f8e1132]:
+                    - img "Aliens!" [ref=f8e1133]
+                    - generic [ref=f8e1134]: Gold
+                  - generic [ref=f8e1135]: 4★
+                - link "Proof Gold 4★" [ref=f8e1137] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_19_4
+                  - generic [ref=f8e1138]:
+                    - img "Proof" [ref=f8e1139]
+                    - generic [ref=f8e1140]: Gold
+                  - generic [ref=f8e1141]: 4★
+                - link "Conspiracy 5★" [ref=f8e1143] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_19_5
+                  - img "Conspiracy" [ref=f8e1145]
+                  - generic [ref=f8e1146]: 5★
+                - link "Paranoia 5★" [ref=f8e1148] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_19_6
+                  - img "Paranoia" [ref=f8e1150]
+                  - generic [ref=f8e1151]: 5★
+                - link "Tinfoil Hats Gold 5★" [ref=f8e1153] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_19_7
+                  - generic [ref=f8e1154]:
+                    - img "Tinfoil Hats" [ref=f8e1155]
+                    - generic [ref=f8e1156]: Gold
+                  - generic [ref=f8e1157]: 5★
+                - link "Extraterrestrial Gold 5★" [ref=f8e1159] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_19_8
+                  - generic [ref=f8e1160]:
+                    - img "Extraterrestrial" [ref=f8e1161]
+                    - generic [ref=f8e1162]: Gold
+                  - generic [ref=f8e1163]: 5★
+                - link "Gotcha 6★" [ref=f8e1165] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_19_9
+                  - img "Gotcha" [ref=f8e1167]
+                  - generic [ref=f8e1168]: 6★
+            - generic [ref=f8e1170]:
+              - generic [ref=f8e1171]:
+                - generic [ref=f8e1172]:
+                  - heading "County Fair" [level=3] [ref=f8e1173]
+                  - paragraph [ref=f8e1174]: Set 20 · 9 stickers · 5 gold
+                - generic [ref=f8e1175]:
+                  - generic [ref=f8e1176]: Catalog
+                  - generic [ref=f8e1177]: 5 gold
+              - generic [ref=f8e1179]:
+                - link "Can't Wait Gold 4★" [ref=f8e1180] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_20_1
+                  - generic [ref=f8e1181]:
+                    - img "Can't Wait" [ref=f8e1182]
+                    - generic [ref=f8e1183]: Gold
+                  - generic [ref=f8e1184]: 4★
+                - link "Classics Gold 4★" [ref=f8e1186] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_20_2
+                  - generic [ref=f8e1187]:
+                    - img "Classics" [ref=f8e1188]
+                    - generic [ref=f8e1189]: Gold
+                  - generic [ref=f8e1190]: 4★
+                - link "Fluff Eat Fluff 5★" [ref=f8e1192] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_20_3
+                  - img "Fluff Eat Fluff" [ref=f8e1194]
+                  - generic [ref=f8e1195]: 5★
+                - link "Judging 5★" [ref=f8e1197] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_20_4
+                  - img "Judging" [ref=f8e1199]
+                  - generic [ref=f8e1200]: 5★
+                - link "Blue Ribbon 5★" [ref=f8e1202] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_20_5
+                  - img "Blue Ribbon" [ref=f8e1204]
+                  - generic [ref=f8e1205]: 5★
+                - link "Gourd-geous Gold 5★" [ref=f8e1207] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_20_6
+                  - generic [ref=f8e1208]:
+                    - img "Gourd-geous" [ref=f8e1209]
+                    - generic [ref=f8e1210]: Gold
+                  - generic [ref=f8e1211]: 5★
+                - link "Toppled Gold 5★" [ref=f8e1213] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_20_7
+                  - generic [ref=f8e1214]:
+                    - img "Toppled" [ref=f8e1215]
+                    - generic [ref=f8e1216]: Gold
+                  - generic [ref=f8e1217]: 5★
+                - link "With the Band Gold 5★" [ref=f8e1219] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_20_8
+                  - generic [ref=f8e1220]:
+                    - img "With the Band" [ref=f8e1221]
+                    - generic [ref=f8e1222]: Gold
+                  - generic [ref=f8e1223]: 5★
+                - link "Fireworks 6★" [ref=f8e1225] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_20_9
+                  - img "Fireworks" [ref=f8e1227]
+                  - generic [ref=f8e1228]: 6★
+            - generic [ref=f8e1230]:
+              - generic [ref=f8e1231]:
+                - generic [ref=f8e1232]:
+                  - heading "Looney Legends" [level=3] [ref=f8e1233]
+                  - paragraph [ref=f8e1234]: Set 21 · 9 stickers · 6 gold
+                - generic [ref=f8e1235]:
+                  - generic [ref=f8e1236]: Catalog
+                  - generic [ref=f8e1237]: 6 gold
+              - generic [ref=f8e1239]:
+                - link "Wile E. Coyote Gold 4★" [ref=f8e1240] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_21_1
+                  - generic [ref=f8e1241]:
+                    - img "Wile E. Coyote" [ref=f8e1242]
+                    - generic [ref=f8e1243]: Gold
+                  - generic [ref=f8e1244]: 4★
+                - link "Scaredy Cat Gold 4★" [ref=f8e1246] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_21_2
+                  - generic [ref=f8e1247]:
+                    - img "Scaredy Cat" [ref=f8e1248]
+                    - generic [ref=f8e1249]: Gold
+                  - generic [ref=f8e1250]: 4★
+                - link "Road Runner 5★" [ref=f8e1252] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_21_3
+                  - img "Road Runner" [ref=f8e1254]
+                  - generic [ref=f8e1255]: 5★
+                - link "Tweety Bird 5★" [ref=f8e1257] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_21_4
+                  - img "Tweety Bird" [ref=f8e1259]
+                  - generic [ref=f8e1260]: 5★
+                - link "Sylvester Gold 5★" [ref=f8e1262] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_21_5
+                  - generic [ref=f8e1263]:
+                    - img "Sylvester" [ref=f8e1264]
+                    - generic [ref=f8e1265]: Gold
+                  - generic [ref=f8e1266]: 5★
+                - link "Hector Gold 5★" [ref=f8e1268] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_21_6
+                  - generic [ref=f8e1269]:
+                    - img "Hector" [ref=f8e1270]
+                    - generic [ref=f8e1271]: Gold
+                  - generic [ref=f8e1272]: 5★
+                - link "Suspicious Gift Gold 5★" [ref=f8e1274] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_21_7
+                  - generic [ref=f8e1275]:
+                    - img "Suspicious Gift" [ref=f8e1276]
+                    - generic [ref=f8e1277]: Gold
+                  - generic [ref=f8e1278]: 5★
+                - link "Elmer Fudd Gold 5★" [ref=f8e1280] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_21_8
+                  - generic [ref=f8e1281]:
+                    - img "Elmer Fudd" [ref=f8e1282]
+                    - generic [ref=f8e1283]: Gold
+                  - generic [ref=f8e1284]: 5★
+                - link "Bugs Bunny 6★" [ref=f8e1286] [cursor=pointer]:
+                  - /url: /mogo-tools/sticker-finder/stickers/FarmingAlbum_21_9
+                  - img "Bugs Bunny" [ref=f8e1288]
+                  - generic [ref=f8e1289]: 6★
+        - complementary "Advertisement" [ref=f8e1291]
+    - complementary "Advertisement" [ref=f8e1293]
+  - contentinfo [ref=f8e1294]:
+    - generic [ref=f8e1295]:
+      - generic [ref=f8e1296]:
+        - paragraph [ref=f8e1297]: Monopoly GO! Wiki
+        - paragraph [ref=f8e1298]: Welcome to MOGO Wiki!
+        - paragraph [ref=f8e1299]: MONOPOLY © Hasbro. MOGO Wiki is not affiliated with Scopely or Hasbro.
+      - generic [ref=f8e1300]:
+        - navigation "News" [ref=f8e1301]:
+          - heading "News" [level=2] [ref=f8e1302]
+          - list [ref=f8e1303]:
+            - listitem [ref=f8e1304]:
+              - link "Latest" [ref=f8e1305] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=f8e1306]:
+              - link "Events" [ref=f8e1307] [cursor=pointer]:
+                - /url: /tag/events
+            - listitem [ref=f8e1308]:
+              - link "Golden Blitz" [ref=f8e1309] [cursor=pointer]:
+                - /url: /tag/golden-blitz
+            - listitem [ref=f8e1310]:
+              - link "Partner Events" [ref=f8e1311] [cursor=pointer]:
+                - /url: /tag/partner-events
+        - navigation "Tools" [ref=f8e1312]:
+          - heading "Tools" [level=2] [ref=f8e1313]
+          - list [ref=f8e1314]:
+            - listitem [ref=f8e1315]:
+              - link "All Tools" [ref=f8e1316] [cursor=pointer]:
+                - /url: /mogo-tools
+            - listitem [ref=f8e1317]:
+              - link "Wiki" [ref=f8e1318] [cursor=pointer]:
+                - /url: /wiki
+            - listitem [ref=f8e1319]:
+              - link "Store" [ref=f8e1320] [cursor=pointer]:
+                - /url: /store
+            - listitem [ref=f8e1321]:
+              - link "Email Newsletters" [ref=f8e1322] [cursor=pointer]:
+                - /url: /newsletter
+            - listitem [ref=f8e1323]:
+              - link "Reward Links" [ref=f8e1324] [cursor=pointer]:
+                - /url: /mogo-tools/reward-links
+            - listitem [ref=f8e1325]:
+              - link "Sticker Finder" [ref=f8e1326] [cursor=pointer]:
+                - /url: /mogo-tools/sticker-finder
+            - listitem [ref=f8e1327]:
+              - link "Shield Finder" [ref=f8e1328] [cursor=pointer]:
+                - /url: /mogo-tools/shield-finder
+        - navigation "Account & help" [ref=f8e1329]:
+          - heading "Account & help" [level=2] [ref=f8e1330]
+          - list [ref=f8e1331]:
+            - listitem [ref=f8e1332]:
+              - link "Log in" [ref=f8e1333] [cursor=pointer]:
+                - /url: /mogo-tools/login
+            - listitem [ref=f8e1334]:
+              - link "Settings" [ref=f8e1335] [cursor=pointer]:
+                - /url: /mogo-tools/settings
+            - listitem [ref=f8e1336]:
+              - link "Support" [ref=f8e1337] [cursor=pointer]:
+                - /url: /support
+            - listitem [ref=f8e1338]:
+              - link "Mobile app" [ref=f8e1339] [cursor=pointer]:
+                - /url: /mogo-tools/mobile-app
+        - navigation "Privacy" [ref=f8e1340]:
+          - heading "Privacy" [level=2] [ref=f8e1341]
+          - list [ref=f8e1342]:
+            - listitem [ref=f8e1343]:
+              - link "Privacy policy" [ref=f8e1344] [cursor=pointer]:
+                - /url: /privacy
+            - listitem [ref=f8e1345]:
+              - button "Privacy choices" [ref=f8e1346] [cursor=pointer]
+  - alert [ref=f8e1347]
