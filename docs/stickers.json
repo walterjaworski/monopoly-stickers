@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-19T11:47:17.386Z",
+  "atualizadoEm": "2026-08-20T11:38:15.041Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -24,25 +24,25 @@
         {
           "nome": "Taz",
           "nomeEn": "Taz",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Lola",
           "nomeEn": "Lola",
-          "tenho": 6,
+          "tenho": 8,
           "raridade": 1
         },
         {
           "nome": "Gaguinho",
           "nomeEn": "Gaguinho",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Frangolino",
           "nomeEn": "Frangolino",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -54,7 +54,7 @@
         {
           "nome": "Nada de toelhos",
           "nomeEn": "Nada de toelhos",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -85,7 +85,7 @@
         {
           "nome": "Luz solar",
           "nomeEn": "Luz solar",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 1
         },
         {
@@ -146,7 +146,7 @@
         {
           "nome": "Enquanto isso...",
           "nomeEn": "Enquanto isso...",
-          "tenho": 8,
+          "tenho": 9,
           "raridade": 1
         },
         {
@@ -158,7 +158,7 @@
         {
           "nome": "Belisco",
           "nomeEn": "Belisco",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -213,13 +213,13 @@
         {
           "nome": "Corrida suína",
           "nomeEn": "Corrida suína",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Porcos premiados",
           "nomeEn": "Porcos premiados",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -292,7 +292,7 @@
         {
           "nome": "O profissa",
           "nomeEn": "O profissa",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 2
         },
         {
@@ -317,7 +317,7 @@
         {
           "nome": "Galinhas sonolentas",
           "nomeEn": "Galinhas sonolentas",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -359,7 +359,7 @@
         {
           "nome": "Nascida para tosquiar",
           "nomeEn": "Nascida para tosquiar",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -451,13 +451,13 @@
         {
           "nome": "Histórias para contar",
           "nomeEn": "Histórias para contar",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Negócio fechado!",
           "nomeEn": "Negócio fechado!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -481,7 +481,7 @@
         {
           "nome": "Estalagem espacial",
           "nomeEn": "Estalagem espacial",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -506,7 +506,7 @@
         {
           "nome": "Maravilhovo",
           "nomeEn": "Maravilhovo",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 2
         },
         {
@@ -542,7 +542,7 @@
         {
           "nome": "Hora do almoço",
           "nomeEn": "Hora do almoço",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -622,25 +622,25 @@
         {
           "nome": "Enfarinhar",
           "nomeEn": "Enfarinhar",
-          "tenho": 6,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Ovos",
           "nomeEn": "Ovos",
-          "tenho": 10,
+          "tenho": 7,
           "raridade": 2
         },
         {
           "nome": "Laticínio",
           "nomeEn": "Laticínio",
-          "tenho": 5,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Queijo",
           "nomeEn": "Queijo",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -652,7 +652,7 @@
         {
           "nome": "Frutas",
           "nomeEn": "Frutas",
-          "tenho": 9,
+          "tenho": 10,
           "raridade": 3
         },
         {
@@ -664,7 +664,7 @@
         {
           "nome": "Mel",
           "nomeEn": "Mel",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -933,7 +933,7 @@
         {
           "nome": "Estilo rústico",
           "nomeEn": "Estilo rústico",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -988,7 +988,7 @@
         {
           "nome": "A horta é agora",
           "nomeEn": "A horta é agora",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -1140,7 +1140,7 @@
         {
           "nome": "Paranoia",
           "nomeEn": "Paranoia",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
@@ -1158,7 +1158,7 @@
         {
           "nome": "Te peguei!",
           "nomeEn": "Te peguei!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 11
         }
       ]
@@ -1256,7 +1256,7 @@
         {
           "nome": "Frajola",
           "nomeEn": "Frajola",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
