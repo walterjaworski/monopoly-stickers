@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-23T12:19:28.219Z",
+  "atualizadoEm": "2026-08-24T11:41:21.530Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -36,7 +36,7 @@
         {
           "nome": "Gaguinho",
           "nomeEn": "Porky Pig",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -48,19 +48,19 @@
         {
           "nome": "Ligeirinho",
           "nomeEn": "Speedy Gonzales",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Nada de toelhos",
           "nomeEn": "No Wabbits",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
           "nome": "Patolino",
           "nomeEn": "Daffy Duck",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         }
       ]
@@ -121,7 +121,7 @@
         {
           "nome": "Fazendeiro feliz",
           "nomeEn": "Happy Farmer",
-          "tenho": 5,
+          "tenho": 7,
           "raridade": 1
         }
       ]
@@ -134,7 +134,7 @@
         {
           "nome": "O culpado",
           "nomeEn": "The Culprit",
-          "tenho": 9,
+          "tenho": 10,
           "raridade": 1
         },
         {
@@ -158,13 +158,13 @@
         {
           "nome": "Belisco",
           "nomeEn": "Nibbles",
-          "tenho": 6,
+          "tenho": 9,
           "raridade": 1
         },
         {
           "nome": "Tesouro enterrado",
           "nomeEn": "Buried Treasure",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -176,7 +176,7 @@
         {
           "nome": "A raiz do problema",
           "nomeEn": "Root Problem",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -213,7 +213,7 @@
         {
           "nome": "Corrida suína",
           "nomeEn": "Pig Run",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -243,7 +243,7 @@
         {
           "nome": "Hora do piquenique",
           "nomeEn": "Picnic Time",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 2
         }
       ]
@@ -268,7 +268,7 @@
         {
           "nome": "Duque delicado",
           "nomeEn": "Delicate Duke",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -280,7 +280,7 @@
         {
           "nome": "Srta. Priss",
           "nomeEn": "Miss Priss",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -335,7 +335,7 @@
         {
           "nome": "Dando uma palhinha",
           "nomeEn": "Oh Hay There!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -353,13 +353,13 @@
         {
           "nome": "Faça chuva ou faça sol",
           "nomeEn": "Rain or Shine",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Nascida para tosquiar",
           "nomeEn": "Shear Genius",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -384,13 +384,13 @@
         {
           "nome": "Gotas de orvalho",
           "nomeEn": "Dewdrops",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Zangão",
           "nomeEn": "Bumblebee",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -408,7 +408,7 @@
         {
           "nome": "Santa margarida!",
           "nomeEn": "Oopsie Daisy",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -439,7 +439,7 @@
         {
           "nome": "Pé na estrada!",
           "nomeEn": "Road Trip",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -640,7 +640,7 @@
         {
           "nome": "Queijo",
           "nomeEn": "Cheese",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -786,7 +786,7 @@
         {
           "nome": "Muito amor envolvido",
           "nomeEn": "TLC",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -853,7 +853,7 @@
         {
           "nome": "Dia do desfile",
           "nomeEn": "Parade Day",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         }
       ]
@@ -1195,7 +1195,7 @@
         {
           "nome": "Fita azul",
           "nomeEn": "Blue Ribbon",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
