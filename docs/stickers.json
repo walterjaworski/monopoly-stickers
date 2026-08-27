@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-08-26T11:34:37.943Z",
+  "atualizadoEm": "2026-08-27T11:43:44.774Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -109,7 +109,7 @@
         {
           "nome": "A caminho",
           "nomeEn": "Gone Sheepin'",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 1
         },
         {
@@ -121,7 +121,7 @@
         {
           "nome": "Fazendeiro feliz",
           "nomeEn": "Happy Farmer",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 1
         }
       ]
@@ -134,7 +134,7 @@
         {
           "nome": "O culpado",
           "nomeEn": "The Culprit",
-          "tenho": 10,
+          "tenho": 11,
           "raridade": 1
         },
         {
@@ -146,7 +146,7 @@
         {
           "nome": "Enquanto isso...",
           "nomeEn": "Meanwhile...",
-          "tenho": 10,
+          "tenho": 11,
           "raridade": 1
         },
         {
@@ -164,19 +164,19 @@
         {
           "nome": "Tesouro enterrado",
           "nomeEn": "Buried Treasure",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Toca do coelho",
           "nomeEn": "Rabbit Hole",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "A raiz do problema",
           "nomeEn": "Root Problem",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -280,7 +280,7 @@
         {
           "nome": "Srta. Priss",
           "nomeEn": "Miss Priss",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -359,7 +359,7 @@
         {
           "nome": "Nascida para tosquiar",
           "nomeEn": "Shear Genius",
-          "tenho": 7,
+          "tenho": 9,
           "raridade": 2
         },
         {
@@ -402,7 +402,7 @@
         {
           "nome": "Aonde você flor",
           "nomeEn": "Best Buds",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -420,7 +420,7 @@
         {
           "nome": "Escolhas fresquinhas",
           "nomeEn": "Fresh Picks",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -463,7 +463,7 @@
         {
           "nome": "Armadilha pra turista",
           "nomeEn": "Tourist Trap",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -542,7 +542,7 @@
         {
           "nome": "Hora do almoço",
           "nomeEn": "Lunchtime",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -591,7 +591,7 @@
         {
           "nome": "Malcheiroso",
           "nomeEn": "Funky",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 3
         },
         {
@@ -622,43 +622,43 @@
         {
           "nome": "Enfarinhar",
           "nomeEn": "Flour",
-          "tenho": 7,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Ovos",
           "nomeEn": "Eggs",
-          "tenho": 8,
+          "tenho": 6,
           "raridade": 2
         },
         {
           "nome": "Laticínio",
           "nomeEn": "Dairy",
-          "tenho": 8,
+          "tenho": 9,
           "raridade": 2
         },
         {
           "nome": "Queijo",
           "nomeEn": "Cheese",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Vegetais",
           "nomeEn": "Veggies",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Frutas",
           "nomeEn": "Fruits",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 3
         },
         {
           "nome": "Nozes",
           "nomeEn": "Nuts",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 4
         },
         {
@@ -670,7 +670,7 @@
         {
           "nome": "Tempero especial",
           "nomeEn": "Special Spice",
-          "tenho": 4,
+          "tenho": 2,
           "raridade": 4
         }
       ]
@@ -768,7 +768,7 @@
         {
           "nome": "Voa daqui!",
           "nomeEn": "Buzz Off!",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 3
         },
         {
@@ -872,7 +872,7 @@
         {
           "nome": "Chafurdeiros",
           "nomeEn": "Wallowing",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -1012,7 +1012,7 @@
         {
           "nome": "As mercadorias",
           "nomeEn": "The Goods",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
@@ -1158,7 +1158,7 @@
         {
           "nome": "Te peguei!",
           "nomeEn": "Gotcha",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 11
         }
       ]
