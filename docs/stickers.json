@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-11T11:55:54.516Z",
+  "atualizadoEm": "2026-09-11T19:49:48.295Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -12,19 +12,19 @@
         {
           "nome": "E aí, pessoal!",
           "nomeEn": "Welcome, Folks!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Marvin",
           "nomeEn": "Marvin",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Taz",
           "nomeEn": "Taz",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -36,7 +36,7 @@
         {
           "nome": "Gaguinho",
           "nomeEn": "Porky Pig",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -121,7 +121,7 @@
         {
           "nome": "Fazendeiro feliz",
           "nomeEn": "Happy Farmer",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         }
       ]
@@ -134,7 +134,7 @@
         {
           "nome": "O culpado",
           "nomeEn": "The Culprit",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -158,13 +158,13 @@
         {
           "nome": "Belisco",
           "nomeEn": "Nibbles",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
           "nome": "Tesouro enterrado",
           "nomeEn": "Buried Treasure",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -207,7 +207,7 @@
         {
           "nome": "O labirinto do feno",
           "nomeEn": "Hay Maze",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -219,7 +219,7 @@
         {
           "nome": "Porcos premiados",
           "nomeEn": "Prize Pigs",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -231,13 +231,13 @@
         {
           "nome": "Concurso de comer",
           "nomeEn": "Eating Contest",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
           "nome": "Canções do campo",
           "nomeEn": "Bluegrass Tunes",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "Cães pastores",
           "nomeEn": "Sheepdogs",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -353,7 +353,7 @@
         {
           "nome": "Faça chuva ou faça sol",
           "nomeEn": "Rain or Shine",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -390,7 +390,7 @@
         {
           "nome": "Zangão",
           "nomeEn": "Bumblebee",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -439,7 +439,7 @@
         {
           "nome": "Pé na estrada!",
           "nomeEn": "Road Trip",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -634,7 +634,7 @@
         {
           "nome": "Laticínio",
           "nomeEn": "Dairy",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -646,13 +646,13 @@
         {
           "nome": "Vegetais",
           "nomeEn": "Veggies",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
           "nome": "Frutas",
           "nomeEn": "Fruits",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -683,7 +683,7 @@
         {
           "nome": "Em nome da ciência!",
           "nomeEn": "For Science!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -750,7 +750,7 @@
         {
           "nome": "A colmeia",
           "nomeEn": "The Hive",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -884,7 +884,7 @@
         {
           "nome": "Seriedade zero",
           "nomeEn": "Very Serious",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -963,7 +963,7 @@
         {
           "nome": "Pastoril e pitoresco",
           "nomeEn": "Pretty Pastoral",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
@@ -1055,7 +1055,7 @@
         {
           "nome": "Fora do expediente",
           "nomeEn": "Out of Office",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -1073,7 +1073,7 @@
         {
           "nome": "Belamente bucólico",
           "nomeEn": "Perfectly Pastoral",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
