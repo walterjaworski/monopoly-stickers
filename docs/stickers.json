@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-11T19:49:48.295Z",
+  "atualizadoEm": "2026-09-14T11:41:39.909Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -12,7 +12,7 @@
         {
           "nome": "E aí, pessoal!",
           "nomeEn": "Welcome, Folks!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -24,7 +24,7 @@
         {
           "nome": "Taz",
           "nomeEn": "Taz",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -42,13 +42,13 @@
         {
           "nome": "Frangolino",
           "nomeEn": "Foghorn Leghorn",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Ligeirinho",
           "nomeEn": "Speedy Gonzales",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -60,7 +60,7 @@
         {
           "nome": "Patolino",
           "nomeEn": "Daffy Duck",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         }
       ]
@@ -73,7 +73,7 @@
         {
           "nome": "Celeiro ao amanhecer",
           "nomeEn": "Daybreak Barn",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -85,7 +85,7 @@
         {
           "nome": "Luz solar",
           "nomeEn": "Sunlight",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -103,13 +103,13 @@
         {
           "nome": "Afazeres na fazenda",
           "nomeEn": "Waddling to Do",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "A caminho",
           "nomeEn": "Gone Sheepin'",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -134,7 +134,7 @@
         {
           "nome": "O culpado",
           "nomeEn": "The Culprit",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -158,19 +158,19 @@
         {
           "nome": "Belisco",
           "nomeEn": "Nibbles",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 1
         },
         {
           "nome": "Tesouro enterrado",
           "nomeEn": "Buried Treasure",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Toca do coelho",
           "nomeEn": "Rabbit Hole",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -341,7 +341,7 @@
         {
           "nome": "Corvo rasante",
           "nomeEn": "Low Crow",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -396,7 +396,7 @@
         {
           "nome": "Buquês em abundância",
           "nomeEn": "Posies Aplenty",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -414,7 +414,7 @@
         {
           "nome": "Arranjo artístico",
           "nomeEn": "Artful Bouquets",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -506,7 +506,7 @@
         {
           "nome": "Maravilhovo",
           "nomeEn": "Eggcellent",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -622,7 +622,7 @@
         {
           "nome": "Enfarinhar",
           "nomeEn": "Flour",
-          "tenho": 4,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -683,7 +683,7 @@
         {
           "nome": "Em nome da ciência!",
           "nomeEn": "For Science!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -805,7 +805,7 @@
         {
           "nome": "Arcada",
           "nomeEn": "Archway",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -884,7 +884,7 @@
         {
           "nome": "Seriedade zero",
           "nomeEn": "Very Serious",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 4
         },
         {
@@ -1079,7 +1079,7 @@
         {
           "nome": "Doçura",
           "nomeEn": "Sweetness",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
@@ -1250,7 +1250,7 @@
         {
           "nome": "Piu-Piu",
           "nomeEn": "Tweety Bird",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
@@ -1274,7 +1274,7 @@
         {
           "nome": "Hortelino Troca-Letras",
           "nomeEn": "Elmer Fudd",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
