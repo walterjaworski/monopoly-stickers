@@ -1,7 +1,7 @@
 {
   "album": "Álbum da fazenda",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-14T11:41:39.909Z",
+  "atualizadoEm": "2026-09-15T11:46:12.743Z",
   "totalStickers": 189,
   "sets": [
     {
@@ -79,7 +79,7 @@
         {
           "nome": "Cocoricó!",
           "nomeEn": "Doodle Doo!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -97,7 +97,7 @@
         {
           "nome": "Arregaçando as mangas",
           "nomeEn": "Getting to Work",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -109,13 +109,13 @@
         {
           "nome": "A caminho",
           "nomeEn": "Gone Sheepin'",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Arado",
           "nomeEn": "Tilling",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -292,13 +292,13 @@
         {
           "nome": "O profissa",
           "nomeEn": "The Pro",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Aprendiz veloz",
           "nomeEn": "Quick Study",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -567,7 +567,7 @@
         {
           "nome": "Ordenha",
           "nomeEn": "Milking",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 3
         },
         {
@@ -1097,7 +1097,7 @@
         {
           "nome": "Luar",
           "nomeEn": "Moonlight",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 11
         }
       ]
