@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-24T11:48:21.310Z",
+  "atualizadoEm": "2026-09-25T11:46:18.821Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -36,7 +36,7 @@
         {
           "nome": "Cabeça no bosque",
           "nomeEn": "Neck of the Woods",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -121,7 +121,7 @@
         {
           "nome": "Lugares desconhecidos",
           "nomeEn": "Places Unknown",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         }
       ]
@@ -146,7 +146,7 @@
         {
           "nome": "Aniversário secular",
           "nomeEn": "Long in the Tooth",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -207,13 +207,13 @@
         {
           "nome": "Projeto animal!",
           "nomeEn": "Pet Project",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Inveja demoníaca",
           "nomeEn": "Jealousy & Pride",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -335,7 +335,7 @@
         {
           "nome": "Eu te imploro",
           "nomeEn": "I Beg You",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -353,7 +353,7 @@
         {
           "nome": "Caninos exemplares",
           "nomeEn": "Fine Canines",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -390,7 +390,7 @@
         {
           "nome": "Feito de palhaço",
           "nomeEn": "Clowned",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -414,13 +414,13 @@
         {
           "nome": "Cadeira levitante",
           "nomeEn": "Chair Raising",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Mistério solucionado",
           "nomeEn": "Mystery Solved",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -439,7 +439,7 @@
         {
           "nome": "Entrada da Dama",
           "nomeEn": "Enter Undead Diva",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -475,7 +475,7 @@
         {
           "nome": "À primeira vista",
           "nomeEn": "At First Sight",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -500,7 +500,7 @@
         {
           "nome": "A brincadeira começou",
           "nomeEn": "Game On!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -573,7 +573,7 @@
         {
           "nome": "Pragas!",
           "nomeEn": "Curses!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -664,7 +664,7 @@
         {
           "nome": "Swampie",
           "nomeEn": "Swampie",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -683,7 +683,7 @@
         {
           "nome": "Bosque da bruxa",
           "nomeEn": "Witchy Wood",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -725,7 +725,7 @@
         {
           "nome": "A cabana na floresta",
           "nomeEn": "Cabin in the Woods",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -744,7 +744,7 @@
         {
           "nome": "Entrada do Shambles",
           "nomeEn": "Enter Shambles",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -768,7 +768,7 @@
         {
           "nome": "Uma mente encantadora",
           "nomeEn": "A Beautiful Mind",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -817,7 +817,7 @@
         {
           "nome": "Canto em coro",
           "nomeEn": "Sing Along",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -945,7 +945,7 @@
         {
           "nome": "Conversível do Rags",
           "nomeEn": "Rags' Roadster",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
