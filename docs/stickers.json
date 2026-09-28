@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-25T11:46:18.821Z",
+  "atualizadoEm": "2026-09-28T16:17:01.204Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -12,25 +12,25 @@
         {
           "nome": "Sussurros do bosque",
           "nomeEn": "Woodland Whispers",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Encantos de Krampus",
           "nomeEn": "Kute Krampus",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Nobresomem",
           "nomeEn": "Gentlewulf",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Retalhos",
           "nomeEn": "Patchwork",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -42,7 +42,7 @@
         {
           "nome": "Miss Milharal",
           "nomeEn": "Glam-O-Crow",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -79,13 +79,13 @@
         {
           "nome": "No portão",
           "nomeEn": "At The Gates",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Chave-mestra",
           "nomeEn": "Master Key",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -97,7 +97,7 @@
         {
           "nome": "Galeria das anomalias",
           "nomeEn": "Hall O' Frame",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -109,13 +109,13 @@
         {
           "nome": "HUNTR/X",
           "nomeEn": "HUNTR/X",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "Guia espiritual",
           "nomeEn": "Ghostly Guide",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -146,7 +146,7 @@
         {
           "nome": "Aniversário secular",
           "nomeEn": "Long in the Tooth",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -158,7 +158,7 @@
         {
           "nome": "Vlad, o Nocauteador",
           "nomeEn": "Down for the Count",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -176,7 +176,7 @@
         {
           "nome": "Príncipe da escuridão",
           "nomeEn": "Prince of Darkness",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -195,13 +195,13 @@
         {
           "nome": "O laboratório",
           "nomeEn": "The Laboratory",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Acionando o interruptor",
           "nomeEn": "Flip the Switch",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -225,19 +225,19 @@
         {
           "nome": "O condutor",
           "nomeEn": "The Conductor",
-          "tenho": 0,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Armadilha",
           "nomeEn": "Ghost Trap",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Hora do espanto",
           "nomeEn": "Gone Ghoul",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -262,13 +262,13 @@
         {
           "nome": "Broto do além",
           "nomeEn": "Ghost Plant",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Dedo verde",
           "nomeEn": "Green Thumb",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -286,7 +286,7 @@
         {
           "nome": "Papão botânico",
           "nomeEn": "Botanical Bogey",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "BUUU-quê",
           "nomeEn": "BOO-quet",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 2
         }
       ]
@@ -317,13 +317,13 @@
         {
           "nome": "Entrada do Wolfie",
           "nomeEn": "Enter Wolfie",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Pacote tamanho alcateia",
           "nomeEn": "Family Pack",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -365,7 +365,7 @@
         {
           "nome": "Banho da Luna",
           "nomeEn": "Luna's Flea Bath",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         }
       ]
@@ -378,7 +378,7 @@
         {
           "nome": "Quarto assolado",
           "nomeEn": "Blighted Bedroom",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -402,7 +402,7 @@
         {
           "nome": "Enxurrada de morcegos",
           "nomeEn": "Going Batty",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -420,7 +420,7 @@
         {
           "nome": "Mistério solucionado",
           "nomeEn": "Mystery Solved",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -512,13 +512,13 @@
         {
           "nome": "Bom garoto!",
           "nomeEn": "Nice Bob!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Preso no limbo",
           "nomeEn": "Stuck in Limbo",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -567,7 +567,7 @@
         {
           "nome": "Insetos insanos",
           "nomeEn": "Bugging Out",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -585,7 +585,7 @@
         {
           "nome": "Engessado",
           "nomeEn": "That's a Wrap!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -628,7 +628,7 @@
         {
           "nome": "Brejinho feio",
           "nomeEn": "Ugly Muckling",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -689,7 +689,7 @@
         {
           "nome": "Parque de assombração",
           "nomeEn": "Unamusement Park",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -744,7 +744,7 @@
         {
           "nome": "Entrada do Shambles",
           "nomeEn": "Enter Shambles",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -805,19 +805,19 @@
         {
           "nome": "Entrada do Godfrey",
           "nomeEn": "Enter Godfrey",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "O rei do balanço",
           "nomeEn": "King of Swing",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Canto em coro",
           "nomeEn": "Sing Along",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -878,7 +878,7 @@
         {
           "nome": "Feitiço fracassado",
           "nomeEn": "Miss Spelled",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -933,7 +933,7 @@
         {
           "nome": "Brilhando",
           "nomeEn": "Stay Golden",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -1171,7 +1171,7 @@
         {
           "nome": "Entrada do Frankie",
           "nomeEn": "Enter Frankie",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1262,7 +1262,7 @@
         {
           "nome": "Terror no terraço",
           "nomeEn": "Terrace Terror",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
