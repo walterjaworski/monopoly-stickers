@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-28T16:17:01.204Z",
+  "atualizadoEm": "2026-09-29T11:51:08.606Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -54,7 +54,7 @@
         {
           "nome": "Palhaço grita-grita",
           "nomeEn": "Screaming Clown",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -103,7 +103,7 @@
         {
           "nome": "Atendimento domiciliar",
           "nomeEn": "House Call",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -152,7 +152,7 @@
         {
           "nome": "Um dia ao sol",
           "nomeEn": "Day in the Sun",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -170,7 +170,7 @@
         {
           "nome": "Dilema das capas",
           "nomeEn": "Cloak Conundrum",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -286,7 +286,7 @@
         {
           "nome": "Papão botânico",
           "nomeEn": "Botanical Bogey",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
