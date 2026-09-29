@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-29T11:51:08.606Z",
+  "atualizadoEm": "2026-09-29T11:57:23.429Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -60,7 +60,7 @@
         {
           "nome": "Apenas um zumbi",
           "nomeEn": "Just a Zombie",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         }
       ]
@@ -231,7 +231,7 @@
         {
           "nome": "Armadilha",
           "nomeEn": "Ghost Trap",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -256,7 +256,7 @@
         {
           "nome": "Estufa espectral",
           "nomeEn": "Ghouly Greens",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -298,7 +298,7 @@
         {
           "nome": "Cochilo do cogumelo",
           "nomeEn": "Dirt Nap",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -451,7 +451,7 @@
         {
           "nome": "Lampejo de inspiração",
           "nomeEn": "Inspiration Strikes!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -689,7 +689,7 @@
         {
           "nome": "Parque de assombração",
           "nomeEn": "Unamusement Park",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -744,7 +744,7 @@
         {
           "nome": "Entrada do Shambles",
           "nomeEn": "Enter Shambles",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -811,7 +811,7 @@
         {
           "nome": "O rei do balanço",
           "nomeEn": "King of Swing",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
