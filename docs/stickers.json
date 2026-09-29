@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-29T11:57:23.429Z",
+  "atualizadoEm": "2026-09-29T19:22:08.872Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -42,7 +42,7 @@
         {
           "nome": "Miss Milharal",
           "nomeEn": "Glam-O-Crow",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -54,7 +54,7 @@
         {
           "nome": "Palhaço grita-grita",
           "nomeEn": "Screaming Clown",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -73,13 +73,13 @@
         {
           "nome": "Mansão misteriosa",
           "nomeEn": "Mystery Mansion",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
           "nome": "No portão",
           "nomeEn": "At The Gates",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -91,7 +91,7 @@
         {
           "nome": "O outro lado",
           "nomeEn": "The Other Side",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -152,7 +152,7 @@
         {
           "nome": "Um dia ao sol",
           "nomeEn": "Day in the Sun",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -170,7 +170,7 @@
         {
           "nome": "Dilema das capas",
           "nomeEn": "Cloak Conundrum",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -219,7 +219,7 @@
         {
           "nome": "Louca por ciência",
           "nomeEn": "Mad for Science",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -329,7 +329,7 @@
         {
           "nome": "Pega!",
           "nomeEn": "Fetch!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -341,7 +341,7 @@
         {
           "nome": "Campeão fera demais",
           "nomeEn": "Beast in Show",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -591,7 +591,7 @@
         {
           "nome": "Críptico",
           "nomeEn": "Cryptic",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -622,7 +622,7 @@
         {
           "nome": "Entrada do Swampie",
           "nomeEn": "Enter Swampie",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -713,7 +713,7 @@
         {
           "nome": "Mausoléu do MGO",
           "nomeEn": "MGO Mausoleum",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -1171,7 +1171,7 @@
         {
           "nome": "Entrada do Frankie",
           "nomeEn": "Enter Frankie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
