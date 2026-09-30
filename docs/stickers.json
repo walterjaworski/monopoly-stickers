@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-29T19:22:08.872Z",
+  "atualizadoEm": "2026-09-30T11:40:08.663Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -24,7 +24,7 @@
         {
           "nome": "Nobresomem",
           "nomeEn": "Gentlewulf",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -262,7 +262,7 @@
         {
           "nome": "Broto do além",
           "nomeEn": "Ghost Plant",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -384,7 +384,7 @@
         {
           "nome": "Historinha de fantasma",
           "nomeEn": "Ghost Story",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -445,7 +445,7 @@
         {
           "nome": "Colega de estudos",
           "nomeEn": "Study Buddy",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -481,7 +481,7 @@
         {
           "nome": "Faça uma pose",
           "nomeEn": "Strike a Pose",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -512,7 +512,7 @@
         {
           "nome": "Bom garoto!",
           "nomeEn": "Nice Bob!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -573,7 +573,7 @@
         {
           "nome": "Pragas!",
           "nomeEn": "Curses!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -652,7 +652,7 @@
         {
           "nome": "Atolado",
           "nomeEn": "Swamped",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -744,7 +744,7 @@
         {
           "nome": "Entrada do Shambles",
           "nomeEn": "Enter Shambles",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
