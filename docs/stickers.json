@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-30T11:40:08.663Z",
+  "atualizadoEm": "2026-09-30T14:41:24.415Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -79,7 +79,7 @@
         {
           "nome": "No portão",
           "nomeEn": "At The Gates",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -164,7 +164,7 @@
         {
           "nome": "Paixão de matar",
           "nomeEn": "Heart Stopper",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1
         },
         {
@@ -225,7 +225,7 @@
         {
           "nome": "O condutor",
           "nomeEn": "The Conductor",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -256,7 +256,7 @@
         {
           "nome": "Estufa espectral",
           "nomeEn": "Ghouly Greens",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "BUUU-quê",
           "nomeEn": "BOO-quet",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         }
       ]
