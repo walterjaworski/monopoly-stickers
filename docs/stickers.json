@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-30T14:41:24.415Z",
+  "atualizadoEm": "2026-09-30T16:45:58.475Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -237,7 +237,7 @@
         {
           "nome": "Hora do espanto",
           "nomeEn": "Gone Ghoul",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -408,7 +408,7 @@
         {
           "nome": "Segurança em 1º lugar",
           "nomeEn": "Safety First",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -817,7 +817,7 @@
         {
           "nome": "Canto em coro",
           "nomeEn": "Sing Along",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -951,7 +951,7 @@
         {
           "nome": "Pegando poeira",
           "nomeEn": "Long-Term Parking",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
