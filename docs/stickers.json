@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-01T15:08:21.374Z",
+  "atualizadoEm": "2026-10-01T17:55:28.520Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -109,7 +109,7 @@
         {
           "nome": "HUNTR/X",
           "nomeEn": "HUNTR/X",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -195,7 +195,7 @@
         {
           "nome": "O laboratório",
           "nomeEn": "The Laboratory",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -268,7 +268,7 @@
         {
           "nome": "Dedo verde",
           "nomeEn": "Green Thumb",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -347,7 +347,7 @@
         {
           "nome": "O chamado da natureza",
           "nomeEn": "Call of the Wild",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
