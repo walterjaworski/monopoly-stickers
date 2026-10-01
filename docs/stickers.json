@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-09-30T16:45:58.475Z",
+  "atualizadoEm": "2026-10-01T11:39:44.016Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -30,7 +30,7 @@
         {
           "nome": "Retalhos",
           "nomeEn": "Patchwork",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -60,7 +60,7 @@
         {
           "nome": "Apenas um zumbi",
           "nomeEn": "Just a Zombie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         }
       ]
@@ -97,7 +97,7 @@
         {
           "nome": "Galeria das anomalias",
           "nomeEn": "Hall O' Frame",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -109,7 +109,7 @@
         {
           "nome": "HUNTR/X",
           "nomeEn": "HUNTR/X",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -121,7 +121,7 @@
         {
           "nome": "Lugares desconhecidos",
           "nomeEn": "Places Unknown",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         }
       ]
@@ -146,13 +146,13 @@
         {
           "nome": "Aniversário secular",
           "nomeEn": "Long in the Tooth",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Um dia ao sol",
           "nomeEn": "Day in the Sun",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -164,7 +164,7 @@
         {
           "nome": "Paixão de matar",
           "nomeEn": "Heart Stopper",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -182,7 +182,7 @@
         {
           "nome": "Balada do Conde",
           "nomeEn": "Disco Drac",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         }
       ]
@@ -231,7 +231,7 @@
         {
           "nome": "Armadilha",
           "nomeEn": "Ghost Trap",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -286,7 +286,7 @@
         {
           "nome": "Papão botânico",
           "nomeEn": "Botanical Bogey",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "BUUU-quê",
           "nomeEn": "BOO-quet",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         }
       ]
@@ -323,7 +323,7 @@
         {
           "nome": "Pacote tamanho alcateia",
           "nomeEn": "Family Pack",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -439,7 +439,7 @@
         {
           "nome": "Entrada da Dama",
           "nomeEn": "Enter Undead Diva",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -536,7 +536,7 @@
         {
           "nome": "Mira letal",
           "nomeEn": "Deadly Aim",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -561,7 +561,7 @@
         {
           "nome": "Entrada do Rags",
           "nomeEn": "Enter Rags",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -573,13 +573,13 @@
         {
           "nome": "Pragas!",
           "nomeEn": "Curses!",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 3
         },
         {
           "nome": "Esquema de pirâmide",
           "nomeEn": "Pyramid Scheme",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -622,7 +622,7 @@
         {
           "nome": "Entrada do Swampie",
           "nomeEn": "Enter Swampie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -652,7 +652,7 @@
         {
           "nome": "Atolado",
           "nomeEn": "Swamped",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -695,7 +695,7 @@
         {
           "nome": "Alagado",
           "nomeEn": "Soggy Bayou",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -756,7 +756,7 @@
         {
           "nome": "Podridão cerebral",
           "nomeEn": "Brain Rot",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -878,7 +878,7 @@
         {
           "nome": "Feitiço fracassado",
           "nomeEn": "Miss Spelled",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -1158,7 +1158,7 @@
         {
           "nome": "Cemitério dos doces",
           "nomeEn": "All Haul-O's Eve",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 11
         }
       ]
@@ -1171,7 +1171,7 @@
         {
           "nome": "Entrada do Frankie",
           "nomeEn": "Enter Frankie",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 4
         },
         {
@@ -1201,7 +1201,7 @@
         {
           "nome": "Como uma luva",
           "nomeEn": "Like a Glove",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
