@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-01T14:27:07.621Z",
+  "atualizadoEm": "2026-10-01T15:08:21.374Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -274,7 +274,7 @@
         {
           "nome": "Videira sinistra",
           "nomeEn": "Creeper Vine",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -439,7 +439,7 @@
         {
           "nome": "Entrada da Dama",
           "nomeEn": "Enter Undead Diva",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -481,7 +481,7 @@
         {
           "nome": "Faça uma pose",
           "nomeEn": "Strike a Pose",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -646,7 +646,7 @@
         {
           "nome": "Subalterno maioral",
           "nomeEn": "Top Underling",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
