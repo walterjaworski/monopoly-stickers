@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-05T14:45:43.626Z",
+  "atualizadoEm": "2026-10-05T14:52:09.768Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -530,7 +530,7 @@
         {
           "nome": "Disputa dos doces",
           "nomeEn": "Sugar Rush",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
