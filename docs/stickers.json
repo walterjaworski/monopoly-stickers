@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-01T19:33:51.909Z",
+  "atualizadoEm": "2026-10-05T13:43:01.975Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -18,19 +18,19 @@
         {
           "nome": "Encantos de Krampus",
           "nomeEn": "Kute Krampus",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Nobresomem",
           "nomeEn": "Gentlewulf",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Retalhos",
           "nomeEn": "Patchwork",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -48,7 +48,7 @@
         {
           "nome": "Diva arlequina",
           "nomeEn": "Harlequin Queen",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -60,7 +60,7 @@
         {
           "nome": "Apenas um zumbi",
           "nomeEn": "Just a Zombie",
-          "tenho": 2,
+          "tenho": 6,
           "raridade": 1
         }
       ]
@@ -73,13 +73,13 @@
         {
           "nome": "Mansão misteriosa",
           "nomeEn": "Mystery Mansion",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "No portão",
           "nomeEn": "At The Gates",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -97,25 +97,25 @@
         {
           "nome": "Galeria das anomalias",
           "nomeEn": "Hall O' Frame",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Atendimento domiciliar",
           "nomeEn": "House Call",
-          "tenho": 1,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "HUNTR/X",
           "nomeEn": "HUNTR/X",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Guia espiritual",
           "nomeEn": "Ghostly Guide",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -134,7 +134,7 @@
         {
           "nome": "Entrada do Drácula",
           "nomeEn": "Enter Dracula",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -158,7 +158,7 @@
         {
           "nome": "Vlad, o Nocauteador",
           "nomeEn": "Down for the Count",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -170,13 +170,13 @@
         {
           "nome": "Dilema das capas",
           "nomeEn": "Cloak Conundrum",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Príncipe da escuridão",
           "nomeEn": "Prince of Darkness",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -195,7 +195,7 @@
         {
           "nome": "O laboratório",
           "nomeEn": "The Laboratory",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -213,7 +213,7 @@
         {
           "nome": "Inveja demoníaca",
           "nomeEn": "Jealousy & Pride",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -225,25 +225,25 @@
         {
           "nome": "O condutor",
           "nomeEn": "The Conductor",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Armadilha",
           "nomeEn": "Ghost Trap",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Hora do espanto",
           "nomeEn": "Gone Ghoul",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Banho de geleia",
           "nomeEn": "Slimed",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -256,13 +256,13 @@
         {
           "nome": "Estufa espectral",
           "nomeEn": "Ghouly Greens",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Broto do além",
           "nomeEn": "Ghost Plant",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -292,7 +292,7 @@
         {
           "nome": "Sem cabeça para escolher",
           "nomeEn": "Heady Choices",
-          "tenho": 1,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "BUUU-quê",
           "nomeEn": "BOO-quet",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -323,13 +323,13 @@
         {
           "nome": "Pacote tamanho alcateia",
           "nomeEn": "Family Pack",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Pega!",
           "nomeEn": "Fetch!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -359,7 +359,7 @@
         {
           "nome": "Uivos e tocaias",
           "nomeEn": "Howl N' Prowl",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -378,7 +378,7 @@
         {
           "nome": "Quarto assolado",
           "nomeEn": "Blighted Bedroom",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -396,7 +396,7 @@
         {
           "nome": "Disfarce demoníaco",
           "nomeEn": "Demonic Disguise",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -414,13 +414,13 @@
         {
           "nome": "Cadeira levitante",
           "nomeEn": "Chair Raising",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Mistério solucionado",
           "nomeEn": "Mystery Solved",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -439,7 +439,7 @@
         {
           "nome": "Entrada da Dama",
           "nomeEn": "Enter Undead Diva",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -457,19 +457,19 @@
         {
           "nome": "Feita para isso",
           "nomeEn": "Made for This",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Trovoada",
           "nomeEn": "Thunderhead",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Previsão de temporal",
           "nomeEn": "Stormy Skies",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -487,7 +487,7 @@
         {
           "nome": "Eu aceito!",
           "nomeEn": "I Do!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         }
       ]
@@ -506,13 +506,13 @@
         {
           "nome": "Letal",
           "nomeEn": "Takedown",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Bom garoto!",
           "nomeEn": "Nice Bob!",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -548,7 +548,7 @@
         {
           "nome": "Caça aos lanches",
           "nomeEn": "Snack Attack",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         }
       ]
@@ -573,25 +573,25 @@
         {
           "nome": "Pragas!",
           "nomeEn": "Curses!",
-          "tenho": 4,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Esquema de pirâmide",
           "nomeEn": "Pyramid Scheme",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Engessado",
           "nomeEn": "That's a Wrap!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
           "nome": "Críptico",
           "nomeEn": "Cryptic",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -603,7 +603,7 @@
         {
           "nome": "Garoto da tumba",
           "nomeEn": "Tomb Boy",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -646,19 +646,19 @@
         {
           "nome": "Subalterno maioral",
           "nomeEn": "Top Underling",
-          "tenho": 1,
+          "tenho": 4,
           "raridade": 3
         },
         {
           "nome": "Atolado",
           "nomeEn": "Swamped",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Plano de fuga",
           "nomeEn": "Exit Strategy",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -689,7 +689,7 @@
         {
           "nome": "Parque de assombração",
           "nomeEn": "Unamusement Park",
-          "tenho": 1,
+          "tenho": 4,
           "raridade": 3
         },
         {
@@ -701,13 +701,13 @@
         {
           "nome": "Margens uivantes",
           "nomeEn": "Shrieking Shores",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
           "nome": "Central Park Oeste, 550",
           "nomeEn": "550 Central Park West",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -731,7 +731,7 @@
         {
           "nome": "Castelo do Drácula",
           "nomeEn": "Dracula's Castle",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         }
       ]
@@ -774,7 +774,7 @@
         {
           "nome": "O cérebro celebre",
           "nomeEn": "Brainiac",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -817,7 +817,7 @@
         {
           "nome": "Canto em coro",
           "nomeEn": "Sing Along",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -835,7 +835,7 @@
         {
           "nome": "Diversão de arrepiar",
           "nomeEn": "Chilling",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -890,13 +890,13 @@
         {
           "nome": "Receitas repulsivas",
           "nomeEn": "Monstrous Mix-Ins",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
           "nome": "Truque do chapéu",
           "nomeEn": "Hat Trick",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -951,7 +951,7 @@
         {
           "nome": "Pegando poeira",
           "nomeEn": "Long-Term Parking",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -1024,7 +1024,7 @@
         {
           "nome": "Fila da agonia",
           "nomeEn": "Punchline",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
@@ -1049,7 +1049,7 @@
         {
           "nome": "Alçapão acima",
           "nomeEn": "Up the Hatch",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1110,7 +1110,7 @@
         {
           "nome": "Passeio na rua",
           "nomeEn": "Hit the Streets",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -1122,13 +1122,13 @@
         {
           "nome": "Suspeito número 1",
           "nomeEn": "Chief Suspect",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
           "nome": "Você viu um fantasma?",
           "nomeEn": "Seen a Ghost?",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
@@ -1140,7 +1140,7 @@
         {
           "nome": "Decorada",
           "nomeEn": "Adorned",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
@@ -1152,7 +1152,7 @@
         {
           "nome": "Visual da diva",
           "nomeEn": "Fit Check",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
@@ -1171,13 +1171,13 @@
         {
           "nome": "Entrada do Frankie",
           "nomeEn": "Enter Frankie",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 4
         },
         {
           "nome": "Compacto",
           "nomeEn": "Compact",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
@@ -1213,7 +1213,7 @@
         {
           "nome": "Criatura criadora",
           "nomeEn": "Self Made Man",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
@@ -1244,7 +1244,7 @@
         {
           "nome": "Essa coisa funciona!",
           "nomeEn": "The Pole Works!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
