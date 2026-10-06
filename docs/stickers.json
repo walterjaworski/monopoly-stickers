@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-06T13:50:00.964Z",
+  "atualizadoEm": "2026-10-06T14:26:10.492Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -640,7 +640,7 @@
         {
           "nome": "Lanchinho no lamaçal",
           "nomeEn": "Marsh Mellow",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
