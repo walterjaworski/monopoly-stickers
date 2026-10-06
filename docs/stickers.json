@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-06T11:40:47.446Z",
+  "atualizadoEm": "2026-10-06T13:50:00.964Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -164,7 +164,7 @@
         {
           "nome": "Paixão de matar",
           "nomeEn": "Heart Stopper",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -274,7 +274,7 @@
         {
           "nome": "Videira sinistra",
           "nomeEn": "Creeper Vine",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -329,7 +329,7 @@
         {
           "nome": "Pega!",
           "nomeEn": "Fetch!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -457,7 +457,7 @@
         {
           "nome": "Feita para isso",
           "nomeEn": "Made for This",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -524,7 +524,7 @@
         {
           "nome": "Batendo o pé",
           "nomeEn": "Feet of Strength",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -762,7 +762,7 @@
         {
           "nome": "Fome de cérebro",
           "nomeEn": "Brain Food",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -878,7 +878,7 @@
         {
           "nome": "Feitiço fracassado",
           "nomeEn": "Miss Spelled",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
