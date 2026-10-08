@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-07T11:50:10.579Z",
+  "atualizadoEm": "2026-10-08T11:52:52.131Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -12,7 +12,7 @@
         {
           "nome": "Sussurros do bosque",
           "nomeEn": "Woodland Whispers",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -24,7 +24,7 @@
         {
           "nome": "Nobresomem",
           "nomeEn": "Gentlewulf",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -48,7 +48,7 @@
         {
           "nome": "Diva arlequina",
           "nomeEn": "Harlequin Queen",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -73,7 +73,7 @@
         {
           "nome": "Mansão misteriosa",
           "nomeEn": "Mystery Mansion",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -85,25 +85,25 @@
         {
           "nome": "Chave-mestra",
           "nomeEn": "Master Key",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "O outro lado",
           "nomeEn": "The Other Side",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Galeria das anomalias",
           "nomeEn": "Hall O' Frame",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Atendimento domiciliar",
           "nomeEn": "House Call",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -121,7 +121,7 @@
         {
           "nome": "Lugares desconhecidos",
           "nomeEn": "Places Unknown",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 1
         }
       ]
@@ -140,7 +140,7 @@
         {
           "nome": "Reflexão sem reflexo",
           "nomeEn": "On Reflection",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -152,13 +152,13 @@
         {
           "nome": "Um dia ao sol",
           "nomeEn": "Day in the Sun",
-          "tenho": 3,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Vlad, o Nocauteador",
           "nomeEn": "Down for the Count",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -219,7 +219,7 @@
         {
           "nome": "Louca por ciência",
           "nomeEn": "Mad for Science",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -243,7 +243,7 @@
         {
           "nome": "Banho de geleia",
           "nomeEn": "Slimed",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -268,7 +268,7 @@
         {
           "nome": "Dedo verde",
           "nomeEn": "Green Thumb",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -292,7 +292,7 @@
         {
           "nome": "Sem cabeça para escolher",
           "nomeEn": "Heady Choices",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -329,7 +329,7 @@
         {
           "nome": "Pega!",
           "nomeEn": "Fetch!",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -378,7 +378,7 @@
         {
           "nome": "Quarto assolado",
           "nomeEn": "Blighted Bedroom",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -402,7 +402,7 @@
         {
           "nome": "Enxurrada de morcegos",
           "nomeEn": "Going Batty",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -414,7 +414,7 @@
         {
           "nome": "Cadeira levitante",
           "nomeEn": "Chair Raising",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -469,13 +469,13 @@
         {
           "nome": "Previsão de temporal",
           "nomeEn": "Stormy Skies",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "À primeira vista",
           "nomeEn": "At First Sight",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -536,7 +536,7 @@
         {
           "nome": "Mira letal",
           "nomeEn": "Deadly Aim",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -591,7 +591,7 @@
         {
           "nome": "Críptico",
           "nomeEn": "Cryptic",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -622,13 +622,13 @@
         {
           "nome": "Entrada do Swampie",
           "nomeEn": "Enter Swampie",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Brejinho feio",
           "nomeEn": "Ugly Muckling",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -646,7 +646,7 @@
         {
           "nome": "Subalterno maioral",
           "nomeEn": "Top Underling",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 3
         },
         {
@@ -658,7 +658,7 @@
         {
           "nome": "Plano de fuga",
           "nomeEn": "Exit Strategy",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -689,7 +689,7 @@
         {
           "nome": "Parque de assombração",
           "nomeEn": "Unamusement Park",
-          "tenho": 4,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -756,7 +756,7 @@
         {
           "nome": "Podridão cerebral",
           "nomeEn": "Brain Rot",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -866,7 +866,7 @@
         {
           "nome": "Entrada da Hexie",
           "nomeEn": "Enter Hexie",
-          "tenho": 0,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -878,7 +878,7 @@
         {
           "nome": "Feitiço fracassado",
           "nomeEn": "Miss Spelled",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -902,7 +902,7 @@
         {
           "nome": "Nos trinques",
           "nomeEn": "Buckle Up",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
@@ -1128,7 +1128,7 @@
         {
           "nome": "Você viu um fantasma?",
           "nomeEn": "Seen a Ghost?",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 9
         },
         {
@@ -1219,7 +1219,7 @@
         {
           "nome": "De apoio",
           "nomeEn": "Supportive",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 11
         }
       ]
