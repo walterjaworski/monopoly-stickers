@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-08T11:52:52.131Z",
+  "atualizadoEm": "2026-10-08T17:50:33.224Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -24,7 +24,7 @@
         {
           "nome": "Nobresomem",
           "nomeEn": "Gentlewulf",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -42,13 +42,13 @@
         {
           "nome": "Miss Milharal",
           "nomeEn": "Glam-O-Crow",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Diva arlequina",
           "nomeEn": "Harlequin Queen",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -60,7 +60,7 @@
         {
           "nome": "Apenas um zumbi",
           "nomeEn": "Just a Zombie",
-          "tenho": 6,
+          "tenho": 8,
           "raridade": 1
         }
       ]
@@ -85,7 +85,7 @@
         {
           "nome": "Chave-mestra",
           "nomeEn": "Master Key",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -103,13 +103,13 @@
         {
           "nome": "Atendimento domiciliar",
           "nomeEn": "House Call",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
           "nome": "HUNTR/X",
           "nomeEn": "HUNTR/X",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -146,7 +146,7 @@
         {
           "nome": "Aniversário secular",
           "nomeEn": "Long in the Tooth",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -158,7 +158,7 @@
         {
           "nome": "Vlad, o Nocauteador",
           "nomeEn": "Down for the Count",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -256,7 +256,7 @@
         {
           "nome": "Estufa espectral",
           "nomeEn": "Ghouly Greens",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -268,7 +268,7 @@
         {
           "nome": "Dedo verde",
           "nomeEn": "Green Thumb",
-          "tenho": 4,
+          "tenho": 6,
           "raridade": 2
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "BUUU-quê",
           "nomeEn": "BOO-quet",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         }
       ]
@@ -347,7 +347,7 @@
         {
           "nome": "O chamado da natureza",
           "nomeEn": "Call of the Wild",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -365,7 +365,7 @@
         {
           "nome": "Banho da Luna",
           "nomeEn": "Luna's Flea Bath",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         }
       ]
@@ -408,7 +408,7 @@
         {
           "nome": "Segurança em 1º lugar",
           "nomeEn": "Safety First",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -426,7 +426,7 @@
         {
           "nome": "Papão espantado",
           "nomeEn": "Boogey Boo!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         }
       ]
@@ -439,19 +439,19 @@
         {
           "nome": "Entrada da Dama",
           "nomeEn": "Enter Undead Diva",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
           "nome": "Colega de estudos",
           "nomeEn": "Study Buddy",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Lampejo de inspiração",
           "nomeEn": "Inspiration Strikes!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -500,7 +500,7 @@
         {
           "nome": "A brincadeira começou",
           "nomeEn": "Game On!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -591,7 +591,7 @@
         {
           "nome": "Críptico",
           "nomeEn": "Cryptic",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -652,7 +652,7 @@
         {
           "nome": "Atolado",
           "nomeEn": "Swamped",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -866,13 +866,13 @@
         {
           "nome": "Entrada da Hexie",
           "nomeEn": "Enter Hexie",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 3
         },
         {
           "nome": "Carinha familiar",
           "nomeEn": "Familiar Face",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -927,7 +927,7 @@
         {
           "nome": "A garagem",
           "nomeEn": "The Lock-Up",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -945,7 +945,7 @@
         {
           "nome": "Conversível do Rags",
           "nomeEn": "Rags' Roadster",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -994,7 +994,7 @@
         {
           "nome": "Astros da dança",
           "nomeEn": "Dance Idols",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1171,7 +1171,7 @@
         {
           "nome": "Entrada do Frankie",
           "nomeEn": "Enter Frankie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
