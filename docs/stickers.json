@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-13T13:38:03.147Z",
+  "atualizadoEm": "2026-10-13T14:04:19.320Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -30,7 +30,7 @@
         {
           "nome": "Retalhos",
           "nomeEn": "Patchwork",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 1
         },
         {
@@ -725,7 +725,7 @@
         {
           "nome": "A cabana na floresta",
           "nomeEn": "Cabin in the Woods",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -866,7 +866,7 @@
         {
           "nome": "Entrada da Hexie",
           "nomeEn": "Enter Hexie",
-          "tenho": 5,
+          "tenho": 4,
           "raridade": 3
         },
         {
@@ -896,7 +896,7 @@
         {
           "nome": "Truque do chapéu",
           "nomeEn": "Hat Trick",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -1061,7 +1061,7 @@
         {
           "nome": "Fulgor de fantasma",
           "nomeEn": "Ghostly Glow",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
