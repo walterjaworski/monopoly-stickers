@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-13T11:34:58.402Z",
+  "atualizadoEm": "2026-10-13T13:38:03.147Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -91,7 +91,7 @@
         {
           "nome": "O outro lado",
           "nomeEn": "The Other Side",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -243,7 +243,7 @@
         {
           "nome": "Banho de geleia",
           "nomeEn": "Slimed",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         }
       ]
@@ -384,7 +384,7 @@
         {
           "nome": "Historinha de fantasma",
           "nomeEn": "Ghost Story",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
