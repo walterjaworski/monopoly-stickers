@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-13T14:04:19.320Z",
+  "atualizadoEm": "2026-10-14T11:34:30.682Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -54,7 +54,7 @@
         {
           "nome": "Palhaço grita-grita",
           "nomeEn": "Screaming Clown",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -85,7 +85,7 @@
         {
           "nome": "Chave-mestra",
           "nomeEn": "Master Key",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -207,7 +207,7 @@
         {
           "nome": "Projeto animal!",
           "nomeEn": "Pet Project",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -396,13 +396,13 @@
         {
           "nome": "Disfarce demoníaco",
           "nomeEn": "Demonic Disguise",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
           "nome": "Enxurrada de morcegos",
           "nomeEn": "Going Batty",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         },
         {
@@ -420,7 +420,7 @@
         {
           "nome": "Mistério solucionado",
           "nomeEn": "Mystery Solved",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -506,7 +506,7 @@
         {
           "nome": "Letal",
           "nomeEn": "Takedown",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -609,7 +609,7 @@
         {
           "nome": "Fazendo a egípcia",
           "nomeEn": "Walk This Way",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         }
       ]
@@ -768,7 +768,7 @@
         {
           "nome": "Uma mente encantadora",
           "nomeEn": "A Beautiful Mind",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -939,7 +939,7 @@
         {
           "nome": "Caranga do Wolfie",
           "nomeEn": "Wolfie Wagon",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1207,7 +1207,7 @@
         {
           "nome": "O noivo",
           "nomeEn": "The Groom",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 10
         },
         {
