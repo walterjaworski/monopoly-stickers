@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-14T17:49:20.079Z",
+  "atualizadoEm": "2026-10-15T11:44:11.145Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -24,25 +24,25 @@
         {
           "nome": "Nobresomem",
           "nomeEn": "Gentlewulf",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
           "nome": "Retalhos",
           "nomeEn": "Patchwork",
-          "tenho": 9,
+          "tenho": 10,
           "raridade": 1
         },
         {
           "nome": "Cabeça no bosque",
           "nomeEn": "Neck of the Woods",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Miss Milharal",
           "nomeEn": "Glam-O-Crow",
-          "tenho": 7,
+          "tenho": 8,
           "raridade": 1
         },
         {
@@ -146,7 +146,7 @@
         {
           "nome": "Aniversário secular",
           "nomeEn": "Long in the Tooth",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -359,7 +359,7 @@
         {
           "nome": "Uivos e tocaias",
           "nomeEn": "Howl N' Prowl",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -396,7 +396,7 @@
         {
           "nome": "Disfarce demoníaco",
           "nomeEn": "Demonic Disguise",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -457,7 +457,7 @@
         {
           "nome": "Feita para isso",
           "nomeEn": "Made for This",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -744,7 +744,7 @@
         {
           "nome": "Entrada do Shambles",
           "nomeEn": "Enter Shambles",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
