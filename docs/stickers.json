@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-15T11:44:11.145Z",
+  "atualizadoEm": "2026-10-15T13:45:37.967Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -121,7 +121,7 @@
         {
           "nome": "Lugares desconhecidos",
           "nomeEn": "Places Unknown",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         }
       ]
@@ -304,7 +304,7 @@
         {
           "nome": "BUUU-quê",
           "nomeEn": "BOO-quet",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 2
         }
       ]
