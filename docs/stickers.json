@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-19T11:40:57.720Z",
+  "atualizadoEm": "2026-10-20T11:50:35.254Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -18,7 +18,7 @@
         {
           "nome": "Encantos de Krampus",
           "nomeEn": "Kute Krampus",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -91,7 +91,7 @@
         {
           "nome": "O outro lado",
           "nomeEn": "The Other Side",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -134,7 +134,7 @@
         {
           "nome": "Entrada do Drácula",
           "nomeEn": "Enter Dracula",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -195,7 +195,7 @@
         {
           "nome": "O laboratório",
           "nomeEn": "The Laboratory",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -304,7 +304,7 @@
         {
           "nome": "BUUU-quê",
           "nomeEn": "BOO-quet",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -408,7 +408,7 @@
         {
           "nome": "Segurança em 1º lugar",
           "nomeEn": "Safety First",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -756,7 +756,7 @@
         {
           "nome": "Podridão cerebral",
           "nomeEn": "Brain Rot",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -768,7 +768,7 @@
         {
           "nome": "Uma mente encantadora",
           "nomeEn": "A Beautiful Mind",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
