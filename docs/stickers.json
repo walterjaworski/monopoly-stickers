@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-20T11:50:35.254Z",
+  "atualizadoEm": "2026-10-21T11:38:29.454Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -18,13 +18,13 @@
         {
           "nome": "Encantos de Krampus",
           "nomeEn": "Kute Krampus",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Nobresomem",
           "nomeEn": "Gentlewulf",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -36,7 +36,7 @@
         {
           "nome": "Cabeça no bosque",
           "nomeEn": "Neck of the Woods",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -48,7 +48,7 @@
         {
           "nome": "Diva arlequina",
           "nomeEn": "Harlequin Queen",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -60,7 +60,7 @@
         {
           "nome": "Apenas um zumbi",
           "nomeEn": "Just a Zombie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         }
       ]
@@ -103,7 +103,7 @@
         {
           "nome": "Atendimento domiciliar",
           "nomeEn": "House Call",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -140,7 +140,7 @@
         {
           "nome": "Reflexão sem reflexo",
           "nomeEn": "On Reflection",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -195,7 +195,7 @@
         {
           "nome": "O laboratório",
           "nomeEn": "The Laboratory",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -207,7 +207,7 @@
         {
           "nome": "Projeto animal!",
           "nomeEn": "Pet Project",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -280,13 +280,13 @@
         {
           "nome": "Novas tentativas",
           "nomeEn": "Try, Try Again",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Papão botânico",
           "nomeEn": "Botanical Bogey",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -323,13 +323,13 @@
         {
           "nome": "Pacote tamanho alcateia",
           "nomeEn": "Family Pack",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Pega!",
           "nomeEn": "Fetch!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -347,19 +347,19 @@
         {
           "nome": "O chamado da natureza",
           "nomeEn": "Call of the Wild",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Caninos exemplares",
           "nomeEn": "Fine Canines",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
           "nome": "Uivos e tocaias",
           "nomeEn": "Howl N' Prowl",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -402,7 +402,7 @@
         {
           "nome": "Enxurrada de morcegos",
           "nomeEn": "Going Batty",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -445,7 +445,7 @@
         {
           "nome": "Colega de estudos",
           "nomeEn": "Study Buddy",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -463,7 +463,7 @@
         {
           "nome": "Trovoada",
           "nomeEn": "Thunderhead",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -500,7 +500,7 @@
         {
           "nome": "A brincadeira começou",
           "nomeEn": "Game On!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -512,7 +512,7 @@
         {
           "nome": "Bom garoto!",
           "nomeEn": "Nice Bob!",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -658,7 +658,7 @@
         {
           "nome": "Plano de fuga",
           "nomeEn": "Exit Strategy",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -701,7 +701,7 @@
         {
           "nome": "Margens uivantes",
           "nomeEn": "Shrieking Shores",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -725,7 +725,7 @@
         {
           "nome": "A cabana na floresta",
           "nomeEn": "Cabin in the Woods",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -792,7 +792,7 @@
         {
           "nome": "Morto de vergonha",
           "nomeEn": "Bashful Monster",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         }
       ]
@@ -896,7 +896,7 @@
         {
           "nome": "Truque do chapéu",
           "nomeEn": "Hat Trick",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1055,7 +1055,7 @@
         {
           "nome": "Estátua do Derpy",
           "nomeEn": "Derpy Statue",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -1116,7 +1116,7 @@
         {
           "nome": "Que doçura!",
           "nomeEn": "Sweet!",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
