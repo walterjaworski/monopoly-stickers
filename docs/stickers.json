@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-21T11:38:29.454Z",
+  "atualizadoEm": "2026-10-22T11:42:32.670Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -60,7 +60,7 @@
         {
           "nome": "Apenas um zumbi",
           "nomeEn": "Just a Zombie",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 1
         }
       ]
@@ -73,7 +73,7 @@
         {
           "nome": "Mansão misteriosa",
           "nomeEn": "Mystery Mansion",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -91,13 +91,13 @@
         {
           "nome": "O outro lado",
           "nomeEn": "The Other Side",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Galeria das anomalias",
           "nomeEn": "Hall O' Frame",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -121,7 +121,7 @@
         {
           "nome": "Lugares desconhecidos",
           "nomeEn": "Places Unknown",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         }
       ]
@@ -134,7 +134,7 @@
         {
           "nome": "Entrada do Drácula",
           "nomeEn": "Enter Dracula",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -146,7 +146,7 @@
         {
           "nome": "Aniversário secular",
           "nomeEn": "Long in the Tooth",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -158,25 +158,25 @@
         {
           "nome": "Vlad, o Nocauteador",
           "nomeEn": "Down for the Count",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Paixão de matar",
           "nomeEn": "Heart Stopper",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Dilema das capas",
           "nomeEn": "Cloak Conundrum",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
           "nome": "Príncipe da escuridão",
           "nomeEn": "Prince of Darkness",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -195,7 +195,7 @@
         {
           "nome": "O laboratório",
           "nomeEn": "The Laboratory",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
@@ -207,13 +207,13 @@
         {
           "nome": "Projeto animal!",
           "nomeEn": "Pet Project",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Inveja demoníaca",
           "nomeEn": "Jealousy & Pride",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -237,7 +237,7 @@
         {
           "nome": "Hora do espanto",
           "nomeEn": "Gone Ghoul",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -262,7 +262,7 @@
         {
           "nome": "Broto do além",
           "nomeEn": "Ghost Plant",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -280,7 +280,7 @@
         {
           "nome": "Novas tentativas",
           "nomeEn": "Try, Try Again",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -384,7 +384,7 @@
         {
           "nome": "Historinha de fantasma",
           "nomeEn": "Ghost Story",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -439,7 +439,7 @@
         {
           "nome": "Entrada da Dama",
           "nomeEn": "Enter Undead Diva",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -481,7 +481,7 @@
         {
           "nome": "Faça uma pose",
           "nomeEn": "Strike a Pose",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -561,7 +561,7 @@
         {
           "nome": "Entrada do Rags",
           "nomeEn": "Enter Rags",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -579,7 +579,7 @@
         {
           "nome": "Esquema de pirâmide",
           "nomeEn": "Pyramid Scheme",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -756,7 +756,7 @@
         {
           "nome": "Podridão cerebral",
           "nomeEn": "Brain Rot",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 3
         },
         {
@@ -841,7 +841,7 @@
         {
           "nome": "Evidência transparente",
           "nomeEn": "Clear Reading",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -878,7 +878,7 @@
         {
           "nome": "Feitiço fracassado",
           "nomeEn": "Miss Spelled",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -1049,7 +1049,7 @@
         {
           "nome": "Alçapão acima",
           "nomeEn": "Up the Hatch",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -1158,7 +1158,7 @@
         {
           "nome": "Cemitério dos doces",
           "nomeEn": "All Haul-O's Eve",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 11
         }
       ]
