@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-27T11:58:52.159Z",
+  "atualizadoEm": "2026-10-28T11:41:24.046Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -54,7 +54,7 @@
         {
           "nome": "Palhaço grita-grita",
           "nomeEn": "Screaming Clown",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -146,7 +146,7 @@
         {
           "nome": "Aniversário secular",
           "nomeEn": "Long in the Tooth",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -274,7 +274,7 @@
         {
           "nome": "Videira sinistra",
           "nomeEn": "Creeper Vine",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -323,7 +323,7 @@
         {
           "nome": "Pacote tamanho alcateia",
           "nomeEn": "Family Pack",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -567,7 +567,7 @@
         {
           "nome": "Insetos insanos",
           "nomeEn": "Bugging Out",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
