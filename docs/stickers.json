@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-28T11:41:24.046Z",
+  "atualizadoEm": "2026-10-29T11:47:01.009Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -36,7 +36,7 @@
         {
           "nome": "Cabeça no bosque",
           "nomeEn": "Neck of the Woods",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -48,7 +48,7 @@
         {
           "nome": "Diva arlequina",
           "nomeEn": "Harlequin Queen",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -109,13 +109,13 @@
         {
           "nome": "HUNTR/X",
           "nomeEn": "HUNTR/X",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Guia espiritual",
           "nomeEn": "Ghostly Guide",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -140,7 +140,7 @@
         {
           "nome": "Reflexão sem reflexo",
           "nomeEn": "On Reflection",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -152,7 +152,7 @@
         {
           "nome": "Um dia ao sol",
           "nomeEn": "Day in the Sun",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -164,13 +164,13 @@
         {
           "nome": "Paixão de matar",
           "nomeEn": "Heart Stopper",
-          "tenho": 1,
+          "tenho": 4,
           "raridade": 1
         },
         {
           "nome": "Dilema das capas",
           "nomeEn": "Cloak Conundrum",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -182,7 +182,7 @@
         {
           "nome": "Balada do Conde",
           "nomeEn": "Disco Drac",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -207,7 +207,7 @@
         {
           "nome": "Projeto animal!",
           "nomeEn": "Pet Project",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -256,7 +256,7 @@
         {
           "nome": "Estufa espectral",
           "nomeEn": "Ghouly Greens",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -280,7 +280,7 @@
         {
           "nome": "Novas tentativas",
           "nomeEn": "Try, Try Again",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -292,7 +292,7 @@
         {
           "nome": "Sem cabeça para escolher",
           "nomeEn": "Heady Choices",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -408,7 +408,7 @@
         {
           "nome": "Segurança em 1º lugar",
           "nomeEn": "Safety First",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -439,7 +439,7 @@
         {
           "nome": "Entrada da Dama",
           "nomeEn": "Enter Undead Diva",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -475,7 +475,7 @@
         {
           "nome": "À primeira vista",
           "nomeEn": "At First Sight",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -805,7 +805,7 @@
         {
           "nome": "Entrada do Godfrey",
           "nomeEn": "Enter Godfrey",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -829,7 +829,7 @@
         {
           "nome": "Saque à geladeira",
           "nomeEn": "Fridge Raider",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -927,7 +927,7 @@
         {
           "nome": "A garagem",
           "nomeEn": "The Lock-Up",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -945,7 +945,7 @@
         {
           "nome": "Conversível do Rags",
           "nomeEn": "Rags' Roadster",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 4
         },
         {
@@ -963,7 +963,7 @@
         {
           "nome": "Farol alto",
           "nomeEn": "High Beams",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
