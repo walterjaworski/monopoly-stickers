@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-10-29T11:47:01.009Z",
+  "atualizadoEm": "2026-10-30T12:02:36.908Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -12,13 +12,13 @@
         {
           "nome": "Sussurros do bosque",
           "nomeEn": "Woodland Whispers",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Encantos de Krampus",
           "nomeEn": "Kute Krampus",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -42,7 +42,7 @@
         {
           "nome": "Miss Milharal",
           "nomeEn": "Glam-O-Crow",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
@@ -54,13 +54,13 @@
         {
           "nome": "Palhaço grita-grita",
           "nomeEn": "Screaming Clown",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Apenas um zumbi",
           "nomeEn": "Just a Zombie",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         }
       ]
@@ -79,7 +79,7 @@
         {
           "nome": "No portão",
           "nomeEn": "At The Gates",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -97,7 +97,7 @@
         {
           "nome": "Galeria das anomalias",
           "nomeEn": "Hall O' Frame",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -158,19 +158,19 @@
         {
           "nome": "Vlad, o Nocauteador",
           "nomeEn": "Down for the Count",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Paixão de matar",
           "nomeEn": "Heart Stopper",
-          "tenho": 4,
+          "tenho": 5,
           "raridade": 1
         },
         {
           "nome": "Dilema das capas",
           "nomeEn": "Cloak Conundrum",
-          "tenho": 2,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -182,7 +182,7 @@
         {
           "nome": "Balada do Conde",
           "nomeEn": "Disco Drac",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         }
       ]
@@ -201,7 +201,7 @@
         {
           "nome": "Acionando o interruptor",
           "nomeEn": "Flip the Switch",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -213,7 +213,7 @@
         {
           "nome": "Inveja demoníaca",
           "nomeEn": "Jealousy & Pride",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -317,7 +317,7 @@
         {
           "nome": "Entrada do Wolfie",
           "nomeEn": "Enter Wolfie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -365,7 +365,7 @@
         {
           "nome": "Banho da Luna",
           "nomeEn": "Luna's Flea Bath",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -414,7 +414,7 @@
         {
           "nome": "Cadeira levitante",
           "nomeEn": "Chair Raising",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -445,7 +445,7 @@
         {
           "nome": "Colega de estudos",
           "nomeEn": "Study Buddy",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -463,7 +463,7 @@
         {
           "nome": "Trovoada",
           "nomeEn": "Thunderhead",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -567,7 +567,7 @@
         {
           "nome": "Insetos insanos",
           "nomeEn": "Bugging Out",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -774,7 +774,7 @@
         {
           "nome": "O cérebro celebre",
           "nomeEn": "Brainiac",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -817,7 +817,7 @@
         {
           "nome": "Canto em coro",
           "nomeEn": "Sing Along",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -988,7 +988,7 @@
         {
           "nome": "Teia sonora",
           "nomeEn": "DJ Spinner",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4
         },
         {
