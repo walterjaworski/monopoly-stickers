@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-11-10T12:06:03.352Z",
+  "atualizadoEm": "2026-11-11T12:11:58.203Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -12,19 +12,19 @@
         {
           "nome": "Sussurros do bosque",
           "nomeEn": "Woodland Whispers",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Encantos de Krampus",
           "nomeEn": "Kute Krampus",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Nobresomem",
           "nomeEn": "Gentlewulf",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -36,7 +36,7 @@
         {
           "nome": "Cabeça no bosque",
           "nomeEn": "Neck of the Woods",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -54,7 +54,7 @@
         {
           "nome": "Palhaço grita-grita",
           "nomeEn": "Screaming Clown",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -97,7 +97,7 @@
         {
           "nome": "Galeria das anomalias",
           "nomeEn": "Hall O' Frame",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1
         },
         {
@@ -115,7 +115,7 @@
         {
           "nome": "Guia espiritual",
           "nomeEn": "Ghostly Guide",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -158,7 +158,7 @@
         {
           "nome": "Vlad, o Nocauteador",
           "nomeEn": "Down for the Count",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -176,7 +176,7 @@
         {
           "nome": "Príncipe da escuridão",
           "nomeEn": "Prince of Darkness",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -218,7 +218,7 @@
         },
         {
           "nome": "Louca por ciência",
-          "nomeEn": "Mad for Science",
+          "nomeEn": "Mad for Science (Chocolate)",
           "tenho": 2,
           "raridade": 2
         },
@@ -231,7 +231,7 @@
         {
           "nome": "Armadilha",
           "nomeEn": "Ghost Trap",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -298,7 +298,7 @@
         {
           "nome": "Cochilo do cogumelo",
           "nomeEn": "Dirt Nap",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -317,7 +317,7 @@
         {
           "nome": "Entrada do Wolfie",
           "nomeEn": "Enter Wolfie",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -358,8 +358,8 @@
         },
         {
           "nome": "Uivos e tocaias",
-          "nomeEn": "Howl N' Prowl",
-          "tenho": 1,
+          "nomeEn": "Howl N' Prowl (Chocolate)",
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -480,7 +480,7 @@
         },
         {
           "nome": "Faça uma pose",
-          "nomeEn": "Strike a Pose",
+          "nomeEn": "Strike a Pose (Chocolate)",
           "tenho": 1,
           "raridade": 3
         },
@@ -750,7 +750,7 @@
         {
           "nome": "Madrugador da tumba",
           "nomeEn": "Early Riser",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -872,7 +872,7 @@
         {
           "nome": "Carinha familiar",
           "nomeEn": "Familiar Face",
-          "tenho": 1,
+          "tenho": 3,
           "raridade": 3
         },
         {
@@ -1067,7 +1067,7 @@
         {
           "nome": "Se comporte!",
           "nomeEn": "Be a Doll",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 9
         },
         {
