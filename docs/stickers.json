@@ -1,7 +1,7 @@
 {
   "album": "SpookyAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-11-16T12:00:25.057Z",
+  "atualizadoEm": "2026-11-17T12:22:25.138Z",
   "totalStickers": 198,
   "sets": [
     {
@@ -24,25 +24,25 @@
         {
           "nome": "Nobresomem",
           "nomeEn": "Gentlewulf",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Retalhos",
           "nomeEn": "Patchwork",
-          "tenho": 3,
+          "tenho": 2,
           "raridade": 1
         },
         {
           "nome": "Cabeça no bosque",
           "nomeEn": "Neck of the Woods",
-          "tenho": 4,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Miss Milharal",
           "nomeEn": "Glam-O-Crow",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -54,7 +54,7 @@
         {
           "nome": "Palhaço grita-grita",
           "nomeEn": "Screaming Clown",
-          "tenho": 6,
+          "tenho": 7,
           "raridade": 1
         },
         {
@@ -91,7 +91,7 @@
         {
           "nome": "O outro lado",
           "nomeEn": "The Other Side",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -115,7 +115,7 @@
         {
           "nome": "Guia espiritual",
           "nomeEn": "Ghostly Guide",
-          "tenho": 5,
+          "tenho": 6,
           "raridade": 1
         },
         {
@@ -146,13 +146,13 @@
         {
           "nome": "Aniversário secular",
           "nomeEn": "Long in the Tooth",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
           "nome": "Um dia ao sol",
           "nomeEn": "Day in the Sun",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 1
         },
         {
@@ -182,7 +182,7 @@
         {
           "nome": "Balada do Conde",
           "nomeEn": "Disco Drac",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         }
       ]
@@ -201,7 +201,7 @@
         {
           "nome": "Acionando o interruptor",
           "nomeEn": "Flip the Switch",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 1
         },
         {
@@ -231,7 +231,7 @@
         {
           "nome": "Armadilha",
           "nomeEn": "Ghost Trap",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 2
         },
         {
@@ -256,7 +256,7 @@
         {
           "nome": "Estufa espectral",
           "nomeEn": "Ghouly Greens",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -280,7 +280,7 @@
         {
           "nome": "Novas tentativas",
           "nomeEn": "Try, Try Again",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -323,7 +323,7 @@
         {
           "nome": "Pacote tamanho alcateia",
           "nomeEn": "Family Pack",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 2
         },
         {
@@ -512,7 +512,7 @@
         {
           "nome": "Bom garoto!",
           "nomeEn": "Nice Bob!",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 2
         },
         {
@@ -561,7 +561,7 @@
         {
           "nome": "Entrada do Rags",
           "nomeEn": "Enter Rags",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2
         },
         {
@@ -597,7 +597,7 @@
         {
           "nome": "Bem conservado",
           "nomeEn": "Preserves",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -634,7 +634,7 @@
         {
           "nome": "De boa na lagoa",
           "nomeEn": "Swamp Hang",
-          "tenho": 2,
+          "tenho": 1,
           "raridade": 3
         },
         {
@@ -689,7 +689,7 @@
         {
           "nome": "Parque de assombração",
           "nomeEn": "Unamusement Park",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -719,7 +719,7 @@
         {
           "nome": "O mundo demoníaco",
           "nomeEn": "The Demon World",
-          "tenho": 3,
+          "tenho": 4,
           "raridade": 3
         },
         {
@@ -823,7 +823,7 @@
         {
           "nome": "Aparição apavorante",
           "nomeEn": "Creepy Cameo",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 3
         },
         {
@@ -896,7 +896,7 @@
         {
           "nome": "Truque do chapéu",
           "nomeEn": "Hat Trick",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 4
         },
         {
@@ -1177,7 +1177,7 @@
         {
           "nome": "Compacto",
           "nomeEn": "Compact",
-          "tenho": 2,
+          "tenho": 3,
           "raridade": 9
         },
         {
@@ -1189,7 +1189,7 @@
         {
           "nome": "Imparável",
           "nomeEn": "Unstoppable",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 5
         },
         {
