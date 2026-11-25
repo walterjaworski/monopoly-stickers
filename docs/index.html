@@ -15,6 +15,7 @@
       <button class="lang-btn" data-lang="en" title="English">🇺🇸</button>
     </div>
     <p class="header-date"><span data-i18n="footer">Atualizado em:</span> <span id="atualizado-em">—</span></p>
+    <p class="header-date"><span data-i18n="album-fim">Álbum termina em:</span> <span id="album-fim">—</span></p>
   </header>
 
   <main>
@@ -22,7 +23,8 @@
       <div class="stats" id="stats">
         <strong id="stat-tenho">0</strong> <span data-i18n="stat-tenho">tenho</span> ·
         <strong id="stat-falta">0</strong> <span data-i18n="stat-falta">faltando</span> ·
-        <strong id="stat-dup">0</strong> <span data-i18n="stat-dup">duplicatas</span>
+        <strong id="stat-dup">0</strong> <span data-i18n="stat-dup">duplicatas</span> ·
+        <strong id="stat-holo">0/0</strong> <span data-i18n="stat-holo">holos</span>
       </div>
       <div class="barra-container">
         <div class="barra" id="barra-progresso"></div>
@@ -43,6 +45,10 @@
       <label class="checkbox-gold">
         <input type="checkbox" id="filtro-gold">
         <span data-i18n="filtro-gold">Dourada</span>
+      </label>
+      <label class="checkbox-gold">
+        <input type="checkbox" id="filtro-holo">
+        <span data-i18n="filtro-holo">Holo</span>
       </label>
       <select id="filtro-status">
         <option value="" data-i18n="filtro-status-all">Todos os status</option>

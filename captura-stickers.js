@@ -187,11 +187,10 @@ async function capturar() {
     console.log('✓ Dados salvos em docs/stickers.json!');
 
     console.log('');
-    console.log('→ Executando git add, commit e push...');
-    execSync('git add -A', { stdio: 'inherit' });
+    console.log('→ Executando git add e commit (sem push)...');
+    execSync('git add docs/stickers.json', { stdio: 'inherit' });
     execSync('git commit -m "Atualização stickers $(date +%d/%m/%Y)"', { stdio: 'inherit' });
-    execSync('git push', { stdio: 'inherit' });
-    console.log('✓ Git: commit e push realizados!');
+    console.log('✓ Git: commit local realizado. Publique com git push quando quiser.');
   } catch (err) {
     console.error('✗ Erro:', err.message);
   } finally {
@@ -219,25 +218,40 @@ function salvarDados(ptData, enLookup) {
     const setAnterior = traducoesAntigas[set.SetName];
     return {
       numero: setNum,
+      id: set.SetId,
       nome: set.SetName,
       nomeEn: enLookup.sets[setNum] || setAnterior?.nomeEn || set.SetName,
+      recompensas: (set.CompletionRewards || []).map(r => ({
+        tipo: r.CommodityKey,
+        quantidade: r.Quantity,
+      })),
       stickers: set.Stickers.map((s, j) => {
         const stickerNum = j + 1;
         const key = `${setNum}:${stickerNum}`;
         return {
+          id: s.StickerId,
           nome: s.StickerName,
           nomeEn: enLookup.stickers[key] || traducoesAntigas[s.StickerName] || s.StickerName,
           tenho: s.OwnedCount,
           raridade: s.Rarity,
+          holo: s.Holo ? {
+            tenho: s.Holo.OwnedCount,
+            commodityKey: s.Holo.CommodityKey,
+            tokenKey: s.Holo.TokenCommodityKey,
+            artKey: s.Holo.ArtKey,
+          } : null,
         };
       }),
     };
   });
 
   const simplified = {
+    schema: 2,
     album: ptData.Data.AlbumName,
     locale: ptData.Data.Locale,
     atualizadoEm: new Date().toISOString(),
+    inicio: ptData.Data.StartTime,
+    fim: ptData.Data.EndTime,
     totalStickers: sets.reduce((acc, s) => acc + s.stickers.length, 0),
     sets,
   };

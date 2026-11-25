@@ -1,8 +1,7 @@
 const RARIDADE_GOLD = [6, 7, 8, 9, 10, 11];
 
 function estrelas(raridade) {
-  if (raridade >= 9) return '⭐'.repeat(5);
-  return '⭐'.repeat(raridade);
+  return '⭐'.repeat(starCount(raridade));
 }
 
 function isGold(raridade) {
@@ -25,6 +24,10 @@ const i18n = {
     'filtro-status-falta': 'Faltando',
     'filtro-status-dup': 'Duplicatas',
     'footer': 'Atualizado em:',
+    'album-fim': 'Álbum termina em:',
+    'stat-holo': 'holos',
+    'filtro-holo': 'Holo',
+    'recompensa': 'Recompensa por completar o set',
     'error-load': 'Erro ao carregar stickers. Execute o script de captura primeiro.',
   },
   en: {
@@ -42,6 +45,10 @@ const i18n = {
     'filtro-status-falta': 'Missing',
     'filtro-status-dup': 'Duplicates',
     'footer': 'Updated:',
+    'album-fim': 'Album ends on:',
+    'stat-holo': 'holos',
+    'filtro-holo': 'Holo',
+    'recompensa': 'Set completion reward',
     'error-load': 'Error loading stickers. Run the capture script first.',
   },
 };
@@ -76,7 +83,7 @@ function aplicarTraducao() {
 
     const estrelasSet = new Set();
     dadosStickers.sets.forEach(s => s.stickers.forEach(st => estrelasSet.add(starCount(st.raridade))));
-    const maxStars = Math.max(...estrelasSet);
+    const maxStars = Math.max(6, ...estrelasSet);
     const selEstrelas = document.getElementById('filtro-estrelas');
     const currentEstrelas = selEstrelas.value;
     selEstrelas.innerHTML = `<option value="">${tr('filtro-estrelas-all')}</option>`;
@@ -97,6 +104,12 @@ function toggleLingua(l) {
     btn.classList.toggle('active', btn.dataset.lang === l);
   });
   aplicarTraducao();
+  if (dadosStickers?.fim) {
+    document.getElementById('album-fim').textContent =
+      new Date(dadosStickers.fim).toLocaleDateString(lingua === 'en' ? 'en-US' : 'pt-BR', {
+        day: '2-digit', month: 'short', year: 'numeric',
+      });
+  }
   if (typeof window.onChange === 'function') window.onChange();
 }
 
@@ -110,7 +123,8 @@ function nomeSetDisplay(set) {
 }
 
 function starCount(raridade) {
-  if (raridade >= 9) return 5;
+  // A API codifica as variantes ouro como 9/10/11 = 4/5/6 estrelas.
+  if (raridade >= 9) return raridade - 5;
   return raridade;
 }
 
@@ -121,6 +135,7 @@ function render(stickers, filtros) {
   const statusFiltro = filtros?.status || '';
   const estrelasFiltro = filtros?.estrelas || '';
   const goldFiltro = filtros?.gold || '';
+  const holoFiltro = filtros?.holo || '';
 
   const setsFiltrados = stickers.sets.filter(s => !setFiltro || s.nome === setFiltro);
 
@@ -129,6 +144,8 @@ function render(stickers, filtros) {
   let totalTenho = 0;
   let totalFalta = 0;
   let totalDup = 0;
+  let totalHolo = 0;
+  let totalHoloTenho = 0;
 
   for (const set of setsFiltrados) {
     set.stickers.forEach((s, i) => s.posicao = i + 1);
@@ -151,6 +168,10 @@ function render(stickers, filtros) {
       stickersSet = stickersSet.filter(s => isGold(s.raridade));
     }
 
+    if (holoFiltro) {
+      stickersSet = stickersSet.filter(s => Boolean(s.holo));
+    }
+
     if (statusFiltro === 'tenho') {
       stickersSet = stickersSet.filter(s => s.tenho >= 1);
     } else if (statusFiltro === 'falta') {
@@ -169,24 +190,40 @@ function render(stickers, filtros) {
       if (s.tenho >= 1) totalTenho++;
       if (s.tenho === 0) totalFalta++;
       if (s.tenho > 1) totalDup++;
+      if (s.holo) {
+        totalHolo++;
+        if (s.holo.tenho > 0) totalHoloTenho++;
+      }
     });
+
+    const fmt = new Intl.NumberFormat(lingua === 'en' ? 'en-US' : 'pt-BR', {
+      notation: 'compact',
+      maximumFractionDigits: 1,
+    });
+    const recompensas = (set.recompensas || []).map(r => {
+      const icon = r.tipo === 'rolls' ? '🎲' : r.tipo === 'currency_soft' ? '🪙' : '🎁';
+      return `${icon} ${fmt.format(r.quantidade)}`;
+    }).join(' · ');
 
     const div = document.createElement('div');
     div.className = 'set';
 
     div.innerHTML = `
       <div class="set-header">
-        <span>${nomeSetDisplay(set)}</span>
+        <span class="set-header-titulo">${nomeSetDisplay(set)}</span>
+        ${recompensas ? `<span class="set-recompensa" title="${tr('recompensa')}">${recompensas}</span>` : ''}
         <span class="set-progresso">${progressoSet}</span>
       </div>
       <div class="stickers-grid">
         ${stickersSet.map(s => {
           const cls = s.tenho === 0 ? 'falta' : s.tenho > 1 ? 'duplicata' : 'tem';
           const gold = isGold(s.raridade);
+          const holo = s.holo;
           return `
-            <div class="sticker ${cls} ${gold ? 'gold' : ''}">
+            <div class="sticker ${cls} ${gold ? 'gold' : ''} ${holo ? 'holo' : ''}">
               <span class="sticker-pos">${s.posicao}</span>
               ${s.tenho > 1 ? `<span class="badge-dup">+${s.tenho - 1}</span>` : ''}
+              ${holo ? `<span class="badge-holo">HOLO${holo.tenho > 0 ? ` ×${holo.tenho}` : ''}</span>` : ''}
               <div class="estrelas">${estrelas(s.raridade)}</div>
               <div class="sticker-nome">${nomeDisplay(s)}</div>
             </div>
@@ -201,6 +238,7 @@ function render(stickers, filtros) {
   document.getElementById('stat-tenho').textContent = totalTenho;
   document.getElementById('stat-falta').textContent = totalFalta;
   document.getElementById('stat-dup').textContent = totalDup;
+  document.getElementById('stat-holo').textContent = `${totalHoloTenho}/${totalHolo}`;
 
   const pct = totalStickers > 0 ? (totalTenho / totalStickers * 100) : 0;
   document.getElementById('barra-progresso').style.width = pct.toFixed(1) + '%';
@@ -217,6 +255,12 @@ async function main() {
       `Monopoly GO · ${data.locale.toUpperCase()}`;
     document.getElementById('atualizado-em').textContent =
       new Date(data.atualizadoEm).toLocaleString('pt-BR');
+    if (data.fim) {
+      document.getElementById('album-fim').textContent =
+        new Date(data.fim).toLocaleDateString(lingua === 'en' ? 'en-US' : 'pt-BR', {
+          day: '2-digit', month: 'short', year: 'numeric',
+        });
+    }
 
     function getFiltros() {
       return {
@@ -224,6 +268,7 @@ async function main() {
         set: document.getElementById('filtro-set').value,
         estrelas: document.getElementById('filtro-estrelas').value,
         gold: document.getElementById('filtro-gold').checked,
+        holo: document.getElementById('filtro-holo').checked,
         status: document.getElementById('filtro-status').value,
       };
     }
@@ -242,6 +287,7 @@ async function main() {
     document.getElementById('filtro-set').addEventListener('change', onChange);
     document.getElementById('filtro-estrelas').addEventListener('change', onChange);
     document.getElementById('filtro-gold').addEventListener('change', onChange);
+    document.getElementById('filtro-holo').addEventListener('change', onChange);
     document.getElementById('filtro-status').addEventListener('change', onChange);
 
     document.getElementById('btn-limpar-busca').addEventListener('click', () => {
