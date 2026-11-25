@@ -27,7 +27,6 @@ const i18n = {
     'album-fim': 'Álbum termina em:',
     'stat-holo': 'holos',
     'filtro-holo': 'Holo',
-    'recompensa': 'Recompensa por completar o set',
     'error-load': 'Erro ao carregar stickers. Execute o script de captura primeiro.',
   },
   en: {
@@ -48,7 +47,6 @@ const i18n = {
     'album-fim': 'Album ends on:',
     'stat-holo': 'holos',
     'filtro-holo': 'Holo',
-    'recompensa': 'Set completion reward',
     'error-load': 'Error loading stickers. Run the capture script first.',
   },
 };
@@ -196,22 +194,12 @@ function render(stickers, filtros) {
       }
     });
 
-    const fmt = new Intl.NumberFormat(lingua === 'en' ? 'en-US' : 'pt-BR', {
-      notation: 'compact',
-      maximumFractionDigits: 1,
-    });
-    const recompensas = (set.recompensas || []).map(r => {
-      const icon = r.tipo === 'rolls' ? '🎲' : r.tipo === 'currency_soft' ? '🪙' : '🎁';
-      return `${icon} ${fmt.format(r.quantidade)}`;
-    }).join(' · ');
-
     const div = document.createElement('div');
     div.className = 'set';
 
     div.innerHTML = `
       <div class="set-header">
-        <span class="set-header-titulo">${nomeSetDisplay(set)}</span>
-        ${recompensas ? `<span class="set-recompensa" title="${tr('recompensa')}">${recompensas}</span>` : ''}
+        <span>${nomeSetDisplay(set)}</span>
         <span class="set-progresso">${progressoSet}</span>
       </div>
       <div class="stickers-grid">

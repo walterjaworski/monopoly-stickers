@@ -12,16 +12,6 @@
       "id": "PancakesAlbum.1",
       "nome": "Marvel Con do MGO!",
       "nomeEn": "MGO! Marvel Con",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 525
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 24400000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.1.1",
@@ -102,16 +92,6 @@
       "id": "PancakesAlbum.2",
       "nome": "Trono do Destino",
       "nomeEn": "Doom's Throne",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 550
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 30000000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.2.1",
@@ -192,16 +172,6 @@
       "id": "PancakesAlbum.3",
       "nome": "Arsenal da Marvel",
       "nomeEn": "Marvel Armory",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 575
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 33400000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.3.1",
@@ -282,16 +252,6 @@
       "id": "PancakesAlbum.4",
       "nome": "Confronto do Spidey",
       "nomeEn": "Spidey Showdown",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 600
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 38000000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.4.1",
@@ -372,16 +332,6 @@
       "id": "PancakesAlbum.5",
       "nome": "Rodas e asas",
       "nomeEn": "Wheels & Wings",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 625
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 42000000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.5.1",
@@ -462,16 +412,6 @@
       "id": "PancakesAlbum.6",
       "nome": "Ajuda do H.E.R.B.I.E.",
       "nomeEn": "H.E.R.B.I.E. Helps",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 650
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 50500000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.6.1",
@@ -552,16 +492,6 @@
       "id": "PancakesAlbum.7",
       "nome": "Locais da Marvel",
       "nomeEn": "Marvel Landmarks",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 675
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 52100000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.7.1",
@@ -642,20 +572,6 @@
       "id": "PancakesAlbum.8",
       "nome": "Guardiões",
       "nomeEn": "Guardians",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 700
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 58800000000
-        },
-        {
-          "tipo": "EmojiPack_Pancakes_Emoji_06",
-          "quantidade": 1
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.8.1",
@@ -736,16 +652,6 @@
       "id": "PancakesAlbum.9",
       "nome": "Herói de aluguel",
       "nomeEn": "Hero for Hire",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 725
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 67300000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.9.1",
@@ -826,16 +732,6 @@
       "id": "PancakesAlbum.10",
       "nome": "Dia da Esquilo",
       "nomeEn": "Squirrel Girl's Day",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 750
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 76700000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.10.1",
@@ -916,16 +812,6 @@
       "id": "PancakesAlbum.11",
       "nome": "Viagem dos grandões",
       "nomeEn": "Big Guys Road-Trip",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 775
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 86800000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.11.1",
@@ -1006,20 +892,6 @@
       "id": "PancakesAlbum.12",
       "nome": "Jovens Vingadores",
       "nomeEn": "Young Avengers",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 800
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 97800000000
-        },
-        {
-          "tipo": "PancakesSetCompletionRewardBox_Emoji",
-          "quantidade": 1
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.12.1",
@@ -1100,16 +972,6 @@
       "id": "PancakesAlbum.13",
       "nome": "Malvadões",
       "nomeEn": "Big Bads",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 825
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 103000000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.13.1",
@@ -1200,16 +1062,6 @@
       "id": "PancakesAlbum.14",
       "nome": "X-Men dos anos 90",
       "nomeEn": "90s X-Men",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 850
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 111000000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.14.1",
@@ -1300,20 +1152,6 @@
       "id": "PancakesAlbum.15",
       "nome": "Wakanda fantástica",
       "nomeEn": "Wakanda FOUR-Ever",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 875
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 125000000000
-        },
-        {
-          "tipo": "EmojiPack_Pancakes_Emoji_02",
-          "quantidade": 1
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.15.1",
@@ -1409,16 +1247,6 @@
       "id": "PancakesAlbum.16",
       "nome": "Os Vingadores",
       "nomeEn": "The Avengers",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 900
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 137000000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.16.1",
@@ -1514,16 +1342,6 @@
       "id": "PancakesAlbum.17",
       "nome": "Heróis em ação",
       "nomeEn": "Heroes Unleashed",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 925
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 155000000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.17.1",
@@ -1614,20 +1432,6 @@
       "id": "PancakesAlbum.18",
       "nome": "X-Men em Doomsday",
       "nomeEn": "X-Men Doomsday",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 975
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 167000000000
-        },
-        {
-          "tipo": "PancakesSetCompletionRewardBox_Emoji",
-          "quantidade": 1
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.18.1",
@@ -1718,16 +1522,6 @@
       "id": "PancakesAlbum.19",
       "nome": "Poderes Poderosos",
       "nomeEn": "Power Moves",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 1125
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 176000000000
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.19.1",
@@ -1818,20 +1612,6 @@
       "id": "PancakesAlbum.20",
       "nome": "Mãos pesadas",
       "nomeEn": "Heavy Hitters",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 1325
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 188000000000
-        },
-        {
-          "tipo": "Pancakes_Shield_01",
-          "quantidade": 1
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.20.1",
@@ -1917,20 +1697,6 @@
       "id": "PancakesAlbum.21",
       "nome": "Novos Vingadores",
       "nomeEn": "New Avengers",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 1625
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 274000000000
-        },
-        {
-          "tipo": "FairyTalesSetCompletionRewardBox_FE",
-          "quantidade": 1
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.21.1",
@@ -2016,20 +1782,6 @@
       "id": "PancakesAlbum.22",
       "nome": "Além das estrelas",
       "nomeEn": "Beyond the Stars",
-      "recompensas": [
-        {
-          "tipo": "rolls",
-          "quantidade": 1900
-        },
-        {
-          "tipo": "currency_soft",
-          "quantidade": 337000000000
-        },
-        {
-          "tipo": "FairyTalesSetCompletionRewardBox_FE",
-          "quantidade": 1
-        }
-      ],
       "stickers": [
         {
           "id": "PancakesAlbum.22.1",

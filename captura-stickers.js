@@ -222,10 +222,6 @@ function salvarDados(ptData, enLookup) {
       id: set.SetId,
       nome: set.SetName,
       nomeEn: enLookup.sets[setNum] || setAnterior?.nomeEn || set.SetName,
-      recompensas: (set.CompletionRewards || []).map(r => ({
-        tipo: r.CommodityKey,
-        quantidade: r.Quantity,
-      })),
       stickers: set.Stickers.map((s, j) => {
         const stickerNum = j + 1;
         const key = `${setNum}:${stickerNum}`;
