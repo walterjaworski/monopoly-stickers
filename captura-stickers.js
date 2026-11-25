@@ -187,10 +187,11 @@ async function capturar() {
     console.log('✓ Dados salvos em docs/stickers.json!');
 
     console.log('');
-    console.log('→ Executando git add e commit (sem push)...');
-    execSync('git add docs/stickers.json', { stdio: 'inherit' });
+    console.log('→ Executando git add, commit e push...');
+    execSync('git add -A', { stdio: 'inherit' });
     execSync('git commit -m "Atualização stickers $(date +%d/%m/%Y)"', { stdio: 'inherit' });
-    console.log('✓ Git: commit local realizado. Publique com git push quando quiser.');
+    execSync('git push', { stdio: 'inherit' });
+    console.log('✓ Git: commit e push realizados!');
   } catch (err) {
     console.error('✗ Erro:', err.message);
   } finally {
