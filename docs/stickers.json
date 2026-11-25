@@ -1,1348 +1,2112 @@
 {
+  "schema": 2,
   "album": "PancakesAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-11-25T18:29:29.957Z",
+  "atualizadoEm": "2026-11-25T19:10:26.756Z",
+  "inicio": "2026-11-25T18:00:00Z",
+  "fim": "2027-01-27T21:00:00Z",
   "totalStickers": 198,
   "sets": [
     {
       "numero": 1,
+      "id": "PancakesAlbum.1",
       "nome": "Marvel Con do MGO!",
       "nomeEn": "Community Gallery",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 525
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 24400000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.1.1",
           "nome": "Evento GO!",
           "nomeEn": "Woodland Whispers",
           "tenho": 1,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.1.2",
           "nome": "Sofia, a Tempestuosa",
           "nomeEn": "Kute Krampus",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.1.3",
           "nome": "Encontro com o Duende",
           "nomeEn": "Gentlewulf",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.1.4",
           "nome": "Filhote do trovão",
           "nomeEn": "Patchwork",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.1.5",
           "nome": "Caça à fantasia",
           "nomeEn": "Neck of the Woods",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.1.6",
           "nome": "Lanche da Pantera",
           "nomeEn": "Glam-O-Crow",
           "tenho": 1,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.1.7",
           "nome": "Estande enorme",
           "nomeEn": "Harlequin Queen",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.1.8",
           "nome": "Supercliente",
           "nomeEn": "Screaming Clown",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.1.9",
           "nome": "Vitória do Sr. Destino",
           "nomeEn": "Just a Zombie",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         }
       ]
     },
     {
       "numero": 2,
+      "id": "PancakesAlbum.2",
       "nome": "Trono do Destino",
       "nomeEn": "Welcome To The Mansion",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 550
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 30000000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.2.1",
           "nome": "Primeiro feitiço",
           "nomeEn": "Mystery Mansion",
           "tenho": 1,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.2.2",
           "nome": "Artes ocultas do Destino",
           "nomeEn": "At The Gates",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.2.3",
           "nome": "Mãos da devastação",
           "nomeEn": "Master Key",
           "tenho": 1,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.2.4",
           "nome": "Executor",
           "nomeEn": "The Other Side",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.2.5",
           "nome": "Dominância do Destino",
           "nomeEn": "Hall O' Frame",
           "tenho": 1,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.2.6",
           "nome": "Defensor",
           "nomeEn": "House Call",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.2.7",
           "nome": "Alvo na mira",
           "nomeEn": "HUNTR/X",
-          "tenho": 0,
-          "raridade": 1
+          "tenho": 1,
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.2.8",
           "nome": "Defesa da posição",
           "nomeEn": "Ghostly Guide",
-          "tenho": 0,
-          "raridade": 1
+          "tenho": 1,
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.2.9",
           "nome": "Traga o trovão",
           "nomeEn": "Places Unknown",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         }
       ]
     },
     {
       "numero": 3,
+      "id": "PancakesAlbum.3",
       "nome": "Arsenal da Marvel",
       "nomeEn": "Dracula",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 575
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 33400000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.3.1",
           "nome": "Dez Anéis",
           "nomeEn": "Enter Dracula",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.3.2",
           "nome": "Mjolnir",
           "nomeEn": "On Reflection",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.3.3",
           "nome": "Visor do Ciclope",
           "nomeEn": "Long in the Tooth",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.3.4",
           "nome": "Escudo do Guardião Verm.",
           "nomeEn": "Day in the Sun",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.3.5",
           "nome": "Bastão bō do Gambit",
           "nomeEn": "Down for the Count",
           "tenho": 1,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.3.6",
           "nome": "Bastões da Yelena",
           "nomeEn": "Heart Stopper",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.3.7",
           "nome": "Knobkerrie do M'Baku",
           "nomeEn": "Cloak Conundrum",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.3.8",
           "nome": "Capacete quântico",
           "nomeEn": "Prince of Darkness",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.3.9",
           "nome": "Escudo do Capitão",
           "nomeEn": "Disco Drac",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         }
       ]
     },
     {
       "numero": 4,
+      "id": "PancakesAlbum.4",
       "nome": "Confronto do Spidey",
       "nomeEn": "Lurid Labs",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 600
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 38000000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.4.1",
           "nome": "Lagarto",
           "nomeEn": "The Laboratory",
           "tenho": 0,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.4.2",
           "nome": "Duende Macabro",
           "nomeEn": "Flip the Switch",
           "tenho": 1,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.4.3",
           "nome": "Homem-Areia",
           "nomeEn": "Pet Project",
           "tenho": 1,
-          "raridade": 1
+          "raridade": 1,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.4.4",
           "nome": "Otto Octavius",
           "nomeEn": "Jealousy & Pride",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.4.5",
           "nome": "Spidey",
           "nomeEn": "Mad for Science (Chocolate)",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.4.6",
           "nome": "J. Jonah Jameson",
           "nomeEn": "The Conductor",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.4.7",
           "nome": "Mary Jane",
           "nomeEn": "Ghost Trap",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.4.8",
           "nome": "Electro",
           "nomeEn": "Gone Ghoul",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.4.9",
           "nome": "Kraven",
           "nomeEn": "Slimed",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         }
       ]
     },
     {
       "numero": 5,
+      "id": "PancakesAlbum.5",
       "nome": "Rodas e asas",
       "nomeEn": "Grim Gardens",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 625
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 42000000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.5.1",
           "nome": "Aranha-Móvel",
           "nomeEn": "Ghouly Greens",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.5.2",
           "nome": "Motocicleta do Steve",
           "nomeEn": "Ghost Plant",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.5.3",
           "nome": "Jato do Pássaro Trovej.",
           "nomeEn": "Green Thumb",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.5.4",
           "nome": "Thanos-Cóptero",
           "nomeEn": "Creeper Vine",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.5.5",
           "nome": "Quinjet",
           "nomeEn": "Try, Try Again",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.5.6",
           "nome": "Fantasticarro",
           "nomeEn": "Botanical Bogey",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.5.7",
           "nome": "Planador do Duende",
           "nomeEn": "Heady Choices",
           "tenho": 1,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.5.8",
           "nome": "Bunker móvel",
           "nomeEn": "Dirt Nap",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.5.9",
           "nome": "Carro do Robbie Reyes",
           "nomeEn": "BOO-quet",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         }
       ]
     },
     {
       "numero": 6,
+      "id": "PancakesAlbum.6",
       "nome": "Ajuda do H.E.R.B.I.E.",
       "nomeEn": "Wolfie",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 650
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 50500000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.6.1",
           "nome": "Resumo matinal",
           "nomeEn": "Enter Wolfie",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.6.2",
           "nome": "Equipe gastronômica",
           "nomeEn": "Family Pack",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.6.3",
           "nome": "Amigos do repouso",
           "nomeEn": "Fetch!",
           "tenho": 1,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.6.4",
           "nome": "Truque do Gambit",
           "nomeEn": "I Beg You",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.6.5",
           "nome": "Caos das cartas",
           "nomeEn": "Beast in Show",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.6.6",
           "nome": "Varredura completa",
           "nomeEn": "Call of the Wild",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.6.7",
           "nome": "Travessura laboratorial",
           "nomeEn": "Fine Canines",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.6.8",
           "nome": "Gafe robótica",
           "nomeEn": "Howl N' Prowl (Chocolate)",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.6.9",
           "nome": "Reparo rápido",
           "nomeEn": "Luna's Flea Bath",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         }
       ]
     },
     {
       "numero": 7,
+      "id": "PancakesAlbum.7",
       "nome": "Locais da Marvel",
       "nomeEn": "Sleepless Night",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 675
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 52100000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.7.1",
           "nome": "Asgard",
           "nomeEn": "Blighted Bedroom",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.7.2",
           "nome": "Sanctum Sanctorum",
           "nomeEn": "Ghost Story",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.7.3",
           "nome": "K'un-Lun",
           "nomeEn": "Clowned",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.7.4",
           "nome": "Lugarnenhum",
           "nomeEn": "Demonic Disguise",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.7.5",
           "nome": "Klyntar",
           "nomeEn": "Going Batty",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.7.6",
           "nome": "Zona Negativa",
           "nomeEn": "Safety First",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.7.7",
           "nome": "Clarim Diário",
           "nomeEn": "Chair Raising",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.7.8",
           "nome": "Mansão Stark",
           "nomeEn": "Mystery Solved",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.7.9",
           "nome": "Edifício Baxter",
           "nomeEn": "Boogey Boo!",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         }
       ]
     },
     {
       "numero": 8,
+      "id": "PancakesAlbum.8",
       "nome": "Guardiões",
       "nomeEn": "Ms. Frankenstein",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 700
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 58800000000
+        },
+        {
+          "tipo": "EmojiPack_Pancakes_Emoji_06",
+          "quantidade": 1
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.8.1",
           "nome": "Rocket Raccoon",
           "nomeEn": "Enter Undead Diva",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.8.2",
           "nome": "Groot",
           "nomeEn": "Study Buddy",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.8.3",
           "nome": "Senhor das Estrelas",
           "nomeEn": "Inspiration Strikes!",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.8.4",
           "nome": "Gamora",
           "nomeEn": "Made for This",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.8.5",
           "nome": "Drax",
           "nomeEn": "Thunderhead",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.8.6",
           "nome": "Mantis",
           "nomeEn": "Stormy Skies",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.8.7",
           "nome": "Nebula",
           "nomeEn": "At First Sight",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.8.8",
           "nome": "Adam Warlock",
           "nomeEn": "Strike a Pose (Chocolate)",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.8.9",
           "nome": "Kraglin",
           "nomeEn": "I Do!",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         }
       ]
     },
     {
       "numero": 9,
+      "id": "PancakesAlbum.9",
       "nome": "Herói de aluguel",
       "nomeEn": "Halloween Games",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 725
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 67300000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.9.1",
           "nome": "Patrulha matinal",
           "nomeEn": "Game On!",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.9.2",
           "nome": "Sócios de heroísmo",
           "nomeEn": "Takedown",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.9.3",
           "nome": "Mudança via músculos",
           "nomeEn": "Nice Bob!",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.9.4",
           "nome": "Levantamentos do Luke",
           "nomeEn": "Stuck in Limbo",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.9.5",
           "nome": "Arremessos no Harlem",
           "nomeEn": "Feet of Strength",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.9.6",
           "nome": "Flexão com ostentação",
           "nomeEn": "Sugar Rush",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.9.7",
           "nome": "Quarteirão da confusão",
           "nomeEn": "Deadly Aim",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.9.8",
           "nome": "Ajuda do metrô",
           "nomeEn": "The Ringer",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.9.9",
           "nome": "Vigilância no terraço",
           "nomeEn": "Snack Attack",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         }
       ]
     },
     {
       "numero": 10,
+      "id": "PancakesAlbum.10",
       "nome": "Dia da Esquilo",
       "nomeEn": "The Mummy",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 750
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 76700000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.10.1",
           "nome": "De folga",
           "nomeEn": "Enter Rags",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.10.2",
           "nome": "Roubo do rango",
           "nomeEn": "Bugging Out",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.10.3",
           "nome": "Lotação da Esquilo",
           "nomeEn": "Curses!",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.10.4",
           "nome": "Clube de leitura",
           "nomeEn": "Pyramid Scheme",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.10.5",
           "nome": "Conselho secreto",
           "nomeEn": "That's a Wrap!",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.10.6",
           "nome": "Em busca da pipa",
           "nomeEn": "Cryptic",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.10.7",
           "nome": "Visita indesejada",
           "nomeEn": "Preserves",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.10.8",
           "nome": "Pequeno resgate",
           "nomeEn": "Tomb Boy",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.10.9",
           "nome": "Naninha das nozes",
           "nomeEn": "Walk This Way",
           "tenho": 1,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         }
       ]
     },
     {
       "numero": 11,
+      "id": "PancakesAlbum.11",
       "nome": "Viagem dos grandões",
       "nomeEn": "The Swamp Monster",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 775
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 86800000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.11.1",
           "nome": "Malas feitas",
           "nomeEn": "Enter Swampie",
           "tenho": 0,
-          "raridade": 2
+          "raridade": 2,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.11.2",
           "nome": "Vou na frente!",
           "nomeEn": "Ugly Muckling",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.11.3",
           "nome": "Navegador",
           "nomeEn": "Swamp Hang",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.11.4",
           "nome": "Minióculos",
           "nomeEn": "Marsh Mellow",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.11.5",
           "nome": "Postura da árvore",
           "nomeEn": "Top Underling",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.11.6",
           "nome": "Parada das lembrancinhas",
           "nomeEn": "Swamped",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.11.7",
           "nome": "Revés na rota",
           "nomeEn": "Exit Strategy",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.11.8",
           "nome": "Fera e os pássaros",
           "nomeEn": "Swampie",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.11.9",
           "nome": "Concerto do Colossus",
           "nomeEn": "Boggy Nights",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": null
         }
       ]
     },
     {
       "numero": 12,
+      "id": "PancakesAlbum.12",
       "nome": "Jovens Vingadores",
       "nomeEn": "Evil Deeds",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 800
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 97800000000
+        },
+        {
+          "tipo": "PancakesSetCompletionRewardBox_Emoji",
+          "quantidade": 1
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.12.1",
           "nome": "Hulkling",
           "nomeEn": "Witchy Wood",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.12.2",
           "nome": "America Chavez",
           "nomeEn": "Unamusement Park",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.12.3",
           "nome": "Wiccano",
           "nomeEn": "Soggy Bayou",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.12.4",
           "nome": "Prodígio",
           "nomeEn": "Shrieking Shores",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.12.5",
           "nome": "Célere",
           "nomeEn": "550 Central Park West",
           "tenho": 1,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.12.6",
           "nome": "Kate Bishop",
           "nomeEn": "MGO Mausoleum",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.12.7",
           "nome": "Patriota",
           "nomeEn": "The Demon World",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.12.8",
           "nome": "Estatura",
           "nomeEn": "Cabin in the Woods",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.12.9",
           "nome": "Kid Loki",
           "nomeEn": "Dracula's Castle",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         }
       ]
     },
     {
       "numero": 13,
+      "id": "PancakesAlbum.13",
       "nome": "Malvadões",
       "nomeEn": "The Zombie",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 825
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 103000000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.13.1",
           "nome": "Emma Frost",
           "nomeEn": "Enter Shambles",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.13.2",
           "nome": "Ultron",
           "nomeEn": "Early Riser",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.13.3",
           "nome": "Duende Verde",
           "nomeEn": "Brain Rot",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.13.4",
           "nome": "Apocalipse",
           "nomeEn": "Brain Food",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.13.5",
           "nome": "Doc Ock",
           "nomeEn": "A Beautiful Mind",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.13.6",
           "nome": "Fênix Negra",
           "nomeEn": "Brainiac",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_13_6",
+            "tokenKey": "Pancakes_Token_05",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.13.7",
           "nome": "Thanos",
           "nomeEn": "One Man's Trash",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_13_7",
+            "tokenKey": "Pancakes_Token_16",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.13.8",
           "nome": "Caveira Vermelha",
           "nomeEn": "Fresh to Death",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.13.9",
           "nome": "Hela",
           "nomeEn": "Bashful Monster",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         }
       ]
     },
     {
       "numero": 14,
+      "id": "PancakesAlbum.14",
       "nome": "X-Men dos anos 90",
       "nomeEn": "The Ghost",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 850
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 111000000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.14.1",
           "nome": "Jubileu",
           "nomeEn": "Enter Godfrey",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.14.2",
           "nome": "Psylocke",
           "nomeEn": "King of Swing",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.14.3",
           "nome": "Colossus",
           "nomeEn": "Sing Along",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.14.4",
           "nome": "Bishop",
           "nomeEn": "Creepy Cameo",
           "tenho": 1,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.14.5",
           "nome": "Vampira",
           "nomeEn": "Fridge Raider",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.14.6",
           "nome": "Wolverine",
           "nomeEn": "Chilling",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_14_6",
+            "tokenKey": "Pancakes_Token_13",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.14.7",
           "nome": "Tempestade",
           "nomeEn": "Clear Reading",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_14_7",
+            "tokenKey": "Pancakes_Token_02",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.14.8",
           "nome": "Homem de Gelo",
           "nomeEn": "Fudged",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.14.9",
           "nome": "Jean Grey",
           "nomeEn": "Thrown Off",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         }
       ]
     },
     {
       "numero": 15,
+      "id": "PancakesAlbum.15",
       "nome": "Wakanda fantástica",
       "nomeEn": "The Witch",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 875
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 125000000000
+        },
+        {
+          "tipo": "EmojiPack_Pancakes_Emoji_02",
+          "quantidade": 1
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.15.1",
           "nome": "Namor",
           "nomeEn": "Enter Hexie",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.15.2",
           "nome": "Coisa",
           "nomeEn": "Familiar Face",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.15.3",
           "nome": "H.E.R.B.I.E.",
           "nomeEn": "Miss Spelled",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.15.4",
           "nome": "Mulher Invisível",
           "nomeEn": "At Your Service",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_15_4",
+            "tokenKey": "Pancakes_Token_09",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.15.5",
           "nome": "Tocha Humana",
           "nomeEn": "Monstrous Mix-Ins",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_15_5",
+            "tokenKey": "Pancakes_Token_18",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.15.6",
           "nome": "Shuri",
           "nomeEn": "Hat Trick",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_15_6",
+            "tokenKey": "Pancakes_Token_19",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.15.7",
           "nome": "M'Baku",
           "nomeEn": "Buckle Up",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.15.8",
           "nome": "Sr. Fantástico",
           "nomeEn": "Witching Hour",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.15.9",
           "nome": "Uma nova equipe",
           "nomeEn": "Stir Crazy",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         }
       ]
     },
     {
       "numero": 16,
+      "id": "PancakesAlbum.16",
       "nome": "Os Vingadores",
       "nomeEn": "Ghastly Garage",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 900
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 137000000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.16.1",
           "nome": "Homem-Formiga",
           "nomeEn": "The Lock-Up",
           "tenho": 0,
-          "raridade": 3
+          "raridade": 3,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.16.2",
           "nome": "Falcão",
           "nomeEn": "Stay Golden",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.16.3",
           "nome": "Shang-Chi",
           "nomeEn": "Wolfie Wagon",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_16_3",
+            "tokenKey": "Pancakes_Token_14",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.16.4",
           "nome": "Thor",
           "nomeEn": "Rags' Roadster",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_16_4",
+            "tokenKey": "Pancakes_Token_04",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.16.5",
           "nome": "Capitão América",
           "nomeEn": "Long-Term Parking",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_16_5",
+            "tokenKey": "Pancakes_Token_20",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.16.6",
           "nome": "Guerreiros dignos",
           "nomeEn": "Franken-Coach",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.16.7",
           "nome": "Steve Rogers",
           "nomeEn": "High Beams",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.16.8",
           "nome": "Asas e anéis",
           "nomeEn": "Drac's Dragster",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.16.9",
           "nome": "Sala de reunião",
           "nomeEn": "Ecto-1",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         }
       ]
     },
     {
       "numero": 17,
+      "id": "PancakesAlbum.17",
       "nome": "Heróis em ação",
       "nomeEn": "Boogie Bash",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 925
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 155000000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.17.1",
           "nome": "X-23",
           "nomeEn": "DJ Spinner",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.17.2",
           "nome": "Homem de Ferro",
           "nomeEn": "Dance Idols",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_17_2",
+            "tokenKey": "Pancakes_Token_03",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.17.3",
           "nome": "Homem-Aranha (Miles)",
           "nomeEn": "Do The Worm",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_17_3",
+            "tokenKey": "Pancakes_Token_12",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.17.4",
           "nome": "Demolidor",
           "nomeEn": "Shredding",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.17.5",
           "nome": "Punho de Ferro",
           "nomeEn": "Electric BOO-galoo",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.17.6",
           "nome": "Misty Knight",
           "nomeEn": "Wall Flowers",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.17.7",
           "nome": "Aranha-Fantasma",
           "nomeEn": "Punchline",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.17.8",
           "nome": "Blade",
           "nomeEn": "To Be Free",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.17.9",
           "nome": "Gwenpool",
           "nomeEn": "Monster Mosh",
           "tenho": 0,
-          "raridade": 11
+          "raridade": 11,
+          "holo": null
         }
       ]
     },
     {
       "numero": 18,
+      "id": "PancakesAlbum.18",
       "nome": "X-Men em Doomsday",
       "nomeEn": "The Attic",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 975
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 167000000000
+        },
+        {
+          "tipo": "PancakesSetCompletionRewardBox_Emoji",
+          "quantidade": 1
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.18.1",
           "nome": "Ciclope",
           "nomeEn": "Up the Hatch",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_18_1",
+            "tokenKey": "Pancakes_Token_06",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.18.2",
           "nome": "Gambit",
           "nomeEn": "Derpy Statue",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_18_2",
+            "tokenKey": "Pancakes_Token_11",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.18.3",
           "nome": "Cérebro",
           "nomeEn": "Ghostly Glow",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.18.4",
           "nome": "Fera",
           "nomeEn": "Be a Doll",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.18.5",
           "nome": "Mansão X",
           "nomeEn": "Mr. Mannequin",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.18.6",
           "nome": "Noturno",
           "nomeEn": "Miss Mary",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.18.7",
           "nome": "Professor Xavier",
           "nomeEn": "Hats Off to Ya",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.18.8",
           "nome": "Mística",
           "nomeEn": "The Watcher",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.18.9",
           "nome": "Magneto",
           "nomeEn": "Tea Time",
           "tenho": 0,
-          "raridade": 11
+          "raridade": 11,
+          "holo": null
         }
       ]
     },
     {
       "numero": 19,
+      "id": "PancakesAlbum.19",
       "nome": "Poderes Poderosos",
       "nomeEn": "Trick Or Treat",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 1125
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 176000000000
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.19.1",
           "nome": "Capitão clássico",
           "nomeEn": "Hit the Streets",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_19_1",
+            "tokenKey": "Pancakes_Token_07",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.19.2",
           "nome": "Dr. Estranho",
           "nomeEn": "Sweet!",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_19_2",
+            "tokenKey": "Pancakes_Token_17",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.19.3",
           "nome": "Investida do Mercúrio",
           "nomeEn": "Chief Suspect",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.19.4",
           "nome": "Máquina de Combate ataca",
           "nomeEn": "Seen a Ghost?",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.19.5",
           "nome": "Ascensão de Rambeau",
           "nomeEn": "Snack Run",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.19.6",
           "nome": "Pequena, mas poderosa",
           "nomeEn": "Adorned",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.19.7",
           "nome": "Visão, o visionário",
           "nomeEn": "Triple Treat",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.19.8",
           "nome": "Metas elásticas",
           "nomeEn": "Fit Check",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.19.9",
           "nome": "Lançamento de teia ",
           "nomeEn": "All Haul-O's Eve",
           "tenho": 0,
-          "raridade": 11
+          "raridade": 11,
+          "holo": null
         }
       ]
     },
     {
       "numero": 20,
+      "id": "PancakesAlbum.20",
       "nome": "Mãos pesadas",
       "nomeEn": "Frankie Fun",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 1325
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 188000000000
+        },
+        {
+          "tipo": "Pancakes_Shield_01",
+          "quantidade": 1
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.20.1",
           "nome": "Hulk",
           "nomeEn": "Enter Frankie",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_20_1",
+            "tokenKey": "Pancakes_Token_08",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.20.2",
           "nome": "Luke Cage",
           "nomeEn": "Compact",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.20.3",
           "nome": "Valquíria",
           "nomeEn": "Body Builder",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.20.4",
           "nome": "Fanático",
           "nomeEn": "Unstoppable",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.20.5",
           "nome": "Titânia",
           "nomeEn": "Key To Happiness",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.20.6",
           "nome": "Brawn",
           "nomeEn": "Like a Glove",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.20.7",
           "nome": "Hércules",
           "nomeEn": "The Groom",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.20.8",
           "nome": "Magnum",
           "nomeEn": "Self Made Man",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.20.9",
           "nome": "Mulher-Hulk",
           "nomeEn": "Supportive",
           "tenho": 0,
-          "raridade": 11
+          "raridade": 11,
+          "holo": null
         }
       ]
     },
     {
       "numero": 21,
+      "id": "PancakesAlbum.21",
       "nome": "Novos Vingadores",
       "nomeEn": "Who You Gonna Call?",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 1625
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 274000000000
+        },
+        {
+          "tipo": "FairyTalesSetCompletionRewardBox_FE",
+          "quantidade": 1
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.21.1",
           "nome": "Sentinela",
           "nomeEn": "Shh!",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_21_1",
+            "tokenKey": "Pancakes_Token_15",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.21.2",
           "nome": "Vingadores na área",
           "nomeEn": "Off the Charts",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.21.3",
           "nome": "Fantasma",
           "nomeEn": "The Pole Works!",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.21.4",
           "nome": "John Walker",
           "nomeEn": "Goo Crew",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.21.5",
           "nome": "Frente unificada",
           "nomeEn": "We Have the Tools",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.21.6",
           "nome": "Guardião Vermelho",
           "nomeEn": "Terrace Terror",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.21.7",
           "nome": "Yelena",
           "nomeEn": "S'more Heat",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.21.8",
           "nome": "Torre dos Novos Vingad.",
           "nomeEn": "I Love This Town!",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.21.9",
           "nome": "Bucky",
           "nomeEn": "Big Town Heroes",
           "tenho": 0,
-          "raridade": 11
+          "raridade": 11,
+          "holo": null
         }
       ]
     },
     {
       "numero": 22,
+      "id": "PancakesAlbum.22",
       "nome": "Além das estrelas",
       "nomeEn": "Demons & Hunters",
+      "recompensas": [
+        {
+          "tipo": "rolls",
+          "quantidade": 1900
+        },
+        {
+          "tipo": "currency_soft",
+          "quantidade": 337000000000
+        },
+        {
+          "tipo": "FairyTalesSetCompletionRewardBox_FE",
+          "quantidade": 1
+        }
+      ],
       "stickers": [
         {
+          "id": "PancakesAlbum.22.1",
           "nome": "Capitã Marvel",
           "nomeEn": "How It's Done",
           "tenho": 0,
-          "raridade": 4
+          "raridade": 4,
+          "holo": {
+            "tenho": 0,
+            "commodityKey": "PancakesAlbum_holo_22_1",
+            "tokenKey": "Pancakes_Token_10",
+            "artKey": "pancakes"
+          }
         },
         {
+          "id": "PancakesAlbum.22.2",
           "nome": "Nova",
           "nomeEn": "Golden",
           "tenho": 0,
-          "raridade": 9
+          "raridade": 9,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.22.3",
           "nome": "Phyla-Vell",
           "nomeEn": "Newcomers",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.22.4",
           "nome": "Surfista Prateado",
           "nomeEn": "Easy on the Eyes",
           "tenho": 0,
-          "raridade": 5
+          "raridade": 5,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.22.5",
           "nome": "Ronan, o Acusador",
           "nomeEn": "Soda Pop",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.22.6",
           "nome": "Bill Raio Beta",
           "nomeEn": "Hello, Friend",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.22.7",
           "nome": "Marvel Azul",
           "nomeEn": "Torn",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.22.8",
           "nome": "Galactus",
           "nomeEn": "Voices Strong",
           "tenho": 0,
-          "raridade": 10
+          "raridade": 10,
+          "holo": null
         },
         {
+          "id": "PancakesAlbum.22.9",
           "nome": "Próxima Meia-Noite",
           "nomeEn": "Couch! Couch! Couch!",
           "tenho": 1,
-          "raridade": 11
+          "raridade": 11,
+          "holo": null
         }
       ]
     }
