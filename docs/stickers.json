@@ -2,7 +2,7 @@
   "schema": 2,
   "album": "PancakesAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-11-26T12:14:04.343Z",
+  "atualizadoEm": "2026-11-26T15:34:01.525Z",
   "inicio": "2026-11-25T18:00:00Z",
   "fim": "2027-01-27T21:00:00Z",
   "totalStickers": 198,
@@ -33,7 +33,7 @@
           "id": "PancakesAlbum.1.3",
           "nome": "Encontro com o Duende",
           "nomeEn": "Goblin Encounter",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1,
           "holo": null
         },
@@ -145,7 +145,7 @@
           "id": "PancakesAlbum.2.7",
           "nome": "Alvo na mira",
           "nomeEn": "Target Locked",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1,
           "holo": null
         },
@@ -153,7 +153,7 @@
           "id": "PancakesAlbum.2.8",
           "nome": "Defesa da posição",
           "nomeEn": "Hold the Line",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 1,
           "holo": null
         },
@@ -241,7 +241,7 @@
           "id": "PancakesAlbum.3.9",
           "nome": "Escudo do Capitão",
           "nomeEn": "Cap's Shield",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2,
           "holo": null
         }
@@ -417,7 +417,7 @@
           "id": "PancakesAlbum.6.1",
           "nome": "Resumo matinal",
           "nomeEn": "Morning Brief",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2,
           "holo": null
         },
@@ -537,7 +537,7 @@
           "id": "PancakesAlbum.7.6",
           "nome": "Zona Negativa",
           "nomeEn": "Negative Zone",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2,
           "holo": null
         },
@@ -545,7 +545,7 @@
           "id": "PancakesAlbum.7.7",
           "nome": "Clarim Diário",
           "nomeEn": "Daily Bugle",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 2,
           "holo": null
         },
@@ -841,7 +841,7 @@
           "id": "PancakesAlbum.11.4",
           "nome": "Minióculos",
           "nomeEn": "Tiny Tint",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3,
           "holo": null
         },
