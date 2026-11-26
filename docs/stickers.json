@@ -2,7 +2,7 @@
   "schema": 2,
   "album": "PancakesAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-11-25T19:10:37.583Z",
+  "atualizadoEm": "2026-11-26T12:14:04.343Z",
   "inicio": "2026-11-25T18:00:00Z",
   "fim": "2027-01-27T21:00:00Z",
   "totalStickers": 198,
@@ -217,7 +217,7 @@
           "id": "PancakesAlbum.3.6",
           "nome": "Bastões da Yelena",
           "nomeEn": "Yelena's Batons",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1,
           "holo": null
         },
@@ -1120,7 +1120,7 @@
           "id": "PancakesAlbum.14.7",
           "nome": "Tempestade",
           "nomeEn": "Storm (Super Sticker)",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 4,
           "holo": {
             "tenho": 0,
@@ -1165,7 +1165,7 @@
           "id": "PancakesAlbum.15.2",
           "nome": "Coisa",
           "nomeEn": "Thing",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3,
           "holo": null
         },
