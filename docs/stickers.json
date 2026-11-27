@@ -2,7 +2,7 @@
   "schema": 2,
   "album": "PancakesAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-11-26T15:34:01.525Z",
+  "atualizadoEm": "2026-11-27T11:57:13.367Z",
   "inicio": "2026-11-25T18:00:00Z",
   "fim": "2027-01-27T21:00:00Z",
   "totalStickers": 198,
@@ -185,7 +185,7 @@
           "id": "PancakesAlbum.3.2",
           "nome": "Mjolnir",
           "nomeEn": "Mjolnir",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1,
           "holo": null
         },
@@ -193,7 +193,7 @@
           "id": "PancakesAlbum.3.3",
           "nome": "Visor do Ciclope",
           "nomeEn": "Cyclops' Visor",
-          "tenho": 0,
+          "tenho": 2,
           "raridade": 1,
           "holo": null
         },
@@ -353,7 +353,7 @@
           "id": "PancakesAlbum.5.3",
           "nome": "Jato do Pássaro Trovej.",
           "nomeEn": "Thunderbird Jet",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2,
           "holo": null
         },
@@ -537,7 +537,7 @@
           "id": "PancakesAlbum.7.6",
           "nome": "Zona Negativa",
           "nomeEn": "Negative Zone",
-          "tenho": 1,
+          "tenho": 2,
           "raridade": 2,
           "holo": null
         },
@@ -593,7 +593,7 @@
           "id": "PancakesAlbum.8.3",
           "nome": "Senhor das Estrelas",
           "nomeEn": "Star-Lord",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 2,
           "holo": null
         },
@@ -641,7 +641,7 @@
           "id": "PancakesAlbum.8.9",
           "nome": "Kraglin",
           "nomeEn": "Kraglin",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3,
           "holo": null
         }
