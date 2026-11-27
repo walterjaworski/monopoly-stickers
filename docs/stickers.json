@@ -2,7 +2,7 @@
   "schema": 2,
   "album": "PancakesAlbum",
   "locale": "pt-br",
-  "atualizadoEm": "2026-11-27T11:57:13.367Z",
+  "atualizadoEm": "2026-11-27T16:33:33.772Z",
   "inicio": "2026-11-25T18:00:00Z",
   "fim": "2027-01-27T21:00:00Z",
   "totalStickers": 198,
@@ -65,7 +65,7 @@
           "id": "PancakesAlbum.1.7",
           "nome": "Estande enorme",
           "nomeEn": "Big Booth",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 1,
           "holo": null
         },
@@ -689,7 +689,7 @@
           "id": "PancakesAlbum.9.5",
           "nome": "Arremessos no Harlem",
           "nomeEn": "Harlem Hoops",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3,
           "holo": null
         },
@@ -977,7 +977,7 @@
           "id": "PancakesAlbum.13.1",
           "nome": "Emma Frost",
           "nomeEn": "Emma Frost",
-          "tenho": 0,
+          "tenho": 1,
           "raridade": 3,
           "holo": null
         },
